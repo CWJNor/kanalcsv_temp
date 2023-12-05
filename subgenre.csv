@@ -1,0 +1,2976 @@
+genre_name,subgenre_name,provider_name,subgenre_percentage
+Film,Action,C More Hits HD,0.19133395373354864
+Film,Animation,C More Hits HD,0.005083280154022928
+Film,Dokumentar,C More Hits HD,0.017957788113769725
+Film,Drama,C More Hits HD,0.2840583922367534
+Film,Familiefilm,C More Hits HD,0.020818819969906678
+Film,Fantasy,C More Hits HD,0.026768975536313723
+Film,Gyser,C More Hits HD,0.039986298241607675
+Film,Komedie,C More Hits HD,0.15753519988951942
+Film,Kortfilm,C More Hits HD,0.0007065702549086685
+Film,Krig,C More Hits HD,0.0001308797738397508
+Film,Krimi,C More Hits HD,0.06540260874980933
+Film,Musical,C More Hits HD,0.008532909944786787
+Film,Musik,C More Hits HD,0.001068610787923317
+Film,Romantik,C More Hits HD,0.005363182346214009
+Film,Science Fiction,C More Hits HD,0.0502425788911685
+Film,Thriller,C More Hits HD,0.12500995137590748
+Kultur & Historie,Film,C More Hits HD,0.04342658162154923
+Kultur & Historie,Historie,C More Hits HD,0.3182662849681081
+Kultur & Historie,Kunst,C More Hits HD,0.15450421040295984
+Kultur & Historie,Magasin,C More Hits HD,0.48380292300738287
+Underholdning,Underholdning,C More Hits HD,1.0
+Børn & Ungdom,Animation,C More Hits HD,1.0
+Dokumentar,Musik,C More Hits HD,0.15453614267525678
+Dokumentar,Samfund,C More Hits HD,0.8454638573247432
+Livsstil,Kendisser,C More Hits HD,1.0
+Børn & Ungdom,Animation,Cartoon Network,0.9999512846276939
+Børn & Ungdom,Småbørn,Cartoon Network,4.871537230606281e-05
+Serier,Action,NRK 1 HD,0.014198134648982483
+Serier,Drama,NRK 1 HD,0.2333100480417563
+Serier,Fantasy,NRK 1 HD,0.01045633491285642
+Serier,Komedie,NRK 1 HD,0.032267045195547454
+Serier,Krimi,NRK 1 HD,0.6806976257735907
+Serier,Romantik,NRK 1 HD,0.00946568935894481
+Serier,Thriller,NRK 1 HD,0.014823525251849653
+Serier,Ungdom,NRK 1 HD,0.004781596816472141
+Nyheder & Aktualitet,Aktuelt,NRK 1 HD,0.0610805685685174
+Nyheder & Aktualitet,Magasin,NRK 1 HD,0.019349505313804787
+Nyheder & Aktualitet,Nyheder,NRK 1 HD,0.8418159052255153
+Nyheder & Aktualitet,Politik,NRK 1 HD,0.07404484894488617
+Nyheder & Aktualitet,Samfund,NRK 1 HD,0.000422755529217707
+Nyheder & Aktualitet,Økonomi,NRK 1 HD,0.0032864164180585846
+Underholdning,Diverse,NRK 1 HD,0.006281736305614786
+Underholdning,Overnaturlig,NRK 1 HD,0.017824358904885512
+Underholdning,Quiz,NRK 1 HD,0.10104112827150308
+Underholdning,Spil og Lotteri,NRK 1 HD,0.010631759775915682
+Underholdning,Talentshow,NRK 1 HD,0.09122813966925224
+Underholdning,Talkshow,NRK 1 HD,0.15277823717480513
+Underholdning,Underholdning,NRK 1 HD,0.6202146398980236
+Livsstil,Forbrugerprogram,NRK 1 HD,0.0038180363773004417
+Livsstil,Kendisser,NRK 1 HD,0.41504062384755497
+Livsstil,Livsstil,NRK 1 HD,0.41095243691023275
+Livsstil,Sundhed,NRK 1 HD,0.17018890286491178
+Dokumentar,Kriminalprogram,NRK 1 HD,0.0070404071248650274
+Dokumentar,Musik,NRK 1 HD,0.14997230833160566
+Dokumentar,Raportage,NRK 1 HD,0.030158396792938275
+Dokumentar,Samfund,NRK 1 HD,0.812828887750591
+Natur & Videnskab,Miljø,NRK 1 HD,0.02180733053585265
+Natur & Videnskab,Natur,NRK 1 HD,0.8811254121457911
+Natur & Videnskab,Teknik,NRK 1 HD,0.03646017063649423
+Natur & Videnskab,Undervisning,NRK 1 HD,0.0016447154776498068
+Natur & Videnskab,Videnskab,NRK 1 HD,0.058962371204212244
+Fritid,Antikviteter,NRK 1 HD,0.010438125089618753
+Fritid,Hobby,NRK 1 HD,0.021359044553951306
+Fritid,Hus & Have,NRK 1 HD,0.5004412787598
+Fritid,Madlavning,NRK 1 HD,0.09824300609752537
+Fritid,Rejseprogram,NRK 1 HD,0.3695185454991045
+Humor & Satire,Humor,NRK 1 HD,1.0
+Reality,Docu-soap,NRK 1 HD,0.5582504170928788
+Reality,Reality,NRK 1 HD,0.44174958290712113
+Sport,Anden sport,NRK 1 HD,0.1333896280473443
+Sport,EM,NRK 1 HD,0.024273343879463536
+Sport,Fodbold,NRK 1 HD,0.3004015137930749
+Sport,Hestevæddeløb,NRK 1 HD,0.000364918226238305
+Sport,Motorsport,NRK 1 HD,0.004562082321817048
+Sport,NM,NRK 1 HD,0.024424638884570977
+Sport,OL,NRK 1 HD,0.000290018172146726
+Sport,Ridning,NRK 1 HD,0.00011010773575094272
+Sport,Sejlads,NRK 1 HD,0.0008433832680369708
+Sport,Skydning,NRK 1 HD,0.0027198546744532336
+Sport,Sportsdokumentar,NRK 1 HD,0.009791803581457714
+Sport,Sportsmagasin,NRK 1 HD,0.017017106040153895
+Sport,VM,NRK 1 HD,0.02633109808666509
+Sport,Vintersport,NRK 1 HD,0.45548050328882633
+Børn & Ungdom,Animation,NRK 1 HD,0.018395798889602435
+Børn & Ungdom,Blandede bolcher,NRK 1 HD,0.6123446331543398
+Børn & Ungdom,Børneserier,NRK 1 HD,0.11484887267471607
+Børn & Ungdom,Familieserie,NRK 1 HD,0.2054949042255531
+Børn & Ungdom,Skolebørn,NRK 1 HD,0.015752645809896413
+Børn & Ungdom,Småbørn,NRK 1 HD,0.029724465334614678
+Børn & Ungdom,Undervisning,NRK 1 HD,0.0034386799112775036
+Kultur & Historie,Arkitektur,NRK 1 HD,0.00771105074072614
+Kultur & Historie,Civilisation,NRK 1 HD,0.07663657437391237
+Kultur & Historie,Historie,NRK 1 HD,0.42670770765003296
+Kultur & Historie,Kultur,NRK 1 HD,0.07029934459480242
+Kultur & Historie,Kunst,NRK 1 HD,0.05454724449529381
+Kultur & Historie,Magasin,NRK 1 HD,0.32383066554667134
+Kultur & Historie,Religion,NRK 1 HD,0.04026741259856096
+Film,Action,NRK 1 HD,0.06261947995511874
+Film,Dokumentar,NRK 1 HD,0.08096601928582285
+Film,Drama,NRK 1 HD,0.33321560096801234
+Film,Familiefilm,NRK 1 HD,0.04088335224409451
+Film,Fantasy,NRK 1 HD,0.002291681514610061
+Film,Komedie,NRK 1 HD,0.27997854958351126
+Film,Kortfilm,NRK 1 HD,0.01336236066847596
+Film,Krig,NRK 1 HD,0.028372921892354356
+Film,Musik,NRK 1 HD,0.03198310078037637
+Film,Romantik,NRK 1 HD,0.02259972614610881
+Film,Thriller,NRK 1 HD,0.055276764613687523
+Film,Western,NRK 1 HD,0.048450442347827236
+Musik,Andet musik,NRK 1 HD,0.22925400318579767
+Musik,Country,NRK 1 HD,0.06560549473601779
+Musik,Danseband,NRK 1 HD,0.016905653351712735
+Musik,Folkemusik,NRK 1 HD,0.005185672674978368
+Musik,Jazz,NRK 1 HD,0.012703646916328859
+Musik,Klassisk,NRK 1 HD,0.1439257864208681
+Musik,Magasin,NRK 1 HD,0.0707465672809816
+Musik,Opera,NRK 1 HD,0.002425650675704935
+Musik,Populærmusik,NRK 1 HD,0.44605484623197617
+Musik,Religiøse sange,NRK 1 HD,0.007192678525633795
+Nyheder & Aktualitet,Aktuelt,TV2 OeST,0.0346838119261624
+Nyheder & Aktualitet,Magasin,TV2 OeST,0.0034027284263759305
+Nyheder & Aktualitet,Nyheder,TV2 OeST,0.6948322569720327
+Nyheder & Aktualitet,Politik,TV2 OeST,0.013067854120520441
+Nyheder & Aktualitet,Samfund,TV2 OeST,0.2540133485549086
+Fritid,Hobby,TV2 OeST,0.09897694829067832
+Fritid,Hus & Have,TV2 OeST,0.2928468580988106
+Fritid,Madlavning,TV2 OeST,0.5104018437031599
+Fritid,Motor,TV2 OeST,0.04823120079378318
+Fritid,Rejseprogram,TV2 OeST,0.04954314911356796
+Natur & Videnskab,Natur,TV2 OeST,0.9767581261925953
+Natur & Videnskab,Teknik,TV2 OeST,0.02324187380740472
+Kultur & Historie,Arkitektur,TV2 OeST,0.008884906530502742
+Kultur & Historie,Historie,TV2 OeST,0.38808371937132063
+Kultur & Historie,Kultur,TV2 OeST,0.45337258967883926
+Kultur & Historie,Kunst,TV2 OeST,0.07475255200897984
+Kultur & Historie,Magasin,TV2 OeST,0.07170587249511592
+Kultur & Historie,Religion,TV2 OeST,0.003200359915241564
+Dokumentar,Kriminalprogram,TV2 OeST,0.009116440656787806
+Dokumentar,Raportage,TV2 OeST,0.9136834641440245
+Dokumentar,Samfund,TV2 OeST,0.0772000951991877
+Musik,Andet musik,TV2 OeST,1.0
+Reality,Docu-soap,TV2 OeST,0.8937642715004374
+Reality,Reality,TV2 OeST,0.10623572849956268
+Livsstil,Kendisser,TV2 OeST,0.39561086249497396
+Livsstil,Livsstil,TV2 OeST,0.5836162419237373
+Livsstil,Sundhed,TV2 OeST,0.02077289558128878
+Sport,Anden sport,TV2 OeST,0.10363702372862423
+Sport,Cykling,TV2 OeST,0.6112378168548634
+Sport,Sportsmagasin,TV2 OeST,0.2851251594165123
+Underholdning,Talentshow,TV2 OeST,0.28907774244223916
+Underholdning,Underholdning,TV2 OeST,0.7109222575577608
+Film,Action,RTL2,0.4018181199107332
+Film,Animation,RTL2,0.009015371421079795
+Film,Dokumentar,RTL2,0.0030909013392499216
+Film,Drama,RTL2,0.07660784854961761
+Film,Familiefilm,RTL2,0.018756905309607417
+Film,Fantasy,RTL2,0.057174944986699755
+Film,Gyser,RTL2,0.056874359851516836
+Film,Komedie,RTL2,0.1346391865234257
+Film,Krig,RTL2,0.017764825216819265
+Film,Krimi,RTL2,0.018342677676262645
+Film,Musical,RTL2,0.00615601121524864
+Film,Romantik,RTL2,0.004922713643167503
+Film,Science Fiction,RTL2,0.08615279983249008
+Film,Thriller,RTL2,0.10200792907427636
+Film,Western,RTL2,0.006675405449805302
+Reality,Docu-soap,RTL2,0.7534453529533581
+Reality,Reality,RTL2,0.24655464704664187
+Fritid,Hus & Have,RTL2,0.6385882294371981
+Fritid,Madlavning,RTL2,0.00046179960564105346
+Fritid,Motor,RTL2,0.3576388684685582
+Fritid,Rejseprogram,RTL2,0.00331110248860272
+Serier,Animation,RTL2,0.02751498648918816
+Serier,Drama,RTL2,0.041401486983297466
+Serier,Fantasy,RTL2,0.3870114333947311
+Serier,Gyser,RTL2,0.031145783892430348
+Serier,Miniserie,RTL2,0.017488252603930915
+Serier,Sæbeopera,RTL2,0.495438056636422
+Livsstil,Forbrugerprogram,RTL2,0.007218094805041731
+Livsstil,Kendisser,RTL2,0.006410319515568964
+Livsstil,Livsstil,RTL2,0.9219304871582088
+Livsstil,Shopping,RTL2,0.04757386713905735
+Livsstil,Sundhed,RTL2,0.016867231382123208
+Dokumentar,Kriminalprogram,RTL2,0.2850084769218566
+Dokumentar,Musik,RTL2,0.0015914546786016765
+Dokumentar,Raportage,RTL2,0.4825033011931509
+Dokumentar,Samfund,RTL2,0.23089676720639088
+Børn & Ungdom,Undervisning,RTL2,1.0
+Nyheder & Aktualitet,Aktuelt,RTL2,0.9445271970825415
+Nyheder & Aktualitet,Vejret,RTL2,0.05547280291745852
+Musik,Magasin,RTL2,1.0
+Underholdning,Quiz,RTL2,0.12315628540316992
+Underholdning,Talkshow,RTL2,0.18165359613713608
+Underholdning,Underholdning,RTL2,0.695190118459694
+Kultur & Historie,Historie,RTL2,0.5443770531798401
+Kultur & Historie,Kunst,RTL2,0.4556229468201599
+Humor & Satire,Humor,RTL2,1.0
+Dokumentar,Musik,Arte HD,0.006464380159483098
+Dokumentar,Raportage,Arte HD,0.11235991331344398
+Dokumentar,Samfund,Arte HD,0.8811757065270729
+Film,Action,Arte HD,0.0360234164113395
+Film,Dokumentar,Arte HD,0.012142959049940583
+Film,Drama,Arte HD,0.7700765760231508
+Film,Fantasy,Arte HD,0.04410502444671152
+Film,Komedie,Arte HD,0.04892924857630385
+Film,Kortfilm,Arte HD,0.0005951253250903699
+Film,Krimi,Arte HD,0.03445299363422426
+Film,Musical,Arte HD,0.001760719579012054
+Film,Musik,Arte HD,0.001395720619006204
+Film,Romantik,Arte HD,0.0010853029122575796
+Film,Science Fiction,Arte HD,0.009418743370959276
+Film,Thriller,Arte HD,0.022819389368541262
+Film,Western,Arte HD,0.01719478068346266
+Kultur & Historie,Arkitektur,Arte HD,0.0008663308500569765
+Kultur & Historie,Civilisation,Arte HD,0.0005037762678754558
+Kultur & Historie,Film,Arte HD,0.0021424613553276267
+Kultur & Historie,Filosofi,Arte HD,0.0008344917791005257
+Kultur & Historie,Historie,Arte HD,0.11342566321555102
+Kultur & Historie,Kultur,Arte HD,0.027397007024623412
+Kultur & Historie,Kunst,Arte HD,0.009863436062266952
+Kultur & Historie,Magasin,Arte HD,0.8449668334451981
+Musik,Andet musik,Arte HD,0.219167656453603
+Musik,Klassisk,Arte HD,0.4087954581272078
+Musik,Magasin,Arte HD,0.0020180122003251883
+Musik,Opera,Arte HD,0.009402014937134115
+Musik,Populærmusik,Arte HD,0.3606168582817299
+Natur & Videnskab,Natur,Arte HD,0.9271090655771067
+Natur & Videnskab,Teknik,Arte HD,0.00018785516366881134
+Natur & Videnskab,Videnskab,Arte HD,0.07270307925922447
+Nyheder & Aktualitet,Aktuelt,Arte HD,0.026271728642853088
+Nyheder & Aktualitet,Magasin,Arte HD,0.4937406803535403
+Nyheder & Aktualitet,Nyheder,Arte HD,0.017342926872055766
+Nyheder & Aktualitet,Politik,Arte HD,0.08255594367708748
+Nyheder & Aktualitet,Samfund,Arte HD,0.38000552084247025
+Nyheder & Aktualitet,Økonomi,Arte HD,8.319961199312732e-05
+Fritid,Hus & Have,Arte HD,0.056598471223021585
+Fritid,Madlavning,Arte HD,0.47208924037240796
+Fritid,Rejseprogram,Arte HD,0.47131228840457046
+Underholdning,Talentshow,Arte HD,0.1617395237633679
+Underholdning,Underholdning,Arte HD,0.8382604762366321
+Livsstil,Kendisser,Arte HD,0.8504199783965047
+Livsstil,Livsstil,Arte HD,0.1253970045302852
+Livsstil,Sundhed,Arte HD,0.024183017073210054
+Serier,Animation,Arte HD,0.10129370165212459
+Serier,Drama,Arte HD,0.793010752688172
+Serier,Krimi,Arte HD,0.10569554565970336
+Børn & Ungdom,Skolebørn,Arte HD,0.9668129355802205
+Børn & Ungdom,Undervisning,Arte HD,0.03318706441977949
+Sport,Sportsdokumentar,Arte HD,1.0
+Natur & Videnskab,Natur,NatGeo Wild HD,1.0
+Humor & Satire,Humor,NatGeo Wild HD,1.0
+Dokumentar,Samfund,NatGeo Wild HD,1.0
+Reality,Reality,NatGeo Wild HD,1.0
+Fritid,Hobby,NatGeo Wild HD,1.0
+Dokumentar,Kriminalprogram,National Geographic,0.060544673763774086
+Dokumentar,Samfund,National Geographic,0.939455326236226
+Reality,Docu-soap,National Geographic,0.6848118005501092
+Reality,Reality,National Geographic,0.3151881994498909
+Underholdning,Underholdning,National Geographic,1.0
+Nyheder & Aktualitet,Aktuelt,National Geographic,0.8979427999293957
+Nyheder & Aktualitet,Samfund,National Geographic,0.10205720007060427
+Natur & Videnskab,Miljø,National Geographic,0.007864249685682967
+Natur & Videnskab,Natur,National Geographic,0.33362022746636505
+Natur & Videnskab,Teknik,National Geographic,0.6474519357628802
+Natur & Videnskab,Videnskab,National Geographic,0.011063587085071842
+Kultur & Historie,Historie,National Geographic,1.0
+Fritid,Hobby,National Geographic,0.20979891430061412
+Fritid,Motor,National Geographic,0.7806898112269898
+Fritid,Rejseprogram,National Geographic,0.009511274472396095
+Humor & Satire,Humor,National Geographic,1.0
+Livsstil,Sundhed,National Geographic,1.0
+Film,Dokumentar,National Geographic,1.0
+Reality,Docu-soap,Discovery Channel HD,0.2927850475942506
+Reality,Reality,Discovery Channel HD,0.7072149524057494
+Fritid,Antikviteter,Discovery Channel HD,0.01635559449448698
+Fritid,Hobby,Discovery Channel HD,0.05285951341495842
+Fritid,Hus & Have,Discovery Channel HD,0.006789264908550284
+Fritid,Motor,Discovery Channel HD,0.8946290293840586
+Fritid,Rejseprogram,Discovery Channel HD,0.029366597797945725
+Dokumentar,Kriminalprogram,Discovery Channel HD,0.008645820235064492
+Dokumentar,Samfund,Discovery Channel HD,0.9913541797649356
+Natur & Videnskab,Natur,Discovery Channel HD,0.34754273571394884
+Natur & Videnskab,Teknik,Discovery Channel HD,0.6524572642860512
+Underholdning,Underholdning,Discovery Channel HD,1.0
+Livsstil,Kendisser,Discovery Channel HD,0.036871587549873554
+Livsstil,Livsstil,Discovery Channel HD,0.9631284124501265
+Kultur & Historie,Historie,Discovery Channel HD,0.8922709365906978
+Kultur & Historie,Kultur,Discovery Channel HD,0.10772906340930223
+Børn & Ungdom,Animation,Boomerang,1.0
+Film,Animation,Boomerang,0.5310254361448901
+Film,Familiefilm,Boomerang,0.4451507444681506
+Film,Kortfilm,Boomerang,0.02382381938695932
+Nyheder & Aktualitet,Aktuelt,Kosmopol,0.0006696149952151783
+Nyheder & Aktualitet,Nyheder,Kosmopol,0.8031183280698935
+Nyheder & Aktualitet,Politik,Kosmopol,0.003846009507640622
+Nyheder & Aktualitet,Samfund,Kosmopol,0.19153293572675037
+Nyheder & Aktualitet,Økonomi,Kosmopol,0.0008331117005003463
+Dokumentar,Raportage,Kosmopol,0.9907316405581372
+Dokumentar,Samfund,Kosmopol,0.00926835944186272
+Livsstil,Kendisser,Kosmopol,0.004516736478790728
+Livsstil,Livsstil,Kosmopol,0.9407303292981627
+Livsstil,Mode,Kosmopol,0.01892809979471841
+Livsstil,Sundhed,Kosmopol,0.03582483442832815
+Kultur & Historie,Arkitektur,Kosmopol,0.4776350151801918
+Kultur & Historie,Historie,Kosmopol,0.0024616815482142408
+Kultur & Historie,Kultur,Kosmopol,0.31238504197817657
+Kultur & Historie,Magasin,Kosmopol,0.1824876102650414
+Kultur & Historie,Religion,Kosmopol,0.025030651028376
+Musik,Andet musik,Kosmopol,0.4004267239122467
+Musik,Jazz,Kosmopol,0.5995732760877532
+Underholdning,Quiz,Kosmopol,0.5842371944683032
+Underholdning,Underholdning,Kosmopol,0.41576280553169676
+Fritid,Hobby,Kosmopol,0.051788389777216594
+Fritid,Hus & Have,Kosmopol,0.5280208995292794
+Fritid,Madlavning,Kosmopol,0.4011760548073397
+Fritid,Rejseprogram,Kosmopol,0.019014655886164265
+Sport,Motorsport,Kosmopol,1.0
+Natur & Videnskab,Teknik,Kosmopol,0.15364164219421955
+Natur & Videnskab,Videnskab,Kosmopol,0.8463583578057804
+Film,Komedie,Kosmopol,1.0
+Nyheder & Aktualitet,Aktuelt,TV 2,0.06237345838722555
+Nyheder & Aktualitet,Magasin,TV 2,0.012119309468763254
+Nyheder & Aktualitet,Nyheder,TV 2,0.8464215884029899
+Nyheder & Aktualitet,Politik,TV 2,0.004980369193897325
+Nyheder & Aktualitet,Vejret,TV 2,0.07318929689294763
+Nyheder & Aktualitet,Økonomi,TV 2,0.0009159776541763563
+Fritid,Antikviteter,TV 2,0.043636677568771716
+Fritid,Hobby,TV 2,0.028337502360951106
+Fritid,Hus & Have,TV 2,0.5512004285580667
+Fritid,Madlavning,TV 2,0.004656704300060595
+Fritid,Rejseprogram,TV 2,0.3721686872121499
+Underholdning,Quiz,TV 2,0.04916034036050079
+Underholdning,Talentshow,TV 2,0.016370636330475398
+Underholdning,Talkshow,TV 2,0.8479092058481625
+Underholdning,Underholdning,TV 2,0.08655981746086124
+Sport,Amerikansk fodbold,TV 2,0.004213402931190693
+Sport,Cykling,TV 2,0.2984097477799288
+Sport,Fodbold,TV 2,0.23926353620759408
+Sport,Håndbold,TV 2,0.1547434262012175
+Sport,Motorsport,TV 2,0.018620356360048624
+Sport,Sejlads,TV 2,0.0007196174674360821
+Sport,Sportsdokumentar,TV 2,0.010124117672874597
+Sport,Sportsmagasin,TV 2,0.21137780234058753
+Sport,Sportsnyheder,TV 2,0.011401379338891049
+Sport,VM,TV 2,0.05112661370023107
+Livsstil,Forbrugerprogram,TV 2,0.005704416796088688
+Livsstil,Kendisser,TV 2,0.2264830835983571
+Livsstil,Livsstil,TV 2,0.5326515353741778
+Livsstil,Sundhed,TV 2,0.23516096423137647
+Reality,Docu-soap,TV 2,0.38517850894133904
+Reality,Reality,TV 2,0.614821491058661
+Dokumentar,Kriminalprogram,TV 2,0.14628199104109055
+Dokumentar,Raportage,TV 2,0.2778888750685471
+Dokumentar,Samfund,TV 2,0.5758291338903624
+Film,Action,TV 2,0.25993068968357314
+Film,Dokumentar,TV 2,0.009836114483524408
+Film,Drama,TV 2,0.21795957162887164
+Film,Familiefilm,TV 2,0.025099744298789334
+Film,Fantasy,TV 2,0.03210208561102263
+Film,Komedie,TV 2,0.27900390805980657
+Film,Kortfilm,TV 2,0.000503407209399472
+Film,Krig,TV 2,0.013531547610458381
+Film,Krimi,TV 2,0.02862273111268837
+Film,Musical,TV 2,0.0011569740954368427
+Film,Romantik,TV 2,0.008279884321102833
+Film,Science Fiction,TV 2,0.04291713571557578
+Film,Thriller,TV 2,0.08105620616975058
+Serier,Drama,TV 2,0.5861134074361845
+Serier,Fantasy,TV 2,0.18749750584369168
+Serier,Komedie,TV 2,0.03303946135366173
+Serier,Krimi,TV 2,0.17163184773613405
+Serier,Thriller,TV 2,0.021717777630328085
+Natur & Videnskab,Miljø,TV 2,0.6355100978933473
+Natur & Videnskab,Natur,TV 2,0.09712447750842199
+Natur & Videnskab,Teknik,TV 2,0.15207178802536403
+Natur & Videnskab,Videnskab,TV 2,0.11529363657286669
+Humor & Satire,Humor,TV 2,1.0
+Kultur & Historie,Civilisation,TV 2,0.12292020600579745
+Kultur & Historie,Historie,TV 2,0.7537218802108089
+Kultur & Historie,Kunst,TV 2,0.1233579137833937
+Musik,Andet musik,TV 2,0.2410268878958356
+Musik,Populærmusik,TV 2,0.7589731121041644
+Børn & Ungdom,Familieserie,TV 2,1.0
+Nyheder & Aktualitet,Aktuelt,CNN,0.0003386891812001775
+Nyheder & Aktualitet,Magasin,CNN,0.5095895837709982
+Nyheder & Aktualitet,Nyheder,CNN,0.327213002096315
+Nyheder & Aktualitet,Politik,CNN,0.027028948829626795
+Nyheder & Aktualitet,Samfund,CNN,0.06674560729278982
+Nyheder & Aktualitet,Økonomi,CNN,0.06908416882907004
+Sport,Nyheder,CNN,0.9459314309861504
+Sport,Sportsmagasin,CNN,0.05406856901384962
+Kultur & Historie,Kultur,CNN,0.014783979350773123
+Kultur & Historie,Magasin,CNN,0.9852160206492269
+Underholdning,Talkshow,CNN,0.03773143262113621
+Underholdning,Underholdning,CNN,0.9622685673788638
+Fritid,Hobby,CNN,0.5880216392674324
+Fritid,Madlavning,CNN,0.4119783607325676
+Natur & Videnskab,Natur,CNN,0.2410076902129889
+Natur & Videnskab,Videnskab,CNN,0.758992309787011
+Dokumentar,Raportage,CNN,0.28003213685374867
+Dokumentar,Samfund,CNN,0.7199678631462513
+Musik,Andet musik,CNN,1.0
+Livsstil,Sundhed,CNN,1.0
+Musik,Populærmusik,MTV 90s,1.0
+Børn & Ungdom,Animation,Nick Jr,0.25811290719795266
+Børn & Ungdom,Blandede bolcher,Nick Jr,0.0010372363133200621
+Børn & Ungdom,Småbørn,Nick Jr,0.7408498564887273
+Film,Animation,Nick Jr,0.3609774003141793
+Film,Familiefilm,Nick Jr,0.6390225996858206
+Nyheder & Aktualitet,Aktuelt,TV 2 News,0.11287628514076563
+Nyheder & Aktualitet,Magasin,TV 2 News,0.04844003754516495
+Nyheder & Aktualitet,Nyheder,TV 2 News,0.7705758129405252
+Nyheder & Aktualitet,Politik,TV 2 News,0.003300778419390569
+Nyheder & Aktualitet,Vejret,TV 2 News,0.0648070859541536
+Sport,Sportsmagasin,TV 2 News,0.9357745949235956
+Sport,Sportsnyheder,TV 2 News,0.06422540507640441
+Kultur & Historie,Magasin,TV 2 News,1.0
+Natur & Videnskab,Natur,TV 2 News,1.0
+Underholdning,Underholdning,TV 2 News,1.0
+Livsstil,Kendisser,TV 2 News,1.0
+Nyheder & Aktualitet,Aktuelt,DR 1,0.02090096968210793
+Nyheder & Aktualitet,Magasin,DR 1,0.763099849382111
+Nyheder & Aktualitet,Nyheder,DR 1,0.041616161808116024
+Nyheder & Aktualitet,Politik,DR 1,0.08800260454125615
+Nyheder & Aktualitet,Samfund,DR 1,0.0015181193796435482
+Nyheder & Aktualitet,Vejret,DR 1,0.08486229520676536
+Underholdning,Quiz,DR 1,0.06520592931293845
+Underholdning,Talkshow,DR 1,0.011034737167527581
+Underholdning,Underholdning,DR 1,0.923759333519534
+Sport,Cykling,DR 1,0.01867335213782092
+Sport,EM,DR 1,0.007674508880014035
+Sport,Fodbold,DR 1,0.4679150131301924
+Sport,Generelt,DR 1,0.09004659033654151
+Sport,Håndbold,DR 1,0.18982313974820933
+Sport,Motorsport,DR 1,1.4045124330216046e-05
+Sport,Sportsdokumentar,DR 1,0.004305540258510047
+Sport,Sportsmagasin,DR 1,0.21609968516295314
+Sport,Tennis,DR 1,0.003197772221770445
+Sport,VM,DR 1,0.0022503529996579664
+Fritid,Antikviteter,DR 1,0.26331019016020046
+Fritid,Hobby,DR 1,0.03647218280791724
+Fritid,Hus & Have,DR 1,0.4225033451068448
+Fritid,Madlavning,DR 1,0.22540936800496916
+Fritid,Rejseprogram,DR 1,0.05230491392006835
+Natur & Videnskab,Natur,DR 1,0.984389595552284
+Natur & Videnskab,Videnskab,DR 1,0.015610404447715977
+Serier,Action,DR 1,0.004960684065808796
+Serier,Drama,DR 1,0.18804115929437493
+Serier,Komedie,DR 1,0.00648898034130728
+Serier,Krimi,DR 1,0.7599507288344042
+Serier,Miniserie,DR 1,0.020310595629040612
+Serier,Romantik,DR 1,0.0024283701072395007
+Serier,Thriller,DR 1,0.01781948172782466
+Livsstil,Forbrugerprogram,DR 1,0.11784086402025526
+Livsstil,Kendisser,DR 1,0.008153160102373413
+Livsstil,Livsstil,DR 1,0.873053457264234
+Livsstil,Sundhed,DR 1,0.0009525186131373484
+Reality,Docu-soap,DR 1,0.11943443895830609
+Reality,Reality,DR 1,0.8805655610416939
+Dokumentar,Kriminalprogram,DR 1,0.029886159344925067
+Dokumentar,Raportage,DR 1,0.38640955276442696
+Dokumentar,Samfund,DR 1,0.583704287890648
+Film,Action,DR 1,0.23832369330697914
+Film,Animation,DR 1,0.009410695297008451
+Film,Dokumentar,DR 1,0.004655737925929627
+Film,Drama,DR 1,0.2195892526443566
+Film,Familiefilm,DR 1,0.011947667851209183
+Film,Fantasy,DR 1,0.03307343742709298
+Film,Gyser,DR 1,0.004330922532122518
+Film,Komedie,DR 1,0.19310903629990966
+Film,Kortfilm,DR 1,0.0036923170751433734
+Film,Krig,DR 1,0.00660427157845219
+Film,Krimi,DR 1,0.09459754968657018
+Film,Science Fiction,DR 1,0.006880033229354429
+Film,Thriller,DR 1,0.1402549516240362
+Film,Western,DR 1,0.033530433521835476
+Musik,Andet musik,DR 1,0.3875774134374214
+Musik,Klassisk,DR 1,0.032724932911968714
+Musik,Populærmusik,DR 1,0.5796976536506099
+Børn & Ungdom,Animation,DR 1,0.4434548067557483
+Børn & Ungdom,Familieserie,DR 1,0.5012706999895078
+Børn & Ungdom,Skolebørn,DR 1,0.05527449325474385
+Kultur & Historie,Arkitektur,DR 1,0.02908017462447891
+Kultur & Historie,Historie,DR 1,0.014084777699664234
+Kultur & Historie,Kultur,DR 1,0.37945552647889436
+Kultur & Historie,Kunst,DR 1,0.0063442736975571675
+Kultur & Historie,Magasin,DR 1,0.38589300409484123
+Kultur & Historie,Religion,DR 1,0.18514224340456412
+Humor & Satire,Humor,DR 1,1.0
+Musik,Magasin,MTV 80s,0.0015160920424660425
+Musik,Populærmusik,MTV 80s,0.998483907957534
+Reality,Docu-soap,Viasat Explore HD,0.002207027608963376
+Reality,Reality,Viasat Explore HD,0.9977929723910366
+Dokumentar,Samfund,Viasat Explore HD,1.0
+Natur & Videnskab,Natur,Viasat Explore HD,0.7175174942345647
+Natur & Videnskab,Teknik,Viasat Explore HD,0.2824825057654353
+Fritid,Hus & Have,Viasat Explore HD,0.8761410210464805
+Fritid,Motor,Viasat Explore HD,0.12385897895351944
+Kultur & Historie,Historie,Viasat Explore HD,1.0
+Nyheder & Aktualitet,Aktuelt,TV/Midtvest,0.3162046033261099
+Nyheder & Aktualitet,Magasin,TV/Midtvest,0.0188855998915165
+Nyheder & Aktualitet,Nyheder,TV/Midtvest,0.48104796113918197
+Nyheder & Aktualitet,Samfund,TV/Midtvest,0.18386183564319164
+Dokumentar,Kriminalprogram,TV/Midtvest,0.0031909885734151475
+Dokumentar,Raportage,TV/Midtvest,0.9236290051099261
+Dokumentar,Samfund,TV/Midtvest,0.07318000631665877
+Sport,Håndbold,TV/Midtvest,0.007267978510179785
+Sport,Motorsport,TV/Midtvest,0.060892219358922195
+Sport,Sportsmagasin,TV/Midtvest,0.8689757674397577
+Sport,Vandsport,TV/Midtvest,0.06286403469114035
+Fritid,Antikviteter,TV/Midtvest,0.024455313910818167
+Fritid,Hobby,TV/Midtvest,0.3445637610068647
+Fritid,Hus & Have,TV/Midtvest,0.22300038348788506
+Fritid,Madlavning,TV/Midtvest,0.250076267099675
+Fritid,Rejseprogram,TV/Midtvest,0.15790427449475705
+Kultur & Historie,Historie,TV/Midtvest,0.17550807755147504
+Kultur & Historie,Kultur,TV/Midtvest,0.7116421146538533
+Kultur & Historie,Litteratur,TV/Midtvest,0.004122828675217909
+Kultur & Historie,Magasin,TV/Midtvest,0.10872697911945373
+Natur & Videnskab,Miljø,TV/Midtvest,8.667013892713445e-05
+Natur & Videnskab,Natur,TV/Midtvest,0.9913816397146872
+Natur & Videnskab,Undervisning,TV/Midtvest,0.008531690146385676
+Livsstil,Kendisser,TV/Midtvest,0.07400825411017782
+Livsstil,Livsstil,TV/Midtvest,0.8273897839259381
+Livsstil,Sundhed,TV/Midtvest,0.09860196196388414
+Underholdning,Underholdning,TV/Midtvest,1.0
+Underholdning,Quiz,TV 2 Echo,0.002014601740455759
+Underholdning,Talentshow,TV 2 Echo,0.339371647274203
+Underholdning,Talkshow,TV 2 Echo,0.37992740834325306
+Underholdning,Underholdning,TV 2 Echo,0.2786863426420882
+Reality,Docu-soap,TV 2 Echo,0.20631073069546207
+Reality,Reality,TV 2 Echo,0.7936892693045379
+Humor & Satire,Humor,TV 2 Echo,1.0
+Serier,Animation,TV 2 Echo,0.10076680144084958
+Serier,Drama,TV 2 Echo,0.3376481316178702
+Serier,Komedie,TV 2 Echo,0.5417631498834835
+Serier,Miniserie,TV 2 Echo,0.0022117172118253123
+Serier,Romantik,TV 2 Echo,0.013506941189742492
+Serier,Thriller,TV 2 Echo,0.0041032586562288545
+Fritid,Hobby,TV 2 Echo,0.4382338303058448
+Fritid,Madlavning,TV 2 Echo,0.07404721427531172
+Fritid,Rejseprogram,TV 2 Echo,0.4877189554188435
+Sport,Esport,TV 2 Echo,0.9807540669284189
+Sport,Motorsport,TV 2 Echo,0.008473276062845696
+Sport,Sportsdokumentar,TV 2 Echo,0.010772657008735401
+Livsstil,Kendisser,TV 2 Echo,0.3384542046188822
+Livsstil,Livsstil,TV 2 Echo,0.644814733853652
+Livsstil,Sundhed,TV 2 Echo,0.016731061527465865
+Dokumentar,Dokumentar,TV 2 Echo,0.11336514307454622
+Dokumentar,Kriminalprogram,TV 2 Echo,0.13672612456202624
+Dokumentar,Musik,TV 2 Echo,0.3229360277405766
+Dokumentar,Raportage,TV 2 Echo,0.2517999604802898
+Dokumentar,Samfund,TV 2 Echo,0.17517274414256115
+Film,Action,TV 2 Echo,0.3688423073223008
+Film,Animation,TV 2 Echo,0.04861700021875912
+Film,Dokumentar,TV 2 Echo,0.002848824817613562
+Film,Drama,TV 2 Echo,0.05696992960966905
+Film,Fantasy,TV 2 Echo,0.03632198504979692
+Film,Komedie,TV 2 Echo,0.36173671789632295
+Film,Krimi,TV 2 Echo,0.017202221864247646
+Film,Science Fiction,TV 2 Echo,0.03789943995427474
+Film,Thriller,TV 2 Echo,0.06956157326701523
+Nyheder & Aktualitet,Aktuelt,TV 2 Echo,0.9110138680000454
+Nyheder & Aktualitet,Politik,TV 2 Echo,0.08898613199995459
+Kultur & Historie,Civilisation,TV 2 Echo,0.8902348157568372
+Kultur & Historie,Kultur,TV 2 Echo,0.10976518424316285
+Natur & Videnskab,Miljø,TV 2 Echo,0.32330944606831574
+Natur & Videnskab,Teknik,TV 2 Echo,0.48763971629700753
+Natur & Videnskab,Videnskab,TV 2 Echo,0.1890508376346767
+Børn & Ungdom,Animation,Disney Channel HD,0.9965213230693502
+Børn & Ungdom,Blandede bolcher,Disney Channel HD,0.0008959928017195237
+Børn & Ungdom,Børneserier,Disney Channel HD,0.00011148156326520271
+Børn & Ungdom,Familieserie,Disney Channel HD,0.0015113803991398814
+Børn & Ungdom,Skolebørn,Disney Channel HD,0.0009326465498471696
+Børn & Ungdom,Småbørn,Disney Channel HD,2.7175616678107383e-05
+Serier,Animation,Disney Channel HD,0.017928832996072525
+Serier,Fantasy,Disney Channel HD,0.0861920927855799
+Serier,Komedie,Disney Channel HD,0.12358975150451455
+Serier,Ungdom,Disney Channel HD,0.772289322713833
+Humor & Satire,Humor,Disney Channel HD,1.0
+Film,Animation,Disney Channel HD,0.03950336581145084
+Film,Drama,Disney Channel HD,0.03692308734813625
+Film,Familiefilm,Disney Channel HD,0.4460268409616231
+Film,Fantasy,Disney Channel HD,0.15408181104079702
+Film,Komedie,Disney Channel HD,0.12377895102144079
+Film,Musical,Disney Channel HD,0.199685943816552
+Musik,Andet musik,Disney Channel HD,1.0
+Nyheder & Aktualitet,Aktuelt,Disney Channel HD,1.0
+Serier,Animation,See,0.025075163510878913
+Serier,Drama,See,0.35611184377531224
+Serier,Fantasy,See,0.0006186644857284489
+Serier,Komedie,See,0.4705689715764828
+Serier,Krimi,See,0.1374880748952432
+Serier,Thriller,See,0.010137281756354383
+Dokumentar,Dokumentar,See,0.16912517269656316
+Dokumentar,Kriminalprogram,See,0.47295504142474454
+Dokumentar,Samfund,See,0.35791978587869233
+Underholdning,Talkshow,See,0.3651913429798197
+Underholdning,Underholdning,See,0.6348086570201803
+Reality,Docu-soap,See,1.0
+Sport,Fodbold,See,0.8455185769079142
+Sport,Håndbold,See,0.02016272754769015
+Sport,Sportsdokumentar,See,0.00142314163883825
+Sport,Sportsmagasin,See,0.13289555390555743
+Humor & Satire,Humor,See,1.0
+Kultur & Historie,Historie,See,1.0
+Film,Action,See,0.10542006130109109
+Film,Drama,See,0.18464913800286603
+Film,Komedie,See,0.16389051056689377
+Film,Krimi,See,0.5091643408822657
+Film,Thriller,See,0.03687594924688342
+Kultur & Historie,Arkitektur,TV 5 Monde Europe,0.0017886197086277784
+Kultur & Historie,Film,TV 5 Monde Europe,0.5481806515245765
+Kultur & Historie,Historie,TV 5 Monde Europe,0.08134436953723785
+Kultur & Historie,Kultur,TV 5 Monde Europe,0.26917092105975954
+Kultur & Historie,Kunst,TV 5 Monde Europe,0.04814235731671552
+Kultur & Historie,Litteratur,TV 5 Monde Europe,0.0014916060964378914
+Kultur & Historie,Magasin,TV 5 Monde Europe,0.04988147475664498
+Nyheder & Aktualitet,Aktuelt,TV 5 Monde Europe,0.01374656129714151
+Nyheder & Aktualitet,Magasin,TV 5 Monde Europe,0.09122359612463574
+Nyheder & Aktualitet,Nyheder,TV 5 Monde Europe,0.5080553419177535
+Nyheder & Aktualitet,Politik,TV 5 Monde Europe,0.016253686206962933
+Nyheder & Aktualitet,Samfund,TV 5 Monde Europe,0.16920480597969917
+Nyheder & Aktualitet,Vejret,TV 5 Monde Europe,0.08063225381820915
+Nyheder & Aktualitet,Økonomi,TV 5 Monde Europe,0.12088375465559804
+Livsstil,Forbrugerprogram,TV 5 Monde Europe,0.17167410864541027
+Livsstil,Kendisser,TV 5 Monde Europe,0.5088742791751745
+Livsstil,Livsstil,TV 5 Monde Europe,0.31945161217941526
+Børn & Ungdom,Animation,TV 5 Monde Europe,0.5503932198213332
+Børn & Ungdom,Blandede bolcher,TV 5 Monde Europe,0.04432312743376346
+Børn & Ungdom,Børneserier,TV 5 Monde Europe,0.3115980758952432
+Børn & Ungdom,Småbørn,TV 5 Monde Europe,0.09368557684966022
+Natur & Videnskab,Miljø,TV 5 Monde Europe,0.3503271021869872
+Natur & Videnskab,Natur,TV 5 Monde Europe,0.08695594789242364
+Natur & Videnskab,Teknik,TV 5 Monde Europe,0.5619250414652066
+Natur & Videnskab,Videnskab,TV 5 Monde Europe,0.0007919084553825577
+Serier,Drama,TV 5 Monde Europe,0.29968861045061457
+Serier,Komedie,TV 5 Monde Europe,0.07286144753774539
+Serier,Krimi,TV 5 Monde Europe,0.6021627804756634
+Serier,Thriller,TV 5 Monde Europe,0.023028528154805092
+Serier,Ungdom,TV 5 Monde Europe,0.002258633381171524
+Film,Action,TV 5 Monde Europe,0.003481689896038152
+Film,Drama,TV 5 Monde Europe,0.4884848945716055
+Film,Familiefilm,TV 5 Monde Europe,0.015480212486285075
+Film,Komedie,TV 5 Monde Europe,0.23176322336045538
+Film,Kortfilm,TV 5 Monde Europe,0.06997599209151249
+Film,Krig,TV 5 Monde Europe,0.003666366115172781
+Film,Krimi,TV 5 Monde Europe,0.14827870900459517
+Film,Thriller,TV 5 Monde Europe,0.03886891247433544
+Underholdning,Talentshow,TV 5 Monde Europe,0.060842939040936815
+Underholdning,Underholdning,TV 5 Monde Europe,0.9391570609590632
+Dokumentar,Raportage,TV 5 Monde Europe,0.18514971011390197
+Dokumentar,Samfund,TV 5 Monde Europe,0.8148502898860981
+Reality,Reality,TV 5 Monde Europe,1.0
+Fritid,Hobby,TV 5 Monde Europe,0.05146558166569792
+Fritid,Hus & Have,TV 5 Monde Europe,0.0468986133023333
+Fritid,Madlavning,TV 5 Monde Europe,0.8916715104209915
+Fritid,Rejseprogram,TV 5 Monde Europe,0.009964294610977332
+Sport,Cykling,TV 5 Monde Europe,0.06558675996038212
+Sport,Ekstremsport,TV 5 Monde Europe,0.008191955014537206
+Sport,Fodbold,TV 5 Monde Europe,0.05326048755551296
+Sport,Generelt,TV 5 Monde Europe,0.0309275056711077
+Sport,Motorsport,TV 5 Monde Europe,0.1449375379405093
+Sport,Rugby,TV 5 Monde Europe,0.6718745007827727
+Sport,Tennis,TV 5 Monde Europe,0.02522125307517812
+Musik,Andet musik,TV 5 Monde Europe,0.8390736342042755
+Musik,Opera,TV 5 Monde Europe,0.13785205293518832
+Musik,Populærmusik,TV 5 Monde Europe,0.02307431286053614
+Humor & Satire,Humor,TV 5 Monde Europe,1.0
+Børn & Ungdom,Animation,DR Ramasjang,0.3346985429328467
+Børn & Ungdom,Blandede bolcher,DR Ramasjang,0.05987815464185527
+Børn & Ungdom,Børneserier,DR Ramasjang,0.28434052205806426
+Børn & Ungdom,Familieserie,DR Ramasjang,0.01522614231885074
+Børn & Ungdom,Skolebørn,DR Ramasjang,0.08945899917597182
+Børn & Ungdom,Småbørn,DR Ramasjang,0.2159121307379818
+Børn & Ungdom,Undervisning,DR Ramasjang,0.0004855081344294015
+Natur & Videnskab,Natur,DR Ramasjang,1.0
+Film,Animation,DR Ramasjang,0.39394991660897466
+Film,Drama,DR Ramasjang,0.017453260261946234
+Film,Familiefilm,DR Ramasjang,0.5375913703387788
+Film,Fantasy,DR Ramasjang,0.02296830365058112
+Film,Komedie,DR Ramasjang,0.0223303330826848
+Film,Kortfilm,DR Ramasjang,0.005706816057034395
+Serier,Animation,DR Ramasjang,0.42365858007133544
+Serier,Drama,DR Ramasjang,0.5763414199286645
+Underholdning,Quiz,DR Ramasjang,0.3069509623602091
+Underholdning,Underholdning,DR Ramasjang,0.6930490376397909
+Nyheder & Aktualitet,Nyheder,DR Ramasjang,0.08746155360768045
+Nyheder & Aktualitet,Politik,DR Ramasjang,0.9125384463923195
+Kultur & Historie,Film,DR Ramasjang,1.0
+Musik,Andet musik,DR Ramasjang,0.09332788622651675
+Musik,Populærmusik,DR Ramasjang,0.9066721137734832
+Dokumentar,Raportage,DR Ramasjang,1.0
+Sport,Amerikansk fodbold,TV 2 Sport,0.06256646500097034
+Sport,Anden sport,TV 2 Sport,0.0031687619526238444
+Sport,Badminton,TV 2 Sport,0.22123261141062447
+Sport,Basketball,TV 2 Sport,0.03332257209941566
+Sport,Cykling,TV 2 Sport,0.19291608002409405
+Sport,Ekstremsport,TV 2 Sport,0.00121891930149975
+Sport,Fodbold,TV 2 Sport,0.06808040094940035
+Sport,Håndbold,TV 2 Sport,0.19356593090818716
+Sport,Ishockey,TV 2 Sport,0.04431411802522343
+Sport,Motorsport,TV 2 Sport,0.00022580215836180735
+Sport,Ridning,TV 2 Sport,0.00041690210694947773
+Sport,Sejlads,TV 2 Sport,0.003541954149971133
+Sport,Sportsdokumentar,TV 2 Sport,0.003313998800332526
+Sport,Sportsmagasin,TV 2 Sport,0.0487545773799815
+Sport,Sportsnyheder,TV 2 Sport,0.00021217939137075308
+Sport,Tennis,TV 2 Sport,0.12301829854240875
+Sport,VM,TV 2 Sport,0.00013042779858498315
+Nyheder & Aktualitet,Politik,TV 2 Sport,1.0
+Nyheder & Aktualitet,Aktuelt,BBC World News,0.04679272832050804
+Nyheder & Aktualitet,Magasin,BBC World News,0.1902523544131173
+Nyheder & Aktualitet,Nyheder,BBC World News,0.6855761665205826
+Nyheder & Aktualitet,Politik,BBC World News,0.05992312139904869
+Nyheder & Aktualitet,Samfund,BBC World News,0.017076014817886797
+Nyheder & Aktualitet,Vejret,BBC World News,0.0003796145288565878
+Dokumentar,Raportage,BBC World News,0.940571353505766
+Dokumentar,Samfund,BBC World News,0.05942864649423392
+Fritid,Rejseprogram,BBC World News,1.0
+Musik,Andet musik,BBC World News,0.6204976999119115
+Musik,Opera,BBC World News,0.3795023000880885
+Sport,Generelt,BBC World News,0.02259401708225158
+Sport,Nyheder,BBC World News,0.8946423179883065
+Sport,Sportsmagasin,BBC World News,0.08276366492944187
+Natur & Videnskab,Teknik,BBC World News,0.9879950612332908
+Natur & Videnskab,Videnskab,BBC World News,0.012004938766709196
+Kultur & Historie,Kultur,BBC World News,0.44516990034327886
+Kultur & Historie,Magasin,BBC World News,0.5548300996567211
+Nyheder & Aktualitet,Nyheder,TV2,0.9999164118916116
+Nyheder & Aktualitet,Samfund,TV2,8.358810838836279e-05
+Dokumentar,Raportage,TV2,0.9897733512540413
+Dokumentar,Samfund,TV2,0.010226648745958671
+Fritid,Hobby,TV2,0.012483401533833772
+Fritid,Hus & Have,TV2,0.6439568033386629
+Fritid,Madlavning,TV2,0.34355979512750334
+Kultur & Historie,Historie,TV2,0.30809008434655455
+Kultur & Historie,Kultur,TV2,0.058071110166618596
+Kultur & Historie,Magasin,TV2,0.6338388054868268
+Livsstil,Livsstil,TV2,1.0
+Underholdning,Underholdning,TV2,1.0
+Sport,Esport,TV2,0.015867666372499287
+Sport,Motorcykelsport,TV2,0.45631614423003425
+Sport,Motorsport,TV2,0.5278161893974664
+Musik,Andet musik,TV2,1.0
+Natur & Videnskab,Natur,TV2,1.0
+Dokumentar,Samfund,BBC Earth HD,1.0
+Reality,Reality,BBC Earth HD,1.0
+Natur & Videnskab,Natur,BBC Earth HD,0.9019766102303891
+Natur & Videnskab,Teknik,BBC Earth HD,0.036419470678869824
+Natur & Videnskab,Videnskab,BBC Earth HD,0.06160391909074107
+Fritid,Rejseprogram,BBC Earth HD,1.0
+Kultur & Historie,Historie,BBC Earth HD,0.8991246882793017
+Kultur & Historie,Religion,BBC Earth HD,0.10087531172069826
+Livsstil,Livsstil,BBC Earth HD,0.8421862759378161
+Livsstil,Sundhed,BBC Earth HD,0.15781372406218383
+Reality,Docu-soap,TLC HD,0.16421571668336266
+Reality,Reality,TLC HD,0.8357842833166373
+Livsstil,Kendisser,TLC HD,0.0040105653139741355
+Livsstil,Livsstil,TLC HD,0.29969534776889833
+Livsstil,Mode,TLC HD,0.0010846903821031782
+Livsstil,Sundhed,TLC HD,0.6952093965350243
+Fritid,Madlavning,TLC HD,1.0
+Dokumentar,Samfund,TLC HD,1.0
+Nyheder & Aktualitet,Aktuelt,TLC HD,1.0
+Humor & Satire,Humor,TLC HD,1.0
+Sport,Amerikansk fodbold,Sport Live,0.020248775653634934
+Sport,Anden sport,Sport Live,0.16840807344816885
+Sport,Basketball,Sport Live,0.13485699746653582
+Sport,Boksning,Sport Live,0.09244182631470571
+Sport,Bordtennis,Sport Live,0.01769466399553439
+Sport,Cykling,Sport Live,0.008094575036827189
+Sport,Fodbold,Sport Live,0.20423239144119118
+Sport,Generelt,Sport Live,0.0437570545112793
+Sport,Hestevæddeløb,Sport Live,0.05329807018784066
+Sport,Kampsport,Sport Live,0.023233761571011795
+Sport,Motorsport,Sport Live,0.030538870247151358
+Sport,Ridning,Sport Live,0.09438316438683243
+Sport,Sportsdokumentar,Sport Live,0.00209649423788692
+Sport,Sportsmagasin,Sport Live,0.014645865733730772
+Sport,Svømning,Sport Live,0.0010117806305119787
+Sport,Tennis,Sport Live,0.03283954748756734
+Sport,Volleyball,Sport Live,0.05821808764958937
+Natur & Videnskab,Natur,Discovery Science,0.379953415200226
+Natur & Videnskab,Teknik,Discovery Science,0.6099834969483117
+Natur & Videnskab,Videnskab,Discovery Science,0.010063087851462258
+Fritid,Motor,Discovery Science,0.9082540972528973
+Fritid,Rejseprogram,Discovery Science,0.09174590274710274
+Dokumentar,Dokumentar,Discovery Science,0.06323559259509832
+Dokumentar,Samfund,Discovery Science,0.9367644074049016
+Kultur & Historie,Historie,Discovery Science,1.0
+Underholdning,Overnaturlig,Discovery Science,0.8470516925965506
+Underholdning,Underholdning,Discovery Science,0.15294830740344947
+Reality,Docu-soap,Discovery Science,0.09582608478726144
+Reality,Reality,Discovery Science,0.9041739152127386
+Nyheder & Aktualitet,Aktuelt,Discovery Science,1.0
+Livsstil,Sundhed,Discovery Science,1.0
+Humor & Satire,Humor,Discovery Science,1.0
+Sport,Anden sport,Eurosport 2 HD,0.10243892152024564
+Sport,Bueskydning,Eurosport 2 HD,0.001793853838473923
+Sport,Curling,Eurosport 2 HD,0.022183194879085395
+Sport,Cykling,Eurosport 2 HD,0.23239050806980116
+Sport,Dans,Eurosport 2 HD,0.0003454409264723214
+Sport,Ekstremsport,Eurosport 2 HD,0.010311926993541283
+Sport,Esport,Eurosport 2 HD,0.0003791608118129403
+Sport,Fodbold,Eurosport 2 HD,0.0070733251540653465
+Sport,Generelt,Eurosport 2 HD,0.00012131268983665341
+Sport,Golf,Eurosport 2 HD,0.27056123693863954
+Sport,Ishockey,Eurosport 2 HD,0.0004905779238160682
+Sport,Kampsport,Eurosport 2 HD,0.0020438344909172383
+Sport,Motorcykelsport,Eurosport 2 HD,0.035892426765635595
+Sport,Motorsport,Eurosport 2 HD,0.054693654022483794
+Sport,OL,Eurosport 2 HD,0.00023598034247678654
+Sport,Powerboat sejlads,Eurosport 2 HD,4.8756518881901034e-05
+Sport,Ridning,Eurosport 2 HD,0.009048950783820314
+Sport,Sejlads,Eurosport 2 HD,0.007837448758103988
+Sport,Skøjteløb,Eurosport 2 HD,0.0014043393349525088
+Sport,Sportsdokumentar,Eurosport 2 HD,5.330345815808373e-05
+Sport,Sportsmagasin,Eurosport 2 HD,0.020006282284178528
+Sport,Sportsnyheder,Eurosport 2 HD,2.1322178599821947e-05
+Sport,Tennis,Eurosport 2 HD,0.2064586874478361
+Sport,Vandsport,Eurosport 2 HD,0.003136416994591564
+Sport,Vintersport,Eurosport 2 HD,0.011029136873573467
+Underholdning,Quiz,Eurosport 2 HD,1.0
+Nyheder & Aktualitet,Nyheder,TV SYD+,0.9725466816611675
+Nyheder & Aktualitet,Politik,TV SYD+,4.0035303734104435e-05
+Nyheder & Aktualitet,Samfund,TV SYD+,0.027413283035098313
+Livsstil,Kendisser,TV SYD+,0.1563122448441381
+Livsstil,Livsstil,TV SYD+,0.7679641174095886
+Livsstil,Sundhed,TV SYD+,0.07572363774627332
+Fritid,Hobby,TV SYD+,0.021937270711343333
+Fritid,Hus & Have,TV SYD+,0.6128964136052485
+Fritid,Madlavning,TV SYD+,0.2737158817045885
+Fritid,Rejseprogram,TV SYD+,0.09145043397881973
+Dokumentar,Raportage,TV SYD+,0.9457287345521043
+Dokumentar,Samfund,TV SYD+,0.05427126544789575
+Kultur & Historie,Civilisation,TV SYD+,0.057737712181634364
+Kultur & Historie,Historie,TV SYD+,0.07874378622895654
+Kultur & Historie,Kultur,TV SYD+,0.4790784906193462
+Kultur & Historie,Kunst,TV SYD+,0.023752656106148764
+Kultur & Historie,Magasin,TV SYD+,0.22717081565670752
+Kultur & Historie,Religion,TV SYD+,0.13351653920720663
+Sport,Cykling,TV SYD+,0.09502781225401709
+Sport,Motorsport,TV SYD+,0.2761076784073448
+Sport,Sportsmagasin,TV SYD+,0.4974886164466688
+Sport,Vandsport,TV SYD+,0.13137589289196927
+Natur & Videnskab,Natur,TV SYD+,1.0
+Humor & Satire,Humor,TV SYD+,1.0
+Musik,Andet musik,TV SYD+,0.673979901663108
+Musik,Religiøse sange,TV SYD+,0.326020098336892
+Børn & Ungdom,Animation,Disney Junior,0.9605840729695536
+Børn & Ungdom,Blandede bolcher,Disney Junior,0.02673680675997322
+Børn & Ungdom,Børneserier,Disney Junior,0.0007025636190402046
+Børn & Ungdom,Småbørn,Disney Junior,0.011976556651432917
+Film,Familiefilm,Disney Junior,1.0
+Underholdning,Talentshow,RAI UNO,0.025139089901719133
+Underholdning,Talkshow,RAI UNO,0.25906698214018153
+Underholdning,Underholdning,RAI UNO,0.7157939279580994
+Nyheder & Aktualitet,Aktuelt,RAI UNO,0.0024400251884052083
+Nyheder & Aktualitet,Magasin,RAI UNO,0.045846147595929226
+Nyheder & Aktualitet,Nyheder,RAI UNO,0.878239249223019
+Nyheder & Aktualitet,Politik,RAI UNO,0.042731723171301465
+Nyheder & Aktualitet,Samfund,RAI UNO,0.01621564524975116
+Nyheder & Aktualitet,Vejret,RAI UNO,0.013649678035304393
+Nyheder & Aktualitet,Økonomi,RAI UNO,0.0008775315362895854
+Film,Dokumentar,RAI UNO,0.14467305478541434
+Film,Drama,RAI UNO,0.29970653566159183
+Film,Fantasy,RAI UNO,0.023006955591225255
+Film,Komedie,RAI UNO,0.3191059876453135
+Film,Krimi,RAI UNO,0.06218687679361837
+Film,Romantik,RAI UNO,0.15132058952283672
+Serier,Drama,RAI UNO,0.5165311729792263
+Serier,Komedie,RAI UNO,0.08668295105879986
+Serier,Krimi,RAI UNO,0.30507142497862283
+Serier,Miniserie,RAI UNO,0.017585886021829887
+Serier,Sæbeopera,RAI UNO,0.04918483728182687
+Serier,Thriller,RAI UNO,0.024943727679694182
+Reality,Reality,RAI UNO,1.0
+Kultur & Historie,Film,RAI UNO,0.0033730225220464463
+Kultur & Historie,Kultur,RAI UNO,0.023380446522706357
+Kultur & Historie,Litteratur,RAI UNO,0.022957690929572526
+Kultur & Historie,Magasin,RAI UNO,0.8790326114695655
+Kultur & Historie,Religion,RAI UNO,0.0712562285561092
+Fritid,Madlavning,RAI UNO,0.869466139851144
+Fritid,Rejseprogram,RAI UNO,0.130533860148856
+Natur & Videnskab,Miljø,RAI UNO,0.11452696219535598
+Natur & Videnskab,Natur,RAI UNO,0.4993667242371906
+Natur & Videnskab,Videnskab,RAI UNO,0.38610631356745345
+Musik,Andet musik,RAI UNO,0.8271607069887368
+Musik,Klassisk,RAI UNO,0.08248010083395203
+Musik,Populærmusik,RAI UNO,0.09035919217731121
+Dokumentar,Dokumentar,RAI UNO,0.12521003360537686
+Dokumentar,Kriminalprogram,RAI UNO,0.09495019203072491
+Dokumentar,Samfund,RAI UNO,0.7798397743638982
+Sport,Fodbold,RAI UNO,0.8883870876116626
+Sport,Sportsdokumentar,RAI UNO,0.0030108076633576187
+Sport,Sportsmagasin,RAI UNO,0.10860210472497976
+Livsstil,Kendisser,RAI UNO,0.015155297745796313
+Livsstil,Livsstil,RAI UNO,0.6577869153388648
+Livsstil,Sundhed,RAI UNO,0.3270577869153389
+Børn & Ungdom,Familieserie,RAI UNO,1.0
+Livsstil,Forbrugerprogram,Kabel 1,0.26839733500075463
+Livsstil,Kendisser,Kabel 1,0.25426667557173427
+Livsstil,Livsstil,Kabel 1,0.4773359894275111
+Serier,Action,Kabel 1,0.08688588690724665
+Serier,Drama,Kabel 1,0.04002309660174075
+Serier,Krimi,Kabel 1,0.8595325034798247
+Serier,Miniserie,Kabel 1,0.0014014667771723502
+Serier,Science Fiction,Kabel 1,0.012157046234015588
+Nyheder & Aktualitet,Magasin,Kabel 1,0.4934977150018004
+Nyheder & Aktualitet,Nyheder,Kabel 1,0.5065022849981996
+Reality,Reality,Kabel 1,1.0
+Underholdning,Quiz,Kabel 1,0.002432601439942737
+Underholdning,Underholdning,Kabel 1,0.9975673985600573
+Dokumentar,Kriminalprogram,Kabel 1,0.09375788468026115
+Dokumentar,Raportage,Kabel 1,0.005953376556737096
+Dokumentar,Samfund,Kabel 1,0.9002887387630018
+Film,Action,Kabel 1,0.42405796397371304
+Film,Animation,Kabel 1,0.004113352553624118
+Film,Drama,Kabel 1,0.0755178521894412
+Film,Familiefilm,Kabel 1,0.005959122413819745
+Film,Fantasy,Kabel 1,0.041499143970920076
+Film,Gyser,Kabel 1,0.008366320122714115
+Film,Komedie,Kabel 1,0.18848862584404907
+Film,Krimi,Kabel 1,0.012272766320238845
+Film,Science Fiction,Kabel 1,0.1101886993064508
+Film,Thriller,Kabel 1,0.09020075174685707
+Film,Western,Kabel 1,0.03933540155817196
+Fritid,Hus & Have,Kabel 1,0.31097009922839647
+Fritid,Madlavning,Kabel 1,0.1520348109759339
+Fritid,Rejseprogram,Kabel 1,0.5369950897956697
+Kultur & Historie,Film,Kabel 1,0.3484870870515927
+Kultur & Historie,Magasin,Kabel 1,0.6515129129484073
+Sport,Fodbold,Kabel 1,1.0
+Musik,Andet musik,Kabel 1,1.0
+Serier,Drama,VOX,0.004036264525873103
+Serier,Krimi,VOX,0.9891841332942931
+Serier,Thriller,VOX,0.0067796021798338015
+Dokumentar,Kriminalprogram,VOX,0.9666188664306979
+Dokumentar,Musik,VOX,0.00874463288896107
+Dokumentar,Raportage,VOX,0.00033965916974845755
+Dokumentar,Samfund,VOX,0.024296841510592495
+Musik,Andet musik,VOX,0.5676505698845371
+Musik,Populærmusik,VOX,0.4323494301154629
+Reality,Docu-soap,VOX,0.577228594458506
+Reality,Reality,VOX,0.42277140554149395
+Livsstil,Forbrugerprogram,VOX,0.03156935986263371
+Livsstil,Kendisser,VOX,0.07928221340639535
+Livsstil,Livsstil,VOX,0.691484949141063
+Livsstil,Mode,VOX,0.18204840320778923
+Livsstil,Sundhed,VOX,0.015615074382118746
+Fritid,Hobby,VOX,0.0633892628241281
+Fritid,Hus & Have,VOX,0.15858811354725
+Fritid,Madlavning,VOX,0.3911021279189708
+Fritid,Motor,VOX,0.3613511971074164
+Fritid,Rejseprogram,VOX,0.025569298602234714
+Film,Action,VOX,0.6042306527073285
+Film,Animation,VOX,0.03157695266517903
+Film,Drama,VOX,0.029283885324018096
+Film,Familiefilm,VOX,0.010799758411065365
+Film,Fantasy,VOX,0.040090272224251926
+Film,Gyser,VOX,0.007927478089918965
+Film,Komedie,VOX,0.14004457464010228
+Film,Musical,VOX,0.007011186940160729
+Film,Romantik,VOX,0.004292921514399223
+Film,Science Fiction,VOX,0.09119280442408761
+Film,Thriller,VOX,0.03354951305948835
+Nyheder & Aktualitet,Aktuelt,VOX,0.027850307747161126
+Nyheder & Aktualitet,Magasin,VOX,0.15172143415373518
+Nyheder & Aktualitet,Nyheder,VOX,0.10373211925453311
+Nyheder & Aktualitet,Samfund,VOX,0.7166961388445706
+Natur & Videnskab,Natur,VOX,1.0
+Underholdning,Underholdning,VOX,1.0
+Kultur & Historie,Kultur,VOX,1.0
+Sport,Ridning,VOX,1.0
+Nyheder & Aktualitet,Aktuelt,DR 2,0.008952842541023617
+Nyheder & Aktualitet,Magasin,DR 2,0.9646231152762021
+Nyheder & Aktualitet,Nyheder,DR 2,0.0038083280859196778
+Nyheder & Aktualitet,Politik,DR 2,0.015356794902193844
+Nyheder & Aktualitet,Samfund,DR 2,0.007258919194660705
+Serier,Drama,DR 2,0.5671998161703035
+Serier,Komedie,DR 2,0.05339400856792796
+Serier,Krimi,DR 2,0.2083079775452023
+Serier,Miniserie,DR 2,0.027837810362578964
+Serier,Thriller,DR 2,0.14326038735398727
+Film,Action,DR 2,0.07315261952665825
+Film,Animation,DR 2,0.0025246815894063223
+Film,Dokumentar,DR 2,0.03801750066437269
+Film,Drama,DR 2,0.4986747347377758
+Film,Fantasy,DR 2,0.021455446970866834
+Film,Komedie,DR 2,0.08439416003519662
+Film,Krig,DR 2,0.032061081002836965
+Film,Krimi,DR 2,0.03994969721106445
+Film,Musical,DR 2,0.003795534428785728
+Film,Romantik,DR 2,0.019228788161940815
+Film,Science Fiction,DR 2,0.0064777556477983245
+Film,Thriller,DR 2,0.10360229302696157
+Film,Western,DR 2,0.07666570699633564
+Dokumentar,Dokumentar,DR 2,0.01062153238117558
+Dokumentar,Kriminalprogram,DR 2,0.022827643709912544
+Dokumentar,Musik,DR 2,0.022006158764592096
+Dokumentar,Raportage,DR 2,0.07721712846120286
+Dokumentar,Samfund,DR 2,0.8673275366831169
+Fritid,Hobby,DR 2,0.04758778915841909
+Fritid,Hus & Have,DR 2,0.050073735017095715
+Fritid,Madlavning,DR 2,0.3219722234760908
+Fritid,Rejseprogram,DR 2,0.5803662523483945
+Kultur & Historie,Arkitektur,DR 2,0.04939084230448004
+Kultur & Historie,Civilisation,DR 2,0.12344155009413658
+Kultur & Historie,Film,DR 2,0.006244831152935796
+Kultur & Historie,Historie,DR 2,0.5232237284707352
+Kultur & Historie,Kultur,DR 2,0.17026774414404255
+Kultur & Historie,Kunst,DR 2,0.004414580138435996
+Kultur & Historie,Magasin,DR 2,0.05066261082290037
+Kultur & Historie,Religion,DR 2,0.07235411287233352
+Underholdning,Quiz,DR 2,0.1489249221312907
+Underholdning,Talentshow,DR 2,0.014695985946136404
+Underholdning,Underholdning,DR 2,0.8363790919225729
+Reality,Docu-soap,DR 2,0.6166969278201313
+Reality,Reality,DR 2,0.38330307217986875
+Musik,Andet musik,DR 2,0.6878996147538952
+Musik,Jazz,DR 2,0.018383473360966563
+Musik,Klassisk,DR 2,0.1246267328654451
+Musik,Opera,DR 2,0.023239265371191982
+Musik,Populærmusik,DR 2,0.013687863276253476
+Musik,Religiøse sange,DR 2,0.1321630503722477
+Livsstil,Kendisser,DR 2,0.6687550724677822
+Livsstil,Livsstil,DR 2,0.3216671633851127
+Livsstil,Sundhed,DR 2,0.009577764147105037
+Sport,Anden sport,DR 2,0.025827940993530665
+Sport,EM,DR 2,0.12816424130473436
+Sport,Fodbold,DR 2,0.4388280066833702
+Sport,Generelt,DR 2,0.044628085171169764
+Sport,Håndbold,DR 2,0.1985398968173275
+Sport,Ishockey,DR 2,0.00470072507886691
+Sport,Ridning,DR 2,0.09174009185289832
+Sport,Rugby,DR 2,0.005991849738823178
+Sport,Sejlads,DR 2,0.0019341865986922274
+Sport,Sportsdokumentar,DR 2,0.014206560798146703
+Sport,Sportsmagasin,DR 2,0.0198912584510599
+Sport,Tennis,DR 2,0.025547156511380283
+Natur & Videnskab,Natur,DR 2,0.8244140099057272
+Natur & Videnskab,Teknik,DR 2,0.13071172380272839
+Natur & Videnskab,Videnskab,DR 2,0.044874266291544396
+Humor & Satire,Humor,DR 2,1.0
+Børn & Ungdom,Familieserie,DR 2,1.0
+Serier,Action,V Series,0.13551370652060313
+Serier,Drama,V Series,0.38642041801661425
+Serier,Fantasy,V Series,0.011073331053069962
+Serier,Gyser,V Series,0.001318871079609695
+Serier,Komedie,V Series,0.14582769205676588
+Serier,Krimi,V Series,0.29313730787989345
+Serier,Science Fiction,V Series,0.0006677490000095011
+Serier,Thriller,V Series,0.026040924393434108
+Reality,Docu-soap,V Series,1.0
+Dokumentar,Dokumentar,V Series,0.42650570282292766
+Dokumentar,Kriminalprogram,V Series,0.014702495666824236
+Dokumentar,Samfund,V Series,0.5587918015102481
+Kultur & Historie,Historie,V Series,1.0
+Fritid,Antikviteter,TV 2 Fri,0.2559933258987879
+Fritid,Hobby,TV 2 Fri,0.026125943688010578
+Fritid,Hus & Have,TV 2 Fri,0.6435945118545873
+Fritid,Madlavning,TV 2 Fri,0.0403014915649253
+Fritid,Rejseprogram,TV 2 Fri,0.033984726993688964
+Reality,Docu-soap,TV 2 Fri,0.3697842900322948
+Reality,Reality,TV 2 Fri,0.6302157099677052
+Livsstil,Kendisser,TV 2 Fri,0.002549293507309294
+Livsstil,Livsstil,TV 2 Fri,0.9793903093517471
+Livsstil,Sundhed,TV 2 Fri,0.018060397140943575
+Underholdning,Quiz,TV 2 Fri,0.11796520059428507
+Underholdning,Talkshow,TV 2 Fri,0.030472303714295462
+Underholdning,Underholdning,TV 2 Fri,0.8515624956914195
+Dokumentar,Raportage,TV 2 Fri,0.25599552016107247
+Dokumentar,Samfund,TV 2 Fri,0.7440044798389276
+Serier,Drama,TV 2 Fri,0.2865566658956808
+Serier,Miniserie,TV 2 Fri,0.7134433341043193
+Natur & Videnskab,Miljø,TV 2 Fri,0.006361577246825704
+Natur & Videnskab,Natur,TV 2 Fri,0.5977597914755679
+Natur & Videnskab,Teknik,TV 2 Fri,0.0690992600168711
+Natur & Videnskab,Videnskab,TV 2 Fri,0.32677937126073536
+Film,Action,TV 2 Fri,0.03731569871048026
+Film,Dokumentar,TV 2 Fri,0.013619973855298662
+Film,Drama,TV 2 Fri,0.28565122596640846
+Film,Familiefilm,TV 2 Fri,0.04671284427408883
+Film,Komedie,TV 2 Fri,0.37010344084556157
+Film,Romantik,TV 2 Fri,0.2276215995663598
+Film,Thriller,TV 2 Fri,0.018975216781802414
+Nyheder & Aktualitet,Aktuelt,TV 2 Fri,0.22363986542852934
+Nyheder & Aktualitet,Magasin,TV 2 Fri,0.7763601345714707
+Kultur & Historie,Historie,TV 2 Fri,1.0
+Børn & Ungdom,Familieserie,TV 2 Fri,1.0
+Humor & Satire,Humor,TV 2 Fri,1.0
+Sport,Sejlads,TV 2 Fri,0.2753659742035751
+Sport,Sportsdokumentar,TV 2 Fri,0.7246340257964249
+Børn & Ungdom,Animation,Nickelodeon Nordics HD,0.0021378938849035793
+Børn & Ungdom,Blandede bolcher,Nickelodeon Nordics HD,0.002870538967506947
+Børn & Ungdom,Børneserier,Nickelodeon Nordics HD,3.3715127725225265e-05
+Børn & Ungdom,Familieserie,Nickelodeon Nordics HD,0.0015145795697495154
+Børn & Ungdom,Skolebørn,Nickelodeon Nordics HD,0.9875902834982623
+Børn & Ungdom,Småbørn,Nickelodeon Nordics HD,0.005852988951852413
+Serier,Fantasy,Nickelodeon Nordics HD,0.4564747579087245
+Serier,Komedie,Nickelodeon Nordics HD,0.5435252420912755
+Film,Animation,Nickelodeon Nordics HD,0.006655645490263435
+Film,Drama,Nickelodeon Nordics HD,0.011876579397481402
+Film,Familiefilm,Nickelodeon Nordics HD,0.543760209937214
+Film,Fantasy,Nickelodeon Nordics HD,0.03346618257863135
+Film,Komedie,Nickelodeon Nordics HD,0.31526591130551973
+Film,Krimi,Nickelodeon Nordics HD,0.08897547129089013
+Musik,Populærmusik,Nickelodeon Nordics HD,1.0
+Underholdning,Talentshow,Nickelodeon Nordics HD,1.0
+Nyheder & Aktualitet,Aktuelt,RTL HD,0.0818191831523635
+Nyheder & Aktualitet,Magasin,RTL HD,0.7492390928898125
+Nyheder & Aktualitet,Nyheder,RTL HD,0.15486671230677657
+Nyheder & Aktualitet,Politik,RTL HD,0.0010351378672030418
+Nyheder & Aktualitet,Samfund,RTL HD,0.0016624989265747723
+Nyheder & Aktualitet,Vejret,RTL HD,0.009898970491622581
+Nyheder & Aktualitet,Økonomi,RTL HD,0.0014784043656469988
+Serier,Drama,RTL HD,0.203624814123762
+Serier,Komedie,RTL HD,0.0966212117671598
+Serier,Krimi,RTL HD,0.30856378899901266
+Serier,Miniserie,RTL HD,0.009711168597676113
+Serier,Sæbeopera,RTL HD,0.3706073900806349
+Serier,Thriller,RTL HD,0.010871626431754494
+Underholdning,Quiz,RTL HD,0.10368190829408296
+Underholdning,Talentshow,RTL HD,0.0007891641653975362
+Underholdning,Talkshow,RTL HD,0.03884997829782006
+Underholdning,Underholdning,RTL HD,0.8566789492426994
+Humor & Satire,Humor,RTL HD,1.0
+Reality,Docu-soap,RTL HD,0.02955836663781967
+Reality,Reality,RTL HD,0.9704416333621804
+Dokumentar,Kriminalprogram,RTL HD,0.03106870605027328
+Dokumentar,Raportage,RTL HD,0.1600511871121785
+Dokumentar,Samfund,RTL HD,0.8088801068375482
+Film,Action,RTL HD,0.19745986162166254
+Film,Animation,RTL HD,0.16247482822789996
+Film,Drama,RTL HD,0.07122947413466234
+Film,Familiefilm,RTL HD,0.08992651213181772
+Film,Fantasy,RTL HD,0.08941543509655214
+Film,Gyser,RTL HD,0.01599118621058727
+Film,Komedie,RTL HD,0.2006658132341236
+Film,Kortfilm,RTL HD,0.0013745164266357316
+Film,Krimi,RTL HD,0.0404415555178732
+Film,Musical,RTL HD,0.005574057106232945
+Film,Romantik,RTL HD,0.060319583559851994
+Film,Science Fiction,RTL HD,0.02188904066952972
+Film,Thriller,RTL HD,0.04323813606257082
+Natur & Videnskab,Miljø,RTL HD,0.024820441755530394
+Natur & Videnskab,Natur,RTL HD,0.950532337383604
+Natur & Videnskab,Videnskab,RTL HD,0.0246472208608656
+Fritid,Antikviteter,RTL HD,0.1306706812194204
+Fritid,Madlavning,RTL HD,0.6398103123823862
+Fritid,Rejseprogram,RTL HD,0.22951900639819345
+Kultur & Historie,Film,RTL HD,0.0822272018748336
+Kultur & Historie,Historie,RTL HD,0.0013891932024775548
+Kultur & Historie,Kultur,RTL HD,0.011195800480493453
+Kultur & Historie,Magasin,RTL HD,0.9051878044421954
+Sport,Basketball,RTL HD,0.00861917617994103
+Sport,Fodbold,RTL HD,0.8005776639721752
+Sport,Motorsport,RTL HD,0.08839733216147048
+Sport,Sportsdokumentar,RTL HD,0.002620144480882906
+Sport,Sportsmagasin,RTL HD,0.09978568320553034
+Livsstil,Forbrugerprogram,RTL HD,0.052735015138684976
+Livsstil,Kendisser,RTL HD,0.6404440913003255
+Livsstil,Livsstil,RTL HD,0.2938368712049941
+Livsstil,Sundhed,RTL HD,0.01298402235599538
+Musik,Andet musik,RTL HD,0.7663401752082086
+Musik,Populærmusik,RTL HD,0.23365982479179132
+Børn & Ungdom,Animation,RTL HD,1.0
+Kultur & Historie,Historie,Viasat History HD,1.0
+Natur & Videnskab,Natur,Viasat History HD,0.45415402204823535
+Natur & Videnskab,Teknik,Viasat History HD,0.5458459779517647
+Dokumentar,Samfund,Viasat History HD,1.0
+Film,Dokumentar,Viasat History HD,1.0
+Livsstil,Kendisser,Viasat History HD,1.0
+Underholdning,Diverse,TV 2 Charlie,0.0063471761100811165
+Underholdning,Quiz,TV 2 Charlie,0.38697396179659593
+Underholdning,Talentshow,TV 2 Charlie,0.10550558653126975
+Underholdning,Talkshow,TV 2 Charlie,0.20274539102824438
+Underholdning,Underholdning,TV 2 Charlie,0.2984278845338088
+Serier,Drama,TV 2 Charlie,0.27210295960277175
+Serier,Fantasy,TV 2 Charlie,0.0012140748302606975
+Serier,Komedie,TV 2 Charlie,0.09078196114005266
+Serier,Krimi,TV 2 Charlie,0.6303877442631579
+Serier,Miniserie,TV 2 Charlie,0.0018785953594764888
+Serier,Thriller,TV 2 Charlie,0.0036346648042805403
+Musik,Andet musik,TV 2 Charlie,0.34646386290146824
+Musik,Klassisk,TV 2 Charlie,0.21107962012185788
+Musik,Populærmusik,TV 2 Charlie,0.4424565169766739
+Livsstil,Kendisser,TV 2 Charlie,0.9405779755361822
+Livsstil,Livsstil,TV 2 Charlie,0.059422024463817814
+Reality,Docu-soap,TV 2 Charlie,0.01293399675680959
+Reality,Reality,TV 2 Charlie,0.9870660032431904
+Film,Action,TV 2 Charlie,0.09610326523732848
+Film,Dokumentar,TV 2 Charlie,0.002378688835731337
+Film,Drama,TV 2 Charlie,0.0821389604613849
+Film,Familiefilm,TV 2 Charlie,0.11746745630569932
+Film,Komedie,TV 2 Charlie,0.3734127665624295
+Film,Krig,TV 2 Charlie,0.0011739860630329715
+Film,Krimi,TV 2 Charlie,0.2609028332407022
+Film,Musical,TV 2 Charlie,0.029394126863426507
+Film,Musik,TV 2 Charlie,0.006175753400573332
+Film,Romantik,TV 2 Charlie,0.006637732589782774
+Film,Thriller,TV 2 Charlie,0.024214430439908657
+Dokumentar,Kriminalprogram,TV 2 Charlie,0.10755507740504272
+Dokumentar,Musik,TV 2 Charlie,0.6918778854410499
+Dokumentar,Samfund,TV 2 Charlie,0.20056703715390742
+Humor & Satire,Humor,TV 2 Charlie,1.0
+Børn & Ungdom,Familieserie,TV 2 Charlie,1.0
+Nyheder & Aktualitet,Aktuelt,TV 2 Charlie,0.1257416739696378
+Nyheder & Aktualitet,Magasin,TV 2 Charlie,0.8742583260303621
+Kultur & Historie,Historie,TV 2 Charlie,0.7174338222896645
+Kultur & Historie,Kultur,TV 2 Charlie,0.28256617771033554
+Sport,Håndbold,TV 2 Charlie,0.9074855693267105
+Sport,Sportsmagasin,TV 2 Charlie,0.09251443067328947
+Nyheder & Aktualitet,Magasin,DR Event 1,0.9866854487144845
+Nyheder & Aktualitet,Nyheder,DR Event 1,0.00038704216952917
+Nyheder & Aktualitet,Politik,DR Event 1,0.012927509115986393
+Dokumentar,Raportage,DR Event 1,1.0
+Natur & Videnskab,Natur,Viasat Nature HD,0.9948701312217497
+Natur & Videnskab,Videnskab,Viasat Nature HD,0.005129868778250301
+Reality,Docu-soap,Viasat Nature HD,0.0006636673971065305
+Reality,Reality,Viasat Nature HD,0.9993363326028935
+Dokumentar,Samfund,Viasat Nature HD,1.0
+Kultur & Historie,Historie,Viasat Nature HD,1.0
+Fritid,Rejseprogram,Viasat Nature HD,1.0
+Sport,Anden sport,TV3 SPORT,0.06751870891070165
+Sport,Baseball,TV3 SPORT,0.00017089225416805655
+Sport,Boksning,TV3 SPORT,0.0008941813599983343
+Sport,Ekstremsport,TV3 SPORT,0.00030465711154993526
+Sport,Fodbold,TV3 SPORT,0.4988748102749295
+Sport,Generelt,TV3 SPORT,4.763830612878131e-05
+Sport,Golf,TV3 SPORT,0.014272744193549928
+Sport,Håndbold,TV3 SPORT,0.09677546168970738
+Sport,Ishockey,TV3 SPORT,0.02903487167857484
+Sport,Motorsport,TV3 SPORT,0.09403435448792231
+Sport,Ridning,TV3 SPORT,0.0006738105974211839
+Sport,Sportsdokumentar,TV3 SPORT,0.005762055730267526
+Sport,Sportsmagasin,TV3 SPORT,0.18504384199414212
+Sport,Sportsnyheder,TV3 SPORT,8.550201494228746e-05
+Sport,Vintersport,TV3 SPORT,0.006506469395996126
+Underholdning,Underholdning,TV3 SPORT,1.0
+Dokumentar,Samfund,TV3 SPORT,1.0
+Serier,Drama,NRK 2 HD,0.34088700445646314
+Serier,Komedie,NRK 2 HD,0.003717802490181482
+Serier,Krimi,NRK 2 HD,0.6273134385477737
+Serier,Miniserie,NRK 2 HD,0.009991213893417337
+Serier,Thriller,NRK 2 HD,0.01809054061216441
+Fritid,Antikviteter,NRK 2 HD,0.1826346533764767
+Fritid,Hobby,NRK 2 HD,0.03783545036130038
+Fritid,Hus & Have,NRK 2 HD,0.4543604436738441
+Fritid,Madlavning,NRK 2 HD,0.08750481008068493
+Fritid,Rejseprogram,NRK 2 HD,0.2376646425076939
+Dokumentar,Dokumentar,NRK 2 HD,0.02103005530025541
+Dokumentar,Kriminalprogram,NRK 2 HD,0.03727237734438697
+Dokumentar,Musik,NRK 2 HD,0.19769224031660743
+Dokumentar,Raportage,NRK 2 HD,0.020021619002890418
+Dokumentar,Samfund,NRK 2 HD,0.7239837080358598
+Livsstil,Kendisser,NRK 2 HD,0.4163281189863241
+Livsstil,Livsstil,NRK 2 HD,0.4816996091377939
+Livsstil,Sundhed,NRK 2 HD,0.10197227187588201
+Nyheder & Aktualitet,Aktuelt,NRK 2 HD,0.058857225282104166
+Nyheder & Aktualitet,Magasin,NRK 2 HD,0.03333355439644796
+Nyheder & Aktualitet,Nyheder,NRK 2 HD,0.8335353297543215
+Nyheder & Aktualitet,Politik,NRK 2 HD,0.052808109479296886
+Nyheder & Aktualitet,Samfund,NRK 2 HD,0.0021114290735576463
+Nyheder & Aktualitet,Økonomi,NRK 2 HD,0.019354352014271835
+Underholdning,Quiz,NRK 2 HD,0.07224022218269201
+Underholdning,Spil og Lotteri,NRK 2 HD,0.03165239637112571
+Underholdning,Talentshow,NRK 2 HD,0.10068347295156051
+Underholdning,Talkshow,NRK 2 HD,0.07593469835985
+Underholdning,Underholdning,NRK 2 HD,0.7194892101347717
+Sport,Anden sport,NRK 2 HD,0.2060019347790814
+Sport,Brydning,NRK 2 HD,0.0013399628004933434
+Sport,EM,NRK 2 HD,0.021278233446237606
+Sport,Fodbold,NRK 2 HD,0.23780364630330356
+Sport,Motorsport,NRK 2 HD,0.005484885487024802
+Sport,Ridning,NRK 2 HD,0.006221720478989723
+Sport,Sportsdokumentar,NRK 2 HD,0.0937670408901863
+Sport,Sportsmagasin,NRK 2 HD,0.0029715518091846718
+Sport,Svømning,NRK 2 HD,0.002299763555107777
+Sport,VM,NRK 2 HD,0.13595996879202066
+Sport,Vintersport,NRK 2 HD,0.2868712916583702
+Kultur & Historie,Arkitektur,NRK 2 HD,0.017800068103702535
+Kultur & Historie,Civilisation,NRK 2 HD,0.046507797092636013
+Kultur & Historie,Film,NRK 2 HD,0.00021095219523755888
+Kultur & Historie,Historie,NRK 2 HD,0.47435010121147764
+Kultur & Historie,Kultur,NRK 2 HD,0.27177674486438835
+Kultur & Historie,Kunst,NRK 2 HD,0.07295690520107846
+Kultur & Historie,Litteratur,NRK 2 HD,0.002313963277389766
+Kultur & Historie,Magasin,NRK 2 HD,0.08605872935158894
+Kultur & Historie,Religion,NRK 2 HD,0.02802473870250076
+Musik,Andet musik,NRK 2 HD,0.2089340153981295
+Musik,Country,NRK 2 HD,0.1288020401153796
+Musik,Danseband,NRK 2 HD,0.010363950261549357
+Musik,Folkemusik,NRK 2 HD,0.0008692982696101228
+Musik,Jazz,NRK 2 HD,0.004485548676143841
+Musik,Klassisk,NRK 2 HD,0.1338840915377157
+Musik,Magasin,NRK 2 HD,0.06366621985951411
+Musik,Opera,NRK 2 HD,0.001069905562597074
+Musik,Populærmusik,NRK 2 HD,0.42177379400062615
+Musik,Religiøse sange,NRK 2 HD,0.026151136318734593
+Natur & Videnskab,Miljø,NRK 2 HD,0.06648350377791523
+Natur & Videnskab,Natur,NRK 2 HD,0.7711181704137496
+Natur & Videnskab,Teknik,NRK 2 HD,0.11948126651211997
+Natur & Videnskab,Videnskab,NRK 2 HD,0.04291705929621515
+Reality,Docu-soap,NRK 2 HD,0.7001510991396664
+Reality,Reality,NRK 2 HD,0.29984890086033356
+Film,Dokumentar,NRK 2 HD,0.13935645154118642
+Film,Drama,NRK 2 HD,0.4171850065955565
+Film,Komedie,NRK 2 HD,0.05386124134796377
+Film,Kortfilm,NRK 2 HD,0.037918274385032286
+Film,Musik,NRK 2 HD,0.3381297274330687
+Film,Western,NRK 2 HD,0.013549298697192319
+Børn & Ungdom,Blandede bolcher,NRK 2 HD,0.04325894838787781
+Børn & Ungdom,Børneserier,NRK 2 HD,0.06432347362898995
+Børn & Ungdom,Familieserie,NRK 2 HD,0.8924175779831323
+Humor & Satire,Humor,NRK 2 HD,1.0
+Dokumentar,Samfund,Animal Planet HD,1.0
+Reality,Docu-soap,Animal Planet HD,0.34317246705660176
+Reality,Reality,Animal Planet HD,0.6568275329433982
+Underholdning,Underholdning,Animal Planet HD,1.0
+Natur & Videnskab,Miljø,Animal Planet HD,0.03872194780659409
+Natur & Videnskab,Natur,Animal Planet HD,0.9612780521934059
+Livsstil,Sundhed,Animal Planet HD,1.0
+Fritid,Hobby,Animal Planet HD,0.054817869377123796
+Fritid,Hus & Have,Animal Planet HD,0.161016052932062
+Fritid,Rejseprogram,Animal Planet HD,0.7841660776908143
+Kultur & Historie,Kultur,Animal Planet HD,1.0
+Reality,Docu-soap,TV3 MAX,0.6021491952630701
+Reality,Reality,TV3 MAX,0.39785080473692985
+Natur & Videnskab,Natur,TV3 MAX,1.0
+Sport,Anden sport,TV3 MAX,0.03299753746004864
+Sport,Baseball,TV3 MAX,0.0007101268104959809
+Sport,Ekstremsport,TV3 MAX,9.114864577356048e-05
+Sport,Fodbold,TV3 MAX,0.7580435128574208
+Sport,Generelt,TV3 MAX,4.088288725313411e-06
+Sport,Golf,TV3 MAX,0.003978950233678514
+Sport,Håndbold,TV3 MAX,0.0651675214468084
+Sport,Ishockey,TV3 MAX,0.0033283241231226533
+Sport,Motorsport,TV3 MAX,0.02794361618546494
+Sport,Ridning,TV3 MAX,6.391473571523884e-05
+Sport,Sportsdokumentar,TV3 MAX,0.007683357990622738
+Sport,Sportsmagasin,TV3 MAX,0.09374099780792403
+Sport,Vintersport,TV3 MAX,0.006246903414199208
+Kultur & Historie,Historie,TV3 MAX,1.0
+Dokumentar,Samfund,TV3 MAX,1.0
+Fritid,Motor,TV3 MAX,1.0
+Underholdning,Underholdning,TV3 MAX,1.0
+Nyheder & Aktualitet,Aktuelt,TV3 MAX,1.0
+Sport,Golf,V Sport Golf,0.9829318426787014
+Sport,Sportsdokumentar,V Sport Golf,0.003039130190901101
+Sport,Sportsmagasin,V Sport Golf,0.014029027130397576
+Reality,Docu-soap,Sat1,0.4712267251159718
+Reality,Reality,Sat1,0.5287732748840281
+Fritid,Madlavning,Sat1,0.9410203948030528
+Fritid,Rejseprogram,Sat1,0.05897960519694718
+Underholdning,Quiz,Sat1,0.038201244610368494
+Underholdning,Talentshow,Sat1,0.004265054067319243
+Underholdning,Talkshow,Sat1,0.05607271817432345
+Underholdning,Underholdning,Sat1,0.9014609831479888
+Dokumentar,Kriminalprogram,Sat1,0.11930721214727233
+Dokumentar,Raportage,Sat1,0.05395555946032022
+Dokumentar,Samfund,Sat1,0.8267372283924075
+Film,Action,Sat1,0.362882656611125
+Film,Animation,Sat1,0.05576632182565932
+Film,Dokumentar,Sat1,0.002500388603347641
+Film,Drama,Sat1,0.07138879663943903
+Film,Familiefilm,Sat1,0.046947069440929315
+Film,Fantasy,Sat1,0.16317364712360524
+Film,Gyser,Sat1,0.017449157052782594
+Film,Komedie,Sat1,0.12878570988042976
+Film,Krimi,Sat1,0.011591623572540706
+Film,Musical,Sat1,0.002142017912300359
+Film,Musik,Sat1,0.000550326590618627
+Film,Romantik,Sat1,0.006231107969134255
+Film,Science Fiction,Sat1,0.07245264899618516
+Film,Thriller,Sat1,0.05813852778190298
+Serier,Action,Sat1,0.07867192038556207
+Serier,Drama,Sat1,0.26922353196733195
+Serier,Komedie,Sat1,0.06421653686261225
+Serier,Krimi,Sat1,0.5670819666245962
+Serier,Miniserie,Sat1,0.016339734065848145
+Serier,Romantik,Sat1,0.0004797012663596234
+Serier,Sæbeopera,Sat1,0.0006002540659759232
+Serier,Thriller,Sat1,0.003386354761713891
+Nyheder & Aktualitet,Aktuelt,Sat1,0.07018807547159094
+Nyheder & Aktualitet,Magasin,Sat1,0.585547918446491
+Nyheder & Aktualitet,Nyheder,Sat1,0.33907119397758045
+Nyheder & Aktualitet,Politik,Sat1,0.004820058543609238
+Nyheder & Aktualitet,Vejret,Sat1,0.0003727535607283889
+Humor & Satire,Humor,Sat1,1.0
+Kultur & Historie,Film,Sat1,0.0010516629420270803
+Kultur & Historie,Historie,Sat1,0.1278874720652031
+Kultur & Historie,Magasin,Sat1,0.5855203540598571
+Kultur & Historie,Religion,Sat1,0.28554051093291266
+Sport,Fodbold,Sat1,0.9595300777276405
+Sport,Generelt,Sat1,0.016499653343307687
+Sport,OL,Sat1,0.0008025224005346908
+Sport,Sportsdokumentar,Sat1,0.01435839544574088
+Sport,Sportsmagasin,Sat1,0.005601481605839818
+Sport,Sportsnyheder,Sat1,0.003207869476936388
+Livsstil,Forbrugerprogram,Sat1,0.09719492011584482
+Livsstil,Kendisser,Sat1,0.7032391942240749
+Livsstil,Livsstil,Sat1,0.10018390409561971
+Livsstil,Sundhed,Sat1,0.0993819815644606
+Nyheder & Aktualitet,Aktuelt,SVT1,0.11837127661320114
+Nyheder & Aktualitet,Nyheder,SVT1,0.5166830372330554
+Nyheder & Aktualitet,Politik,SVT1,0.04856115312178366
+Nyheder & Aktualitet,Samfund,SVT1,0.31163573072807854
+Nyheder & Aktualitet,Økonomi,SVT1,0.004748802303881287
+Underholdning,Quiz,SVT1,0.01761891268064878
+Underholdning,Talentshow,SVT1,0.09605571097249113
+Underholdning,Talkshow,SVT1,0.18463504205966486
+Underholdning,Underholdning,SVT1,0.7016903342871953
+Film,Action,SVT1,0.03903970292515171
+Film,Animation,SVT1,0.003568469653467288
+Film,Dokumentar,SVT1,0.011293163972192015
+Film,Drama,SVT1,0.44655841661131135
+Film,Familiefilm,SVT1,0.04058589957580936
+Film,Fantasy,SVT1,0.010945990750138907
+Film,Gyser,SVT1,0.0035609790116622885
+Film,Komedie,SVT1,0.21426311932836742
+Film,Kortfilm,SVT1,0.007552289386485592
+Film,Krig,SVT1,0.022941512548046758
+Film,Krimi,SVT1,0.08056081113316066
+Film,Musical,SVT1,0.00563668792980812
+Film,Romantik,SVT1,0.013091478802104574
+Film,Science Fiction,SVT1,0.004256166650837512
+Film,Thriller,SVT1,0.07569938460171596
+Film,Western,SVT1,0.020445927119740474
+Serier,Drama,SVT1,0.45854455256832816
+Serier,Fantasy,SVT1,0.02794898197571306
+Serier,Komedie,SVT1,0.06329325846299924
+Serier,Krimi,SVT1,0.4150998001830554
+Serier,Miniserie,SVT1,0.00501268604567389
+Serier,Sæbeopera,SVT1,0.024297646165527716
+Serier,Thriller,SVT1,0.0058030745987024835
+Livsstil,Kendisser,SVT1,0.25207176222490485
+Livsstil,Livsstil,SVT1,0.6274085037630086
+Livsstil,Mode,SVT1,0.0201706723568559
+Livsstil,Sundhed,SVT1,0.10034906165523064
+Sport,Anden sport,SVT1,0.0728622593086493
+Sport,Basketball,SVT1,0.006803606053433325
+Sport,Bordtennis,SVT1,1.596628025329742e-05
+Sport,Curling,SVT1,0.03072301267878231
+Sport,Cykling,SVT1,0.02766454626080931
+Sport,Fodbold,SVT1,0.20918239252356466
+Sport,Generelt,SVT1,0.015013910759422799
+Sport,Golf,SVT1,0.002336217501732079
+Sport,Gymnastik,SVT1,0.003651675636803387
+Sport,Håndbold,SVT1,0.0128157241165756
+Sport,Ishockey,SVT1,0.10431061303346581
+Sport,Motorsport,SVT1,0.012213958060581448
+Sport,Nyheder,SVT1,0.01296711530985027
+Sport,Ridning,SVT1,0.03554541273599384
+Sport,Sportsdokumentar,SVT1,0.007509875724516154
+Sport,Sportsmagasin,SVT1,0.05587532989038186
+Sport,Tennis,SVT1,0.0962415804125596
+Sport,VM,SVT1,0.005451664676272875
+Sport,Vintersport,SVT1,0.2886987401211153
+Sport,Volleyball,SVT1,0.00011639891523678784
+Fritid,Antikviteter,SVT1,0.3052251690470372
+Fritid,Hobby,SVT1,0.004244249371416435
+Fritid,Hus & Have,SVT1,0.5310304671694205
+Fritid,Madlavning,SVT1,0.07953609687260803
+Fritid,Motor,SVT1,0.0025021321831534375
+Fritid,Rejseprogram,SVT1,0.07746188535636445
+Humor & Satire,Humor,SVT1,1.0
+Kultur & Historie,Arkitektur,SVT1,0.003660183005929722
+Kultur & Historie,Historie,SVT1,0.04331817730937741
+Kultur & Historie,Kultur,SVT1,0.27798743718269286
+Kultur & Historie,Kunst,SVT1,0.011148663010670407
+Kultur & Historie,Litteratur,SVT1,0.01865566131922464
+Kultur & Historie,Magasin,SVT1,0.6165068617561922
+Kultur & Historie,Religion,SVT1,0.028723016415912732
+Dokumentar,Dokumentar,SVT1,0.0417949468678916
+Dokumentar,Kriminalprogram,SVT1,0.0778249326418829
+Dokumentar,Musik,SVT1,0.15367452903774714
+Dokumentar,Raportage,SVT1,0.10734870570869452
+Dokumentar,Samfund,SVT1,0.6193568857437839
+Reality,Docu-soap,SVT1,0.13154501887746925
+Reality,Reality,SVT1,0.8684549811225307
+Natur & Videnskab,Miljø,SVT1,0.05558923495603058
+Natur & Videnskab,Natur,SVT1,0.8095166288366756
+Natur & Videnskab,Teknik,SVT1,0.0402338864835807
+Natur & Videnskab,Videnskab,SVT1,0.09466024972371308
+Musik,Andet musik,SVT1,0.1204400124190455
+Musik,Danseband,SVT1,0.002490173180225716
+Musik,Magasin,SVT1,0.002093054653346346
+Musik,Opera,SVT1,0.0009443384017161193
+Musik,Populærmusik,SVT1,0.8740324213456663
+Børn & Ungdom,Blandede bolcher,SVT1,0.023696862468309758
+Børn & Ungdom,Børneserier,SVT1,0.006592836185586914
+Børn & Ungdom,Skolebørn,SVT1,0.9548629683904681
+Børn & Ungdom,Småbørn,SVT1,0.005697122003867713
+Børn & Ungdom,Undervisning,SVT1,0.009150210951767532
+Kultur & Historie,Arkitektur,DK4,0.0010904666989878038
+Kultur & Historie,Film,DK4,0.0016260773608166204
+Kultur & Historie,Historie,DK4,0.09612698074091694
+Kultur & Historie,Kultur,DK4,0.30921352225626725
+Kultur & Historie,Kunst,DK4,0.008889849414826699
+Kultur & Historie,Litteratur,DK4,0.11861931413219554
+Kultur & Historie,Magasin,DK4,0.42003144866187014
+Kultur & Historie,Religion,DK4,0.044402340734119
+Livsstil,Kendisser,DK4,0.9991230719158589
+Livsstil,Livsstil,DK4,0.0006770955464963652
+Livsstil,Sundhed,DK4,0.00019983253764472667
+Dokumentar,Musik,DK4,0.023440403650400433
+Dokumentar,Raportage,DK4,0.16314508932239066
+Dokumentar,Samfund,DK4,0.813414507027209
+Nyheder & Aktualitet,Aktuelt,DK4,0.06683379467184887
+Nyheder & Aktualitet,Magasin,DK4,0.10646959906205758
+Nyheder & Aktualitet,Politik,DK4,0.30195451485672226
+Nyheder & Aktualitet,Samfund,DK4,0.5247420914093713
+Musik,Andet musik,DK4,0.5766865567722594
+Musik,Folkemusik,DK4,0.0012617244084001664
+Musik,Jazz,DK4,0.0010794060731017293
+Musik,Klassisk,DK4,0.004165092942943418
+Musik,Magasin,DK4,0.0023850248954716442
+Musik,Opera,DK4,0.005984137282249186
+Musik,Populærmusik,DK4,0.40843805762557445
+Fritid,Hobby,DK4,0.025955217729814236
+Fritid,Hus & Have,DK4,0.474047543751072
+Fritid,Madlavning,DK4,0.06379847525038948
+Fritid,Motor,DK4,0.04313068087108059
+Fritid,Rejseprogram,DK4,0.39306808239764374
+Underholdning,Spil og Lotteri,DK4,0.30626642046893837
+Underholdning,Talentshow,DK4,0.08521244172822572
+Underholdning,Underholdning,DK4,0.6085211378028359
+Natur & Videnskab,Miljø,DK4,0.03528243459447284
+Natur & Videnskab,Natur,DK4,0.7319043252591646
+Natur & Videnskab,Teknik,DK4,0.09690927373254532
+Natur & Videnskab,Videnskab,DK4,0.13590396641381727
+Sport,Golf,DK4,1.0
+Underholdning,Diverse,Das Erste HD,0.01797547084827587
+Underholdning,Quiz,Das Erste HD,0.24964943967078923
+Underholdning,Spil og Lotteri,Das Erste HD,0.01185049369005444
+Underholdning,Talentshow,Das Erste HD,0.10791119429977757
+Underholdning,Talkshow,Das Erste HD,0.19324906160674785
+Underholdning,Underholdning,Das Erste HD,0.41936433988435506
+Serier,Animation,Das Erste HD,0.0009354083612191833
+Serier,Drama,Das Erste HD,0.2913631101856492
+Serier,Fantasy,Das Erste HD,0.0009988010249351474
+Serier,Komedie,Das Erste HD,0.055019726156494836
+Serier,Krimi,Das Erste HD,0.5597319216024558
+Serier,Miniserie,Das Erste HD,0.015016588454097734
+Serier,Romantik,Das Erste HD,0.0028966584362639797
+Serier,Sæbeopera,Das Erste HD,0.061964062366234
+Serier,Thriller,Das Erste HD,0.011782840626377574
+Serier,Ungdom,Das Erste HD,0.0002908827862725833
+Reality,Docu-soap,Das Erste HD,0.5808866375572879
+Reality,Reality,Das Erste HD,0.41911336244271213
+Nyheder & Aktualitet,Aktuelt,Das Erste HD,0.04149047560225394
+Nyheder & Aktualitet,Magasin,Das Erste HD,0.20878243930303614
+Nyheder & Aktualitet,Nyheder,Das Erste HD,0.5832825181026923
+Nyheder & Aktualitet,Politik,Das Erste HD,0.09415665702752743
+Nyheder & Aktualitet,Samfund,Das Erste HD,0.006849094679802898
+Nyheder & Aktualitet,Vejret,Das Erste HD,0.0183663279856912
+Nyheder & Aktualitet,Økonomi,Das Erste HD,0.04707248729899612
+Livsstil,Kendisser,Das Erste HD,0.060016704220800236
+Livsstil,Livsstil,Das Erste HD,0.9285519093510903
+Livsstil,Sundhed,Das Erste HD,0.011431386428109421
+Film,Action,Das Erste HD,0.008026008556809093
+Film,Animation,Das Erste HD,0.0003254715591197958
+Film,Dokumentar,Das Erste HD,0.00046127438949776067
+Film,Drama,Das Erste HD,0.27709717580064935
+Film,Familiefilm,Das Erste HD,0.013481403581344803
+Film,Fantasy,Das Erste HD,0.01956733344924286
+Film,Gyser,Das Erste HD,0.00042213149337311955
+Film,Komedie,Das Erste HD,0.12908150949632616
+Film,Kortfilm,Das Erste HD,0.0004516701925141459
+Film,Krig,Das Erste HD,0.004668504884220813
+Film,Krimi,Das Erste HD,0.49337201234416883
+Film,Musik,Das Erste HD,0.001403695874208976
+Film,Romantik,Das Erste HD,0.022042739263643283
+Film,Science Fiction,Das Erste HD,0.000773598755642131
+Film,Thriller,Das Erste HD,0.02652005110689323
+Film,Western,Das Erste HD,0.0023054192523456565
+Kultur & Historie,Filosofi,Das Erste HD,0.005921267486270072
+Kultur & Historie,Historie,Das Erste HD,0.13973309124743316
+Kultur & Historie,Kultur,Das Erste HD,0.14356721938526884
+Kultur & Historie,Kunst,Das Erste HD,0.005445269588777067
+Kultur & Historie,Litteratur,Das Erste HD,0.017777972626827825
+Kultur & Historie,Magasin,Das Erste HD,0.6430467484487159
+Kultur & Historie,Religion,Das Erste HD,0.044508431216707174
+Sport,Anden sport,Das Erste HD,0.0002959849020127554
+Sport,Fodbold,Das Erste HD,0.21578699187267766
+Sport,Nyheder,Das Erste HD,0.7794415395046019
+Sport,Sportsdokumentar,Das Erste HD,0.0003650052546110909
+Sport,Sportsmagasin,Das Erste HD,0.004110478466096506
+Natur & Videnskab,Miljø,Das Erste HD,0.0924031672561317
+Natur & Videnskab,Natur,Das Erste HD,0.7649503377780669
+Natur & Videnskab,Teknik,Das Erste HD,0.07334333871448673
+Natur & Videnskab,Videnskab,Das Erste HD,0.06930315625131475
+Dokumentar,Kriminalprogram,Das Erste HD,0.04811403995265518
+Dokumentar,Musik,Das Erste HD,0.03754610072186605
+Dokumentar,Raportage,Das Erste HD,0.23864363236881941
+Dokumentar,Samfund,Das Erste HD,0.6756962269566593
+Børn & Ungdom,Animation,Das Erste HD,0.1367994634751259
+Børn & Ungdom,Blandede bolcher,Das Erste HD,0.5907657673202975
+Børn & Ungdom,Børneserier,Das Erste HD,0.12780369907672628
+Børn & Ungdom,Familieserie,Das Erste HD,0.12595479340801427
+Børn & Ungdom,Skolebørn,Das Erste HD,0.018676276719836005
+Humor & Satire,Humor,Das Erste HD,1.0
+Musik,Andet musik,Das Erste HD,0.5178664854286632
+Musik,Klassisk,Das Erste HD,0.12070835968569224
+Musik,Populærmusik,Das Erste HD,0.3614251548856446
+Fritid,Hobby,Das Erste HD,0.1092836676217765
+Fritid,Hus & Have,Das Erste HD,0.27532951289398283
+Fritid,Rejseprogram,Das Erste HD,0.6153868194842407
+Nyheder & Aktualitet,Aktuelt,NDR HD,0.020454878173972086
+Nyheder & Aktualitet,Magasin,NDR HD,0.6519780045035299
+Nyheder & Aktualitet,Nyheder,NDR HD,0.3060481032616291
+Nyheder & Aktualitet,Politik,NDR HD,0.017206490562482083
+Nyheder & Aktualitet,Økonomi,NDR HD,0.004312523498386782
+Dokumentar,Dokumentar,NDR HD,0.0014999200202501191
+Dokumentar,Kriminalprogram,NDR HD,0.034498103378136837
+Dokumentar,Musik,NDR HD,0.003484342636673747
+Dokumentar,Raportage,NDR HD,0.5570521644940832
+Dokumentar,Samfund,NDR HD,0.40346546947085604
+Underholdning,Diverse,NDR HD,0.004843940229700739
+Underholdning,Quiz,NDR HD,0.3873592025538788
+Underholdning,Spil og Lotteri,NDR HD,0.05571667483815837
+Underholdning,Talentshow,NDR HD,0.004537000135703216
+Underholdning,Talkshow,NDR HD,0.4241591063396555
+Underholdning,Underholdning,NDR HD,0.12338407590290339
+Livsstil,Forbrugerprogram,NDR HD,0.08067999465854282
+Livsstil,Kendisser,NDR HD,0.10469904887357873
+Livsstil,Livsstil,NDR HD,0.6947545079861575
+Livsstil,Mode,NDR HD,0.0002490039464918773
+Livsstil,Sundhed,NDR HD,0.1196174445352291
+Kultur & Historie,Arkitektur,NDR HD,0.001954619899700985
+Kultur & Historie,Filosofi,NDR HD,0.0010777484712265817
+Kultur & Historie,Historie,NDR HD,0.1722733878424172
+Kultur & Historie,Kultur,NDR HD,0.09198033130455474
+Kultur & Historie,Kunst,NDR HD,0.01813797933848369
+Kultur & Historie,Magasin,NDR HD,0.7124081376067094
+Kultur & Historie,Religion,NDR HD,0.0021677955369073785
+Natur & Videnskab,Miljø,NDR HD,0.007765520909096885
+Natur & Videnskab,Natur,NDR HD,0.9577424887029863
+Natur & Videnskab,Teknik,NDR HD,0.028408112989134152
+Natur & Videnskab,Videnskab,NDR HD,0.006083877398782655
+Fritid,Hus & Have,NDR HD,0.09716439096047319
+Fritid,Madlavning,NDR HD,0.18424159288101036
+Fritid,Motor,NDR HD,0.01711967729117558
+Fritid,Rejseprogram,NDR HD,0.7014743388673409
+Serier,Drama,NDR HD,0.24236641701320888
+Serier,Komedie,NDR HD,0.10952952358501718
+Serier,Krimi,NDR HD,0.49608717343675135
+Serier,Miniserie,NDR HD,0.0037970284023492048
+Serier,Sæbeopera,NDR HD,0.13342418347346754
+Serier,Thriller,NDR HD,0.014795674089205828
+Film,Action,NDR HD,0.020511724369434336
+Film,Dokumentar,NDR HD,0.012798006096346464
+Film,Drama,NDR HD,0.2647903856020549
+Film,Familiefilm,NDR HD,0.003695048502791027
+Film,Fantasy,NDR HD,0.0260999603476722
+Film,Komedie,NDR HD,0.2386451905056241
+Film,Kortfilm,NDR HD,0.0007293873696991332
+Film,Krig,NDR HD,0.0028824757155506784
+Film,Krimi,NDR HD,0.29222272047777686
+Film,Romantik,NDR HD,0.0055839512253107945
+Film,Science Fiction,NDR HD,0.005016405094742621
+Film,Thriller,NDR HD,0.01751992624348733
+Film,Western,NDR HD,0.10950481844950952
+Musik,Andet musik,NDR HD,0.530885500259461
+Musik,Jazz,NDR HD,0.0008584985806059221
+Musik,Klassisk,NDR HD,0.032168770953939066
+Musik,Opera,NDR HD,0.00036118759860012466
+Musik,Populærmusik,NDR HD,0.4357260426073939
+Sport,Cykling,NDR HD,0.02097781266377811
+Sport,Esport,NDR HD,0.002854711889900866
+Sport,Fodbold,NDR HD,0.38592791704795026
+Sport,Generelt,NDR HD,0.13168373912614875
+Sport,Håndbold,NDR HD,0.04716551144736884
+Sport,Ridning,NDR HD,0.0589048310608308
+Sport,Sejlads,NDR HD,0.003956057669462982
+Sport,Sportsdokumentar,NDR HD,0.09807275564799689
+Sport,Sportsmagasin,NDR HD,0.24632947813082828
+Sport,Vandsport,NDR HD,0.004127185315734199
+Reality,Docu-soap,NDR HD,0.3712933482995821
+Reality,Reality,NDR HD,0.628706651700418
+Børn & Ungdom,Animation,NDR HD,0.17686847382977164
+Børn & Ungdom,Blandede bolcher,NDR HD,0.048800344151598556
+Børn & Ungdom,Børneserier,NDR HD,0.0286100803148921
+Børn & Ungdom,Familieserie,NDR HD,0.5304467856692366
+Børn & Ungdom,Småbørn,NDR HD,0.2152743160345011
+Humor & Satire,Humor,NDR HD,1.0
+Underholdning,Quiz,DR 1 Syn,0.047945494575560514
+Underholdning,Talkshow,DR 1 Syn,0.009588532997366832
+Underholdning,Underholdning,DR 1 Syn,0.9424659724270726
+Nyheder & Aktualitet,Aktuelt,DR 1 Syn,0.025565010136979583
+Nyheder & Aktualitet,Magasin,DR 1 Syn,0.7990876891036189
+Nyheder & Aktualitet,Nyheder,DR 1 Syn,0.04298486825725102
+Nyheder & Aktualitet,Politik,DR 1 Syn,0.05861474055997014
+Nyheder & Aktualitet,Samfund,DR 1 Syn,0.001950906699384944
+Nyheder & Aktualitet,Vejret,DR 1 Syn,0.07179678524279542
+Reality,Docu-soap,DR 1 Syn,0.1399561646912585
+Reality,Reality,DR 1 Syn,0.8600438353087415
+Fritid,Antikviteter,DR 1 Syn,0.2042610485278393
+Fritid,Hobby,DR 1 Syn,0.04164598618382809
+Fritid,Hus & Have,DR 1 Syn,0.4810766339834569
+Fritid,Madlavning,DR 1 Syn,0.1983670304500395
+Fritid,Rejseprogram,DR 1 Syn,0.0746493008548362
+Serier,Action,DR 1 Syn,0.00512844758215542
+Serier,Drama,DR 1 Syn,0.17033029879498543
+Serier,Komedie,DR 1 Syn,0.006667060800527975
+Serier,Krimi,DR 1 Syn,0.7743476046631532
+Serier,Miniserie,DR 1 Syn,0.021464711365072102
+Serier,Romantik,DR 1 Syn,0.002515673399630859
+Serier,Thriller,DR 1 Syn,0.019546203394474958
+Film,Action,DR 1 Syn,0.2148539277823261
+Film,Animation,DR 1 Syn,0.009460721131817396
+Film,Dokumentar,DR 1 Syn,0.006893870959483683
+Film,Drama,DR 1 Syn,0.18812221822249414
+Film,Familiefilm,DR 1 Syn,0.035835851159262265
+Film,Fantasy,DR 1 Syn,0.050702997201177206
+Film,Gyser,DR 1 Syn,0.003992907071455404
+Film,Komedie,DR 1 Syn,0.22299465156824463
+Film,Kortfilm,DR 1 Syn,0.0011379197385187922
+Film,Krig,DR 1 Syn,0.021872301163154598
+Film,Krimi,DR 1 Syn,0.08473897072077131
+Film,Science Fiction,DR 1 Syn,0.007457606220209935
+Film,Thriller,DR 1 Syn,0.1251006390218697
+Film,Western,DR 1 Syn,0.026835418039214867
+Dokumentar,Kriminalprogram,DR 1 Syn,0.032004396096944575
+Dokumentar,Raportage,DR 1 Syn,0.3427366589789837
+Dokumentar,Samfund,DR 1 Syn,0.6252589449240717
+Musik,Andet musik,DR 1 Syn,0.5886384916280704
+Musik,Klassisk,DR 1 Syn,0.030788604562394448
+Musik,Populærmusik,DR 1 Syn,0.3805729038095352
+Natur & Videnskab,Natur,DR 1 Syn,0.9811806150070593
+Natur & Videnskab,Videnskab,DR 1 Syn,0.018819384992940627
+Sport,Cykling,DR 1 Syn,0.010855796732195756
+Sport,EM,DR 1 Syn,0.009165102855869528
+Sport,Fodbold,DR 1 Syn,0.48105450396958804
+Sport,Generelt,DR 1 Syn,0.11384940849331252
+Sport,Håndbold,DR 1 Syn,0.14964342613209808
+Sport,Sportsdokumentar,DR 1 Syn,0.004397401693861322
+Sport,Sportsmagasin,DR 1 Syn,0.2167766844840147
+Sport,Tennis,DR 1 Syn,0.005908259643901249
+Sport,VM,DR 1 Syn,0.008349415995158808
+Livsstil,Forbrugerprogram,DR 1 Syn,0.11799170307827242
+Livsstil,Kendisser,DR 1 Syn,0.009143383424523166
+Livsstil,Livsstil,DR 1 Syn,0.8719066549723635
+Livsstil,Sundhed,DR 1 Syn,0.0009582585248408559
+Kultur & Historie,Arkitektur,DR 1 Syn,0.03278430572034889
+Kultur & Historie,Historie,DR 1 Syn,0.018193184572791874
+Kultur & Historie,Kultur,DR 1 Syn,0.29795167196131717
+Kultur & Historie,Kunst,DR 1 Syn,0.0035520938322637714
+Kultur & Historie,Magasin,DR 1 Syn,0.49448633384791385
+Kultur & Historie,Religion,DR 1 Syn,0.15303241006536447
+Børn & Ungdom,Animation,DR 1 Syn,0.5992488281455733
+Børn & Ungdom,Familieserie,DR 1 Syn,0.3518246036761995
+Børn & Ungdom,Skolebørn,DR 1 Syn,0.04892656817822721
+Humor & Satire,Humor,DR 1 Syn,1.0
+Film,Action,V Film Family,0.0453080149574206
+Film,Animation,V Film Family,0.37768425271591893
+Film,Drama,V Film Family,0.0529973679334521
+Film,Familiefilm,V Film Family,0.08671136932565623
+Film,Fantasy,V Film Family,0.022569922302862342
+Film,Gyser,V Film Family,0.0008568952673296216
+Film,Komedie,V Film Family,0.3519711635117894
+Film,Krimi,V Film Family,0.0005156842130368837
+Film,Musical,V Film Family,0.02887652535988133
+Film,Romantik,V Film Family,0.007895340170016788
+Film,Science Fiction,V Film Family,0.024613464242635726
+Børn & Ungdom,Animation,V Film Family,0.5894187165040539
+Børn & Ungdom,Blandede bolcher,V Film Family,0.41058128349594614
+Reality,Docu-soap,Kanal 4,0.2807227657989113
+Reality,Reality,Kanal 4,0.7192772342010887
+Film,Action,Kanal 4,0.005428912869991839
+Film,Animation,Kanal 4,0.013970807609048858
+Film,Drama,Kanal 4,0.35880459564469713
+Film,Familiefilm,Kanal 4,0.020949236633344505
+Film,Fantasy,Kanal 4,0.05226296568223134
+Film,Gyser,Kanal 4,0.0004257965633539195
+Film,Komedie,Kanal 4,0.31504927575235964
+Film,Krimi,Kanal 4,0.0025963009951872128
+Film,Musical,Kanal 4,0.01581276055903927
+Film,Romantik,Kanal 4,0.196510207224891
+Film,Thriller,Kanal 4,0.01818914046585529
+Serier,Drama,Kanal 4,0.9532926978207659
+Serier,Komedie,Kanal 4,0.03108831545042048
+Serier,Krimi,Kanal 4,0.015618986728813605
+Dokumentar,Kriminalprogram,Kanal 4,0.5544884865400557
+Dokumentar,Raportage,Kanal 4,0.03675039832644468
+Dokumentar,Samfund,Kanal 4,0.40876111513349966
+Fritid,Hus & Have,Kanal 4,0.9915720930265293
+Fritid,Madlavning,Kanal 4,0.008427906973470704
+Nyheder & Aktualitet,Aktuelt,Kanal 4,0.07840815533012473
+Nyheder & Aktualitet,Samfund,Kanal 4,0.9215918446698753
+Underholdning,Talkshow,Kanal 4,0.016942305203734628
+Underholdning,Underholdning,Kanal 4,0.9830576947962654
+Livsstil,Livsstil,Kanal 4,0.5433235238428104
+Livsstil,Mode,Kanal 4,0.005860506894617199
+Livsstil,Shopping,Kanal 4,0.4508159692625725
+Humor & Satire,Humor,Kanal 4,1.0
+Film,Action,C More Stars HD,0.22502215559399327
+Film,Animation,C More Stars HD,0.005230017095232308
+Film,Dokumentar,C More Stars HD,0.017789320835576914
+Film,Drama,C More Stars HD,0.24159151377105262
+Film,Familiefilm,C More Stars HD,0.013855832288998289
+Film,Fantasy,C More Stars HD,0.03228083254117578
+Film,Gyser,C More Stars HD,0.0412258804236774
+Film,Komedie,C More Stars HD,0.16688549268517153
+Film,Krig,C More Stars HD,0.0011768282988298484
+Film,Krimi,C More Stars HD,0.06450921216388943
+Film,Musical,C More Stars HD,0.010463588692265165
+Film,Musik,C More Stars HD,0.0004677532234287781
+Film,Romantik,C More Stars HD,0.005373061775800279
+Film,Science Fiction,C More Stars HD,0.042271192155887
+Film,Thriller,C More Stars HD,0.13185731845502138
+Underholdning,Underholdning,C More Stars HD,1.0
+Livsstil,Kendisser,C More Stars HD,1.0
+Kultur & Historie,Film,C More Stars HD,0.07319142125480153
+Kultur & Historie,Historie,C More Stars HD,0.2959346991037132
+Kultur & Historie,Kunst,C More Stars HD,0.1522407170294494
+Kultur & Historie,Magasin,C More Stars HD,0.47863316261203587
+Dokumentar,Musik,C More Stars HD,0.314616019818332
+Dokumentar,Samfund,C More Stars HD,0.685383980181668
+Børn & Ungdom,Animation,C More Stars HD,1.0
+Reality,Docu-soap,Kanal 5,0.44152529580713606
+Reality,Reality,Kanal 5,0.5584747041928639
+Serier,Action,Kanal 5,0.0020512070704211145
+Serier,Drama,Kanal 5,0.01391844573364201
+Serier,Komedie,Kanal 5,0.18102043636352227
+Serier,Krimi,Kanal 5,0.7917159229922532
+Serier,Thriller,Kanal 5,0.011293987840161392
+Film,Action,Kanal 5,0.36974648862656717
+Film,Animation,Kanal 5,0.07548438908852434
+Film,Dokumentar,Kanal 5,0.0062354699922653155
+Film,Drama,Kanal 5,0.1122664223837363
+Film,Familiefilm,Kanal 5,0.014070712980879842
+Film,Fantasy,Kanal 5,0.1332377252880861
+Film,Gyser,Kanal 5,0.009380642301116793
+Film,Komedie,Kanal 5,0.16002719964478168
+Film,Krimi,Kanal 5,0.009140644573468438
+Film,Musical,Kanal 5,0.005261418374701658
+Film,Romantik,Kanal 5,0.005134760284594607
+Film,Science Fiction,Kanal 5,0.04612570253532272
+Film,Thriller,Kanal 5,0.05288079777433794
+Film,Western,Kanal 5,0.0010076261516170956
+Fritid,Hus & Have,Kanal 5,0.6284529238615892
+Fritid,Motor,Kanal 5,0.37154707613841076
+Dokumentar,Kriminalprogram,Kanal 5,0.2886383487778572
+Dokumentar,Samfund,Kanal 5,0.7113616512221428
+Sport,Cykling,Kanal 5,0.8100067570955022
+Sport,Sportsdokumentar,Kanal 5,0.020254490029036655
+Sport,Sportsmagasin,Kanal 5,0.15434907669196657
+Sport,Tennis,Kanal 5,0.015389676183494589
+Livsstil,Kendisser,Kanal 5,0.018722751216226463
+Livsstil,Livsstil,Kanal 5,0.978150985993335
+Livsstil,Mode,Kanal 5,0.0031262627904384867
+Underholdning,Talkshow,Kanal 5,0.00918345625422963
+Underholdning,Underholdning,Kanal 5,0.9908165437457703
+Nyheder & Aktualitet,Aktuelt,Kanal 5,0.2058112732862727
+Nyheder & Aktualitet,Samfund,Kanal 5,0.7941887267137273
+Reality,Docu-soap,TV3 HD Danmark,0.0013570717527723636
+Reality,Reality,TV3 HD Danmark,0.9986429282472277
+Underholdning,Talentshow,TV3 HD Danmark,0.005035419515343285
+Underholdning,Underholdning,TV3 HD Danmark,0.9949645804846567
+Serier,Action,TV3 HD Danmark,0.047861872548515844
+Serier,Drama,TV3 HD Danmark,0.1754829911978787
+Serier,Fantasy,TV3 HD Danmark,0.01933229562884932
+Serier,Komedie,TV3 HD Danmark,0.035415445280273336
+Serier,Krimi,TV3 HD Danmark,0.6285251569223917
+Serier,Science Fiction,TV3 HD Danmark,0.034604449450785606
+Serier,Thriller,TV3 HD Danmark,0.05877778897130548
+Film,Action,TV3 HD Danmark,0.39051347169326767
+Film,Animation,TV3 HD Danmark,0.017519397395007116
+Film,Dokumentar,TV3 HD Danmark,0.0006986565813680098
+Film,Drama,TV3 HD Danmark,0.09312019724395028
+Film,Familiefilm,TV3 HD Danmark,0.024601519052358776
+Film,Fantasy,TV3 HD Danmark,0.11670947578219772
+Film,Gyser,TV3 HD Danmark,0.01563326622959715
+Film,Komedie,TV3 HD Danmark,0.19393536784011722
+Film,Krig,TV3 HD Danmark,0.001932618119056342
+Film,Krimi,TV3 HD Danmark,0.027896121059070675
+Film,Musical,TV3 HD Danmark,0.011804967014638965
+Film,Romantik,TV3 HD Danmark,0.01807178543079082
+Film,Science Fiction,TV3 HD Danmark,0.02439087636695793
+Film,Thriller,TV3 HD Danmark,0.059598890946155204
+Film,Western,TV3 HD Danmark,0.0035733892454661484
+Fritid,Hobby,TV3 HD Danmark,0.14016936143872458
+Fritid,Madlavning,TV3 HD Danmark,0.855643682413648
+Fritid,Rejseprogram,TV3 HD Danmark,0.00418695614762744
+Dokumentar,Dokumentar,TV3 HD Danmark,0.1250606364272996
+Dokumentar,Kriminalprogram,TV3 HD Danmark,0.22655794728717032
+Dokumentar,Musik,TV3 HD Danmark,0.04127711106875133
+Dokumentar,Raportage,TV3 HD Danmark,0.135752273196504
+Dokumentar,Samfund,TV3 HD Danmark,0.47135203202027476
+Nyheder & Aktualitet,Økonomi,TV3 HD Danmark,1.0
+Livsstil,Kendisser,TV3 HD Danmark,0.010611107268799547
+Livsstil,Livsstil,TV3 HD Danmark,0.9893888927312005
+Kultur & Historie,Historie,TV3 HD Danmark,0.7393433793697967
+Kultur & Historie,Magasin,TV3 HD Danmark,0.26065662063020334
+Fritid,Hobby,CANAL9 HD,0.0008195802586640602
+Fritid,Hus & Have,CANAL9 HD,0.0005405249161281296
+Fritid,Madlavning,CANAL9 HD,0.9979631281025212
+Fritid,Motor,CANAL9 HD,0.0006767667226866048
+Livsstil,Livsstil,CANAL9 HD,1.0
+Kultur & Historie,Historie,CANAL9 HD,1.0
+Dokumentar,Samfund,CANAL9 HD,1.0
+Serier,Komedie,CANAL9 HD,0.44103029757668943
+Serier,Krimi,CANAL9 HD,0.5589697024233106
+Underholdning,Underholdning,CANAL9 HD,1.0
+Reality,Docu-soap,CANAL9 HD,0.7876961626745359
+Reality,Reality,CANAL9 HD,0.21230383732546407
+Natur & Videnskab,Teknik,CANAL9 HD,1.0
+Sport,Fodbold,CANAL9 HD,0.8656116480944873
+Sport,Motorcykelsport,CANAL9 HD,0.00813578121873778
+Sport,Sejlads,CANAL9 HD,0.00017698340479030723
+Sport,Sportsmagasin,CANAL9 HD,0.12607558728198465
+Film,Thriller,CANAL9 HD,1.0
+Serier,Action,TV4 Sverige HD,0.08803224708336428
+Serier,Drama,TV4 Sverige HD,0.24771784965609908
+Serier,Komedie,TV4 Sverige HD,0.03620257748052589
+Serier,Krimi,TV4 Sverige HD,0.5127317936700372
+Serier,Miniserie,TV4 Sverige HD,0.0051634981364729465
+Serier,Sæbeopera,TV4 Sverige HD,0.04254342195944309
+Serier,Thriller,TV4 Sverige HD,0.06760861201405756
+Livsstil,Kendisser,TV4 Sverige HD,0.013586363108185177
+Livsstil,Livsstil,TV4 Sverige HD,0.9816840612987117
+Livsstil,Sundhed,TV4 Sverige HD,0.0047295755931031766
+Underholdning,Diverse,TV4 Sverige HD,0.0046850770890724406
+Underholdning,Quiz,TV4 Sverige HD,0.030453001078970865
+Underholdning,Spil og Lotteri,TV4 Sverige HD,0.19506758308287128
+Underholdning,Talentshow,TV4 Sverige HD,0.1903093016642821
+Underholdning,Talkshow,TV4 Sverige HD,0.1545070978967656
+Underholdning,Underholdning,TV4 Sverige HD,0.4249779391880377
+Nyheder & Aktualitet,Aktuelt,TV4 Sverige HD,0.014718265711071146
+Nyheder & Aktualitet,Magasin,TV4 Sverige HD,0.7744404470214068
+Nyheder & Aktualitet,Nyheder,TV4 Sverige HD,0.1284863583847651
+Nyheder & Aktualitet,Politik,TV4 Sverige HD,0.02102759513384733
+Nyheder & Aktualitet,Vejret,TV4 Sverige HD,0.05393069464491269
+Nyheder & Aktualitet,Økonomi,TV4 Sverige HD,0.007396639103996954
+Fritid,Antikviteter,TV4 Sverige HD,0.274187140921339
+Fritid,Hobby,TV4 Sverige HD,0.012902244999685168
+Fritid,Hus & Have,TV4 Sverige HD,0.5379631098639798
+Fritid,Madlavning,TV4 Sverige HD,0.174947504214996
+Film,Action,TV4 Sverige HD,0.35079131899753163
+Film,Animation,TV4 Sverige HD,0.0018617743707809034
+Film,Dokumentar,TV4 Sverige HD,0.0059800654998191155
+Film,Drama,TV4 Sverige HD,0.13195585653041686
+Film,Familiefilm,TV4 Sverige HD,0.0026952689516337425
+Film,Fantasy,TV4 Sverige HD,0.025796456358884376
+Film,Gyser,TV4 Sverige HD,0.011576020950590274
+Film,Komedie,TV4 Sverige HD,0.2553772522868949
+Film,Krig,TV4 Sverige HD,0.010557335259895112
+Film,Krimi,TV4 Sverige HD,0.01734938071723717
+Film,Musical,TV4 Sverige HD,0.002619208317234217
+Film,Romantik,TV4 Sverige HD,0.011502325194358377
+Film,Science Fiction,TV4 Sverige HD,0.022004614550237857
+Film,Thriller,TV4 Sverige HD,0.14211791105658603
+Film,Western,TV4 Sverige HD,0.007815210957899478
+Dokumentar,Dokumentar,TV4 Sverige HD,0.009803438236827246
+Dokumentar,Musik,TV4 Sverige HD,0.17847825186698507
+Dokumentar,Samfund,TV4 Sverige HD,0.8117183098961877
+Sport,Anden sport,TV4 Sverige HD,0.004363688231642515
+Sport,Fodbold,TV4 Sverige HD,0.7793454969895554
+Sport,Generelt,TV4 Sverige HD,0.004575474067184044
+Sport,Hestevæddeløb,TV4 Sverige HD,0.05505381031687517
+Sport,Ishockey,TV4 Sverige HD,0.10136101830776247
+Sport,Nyheder,TV4 Sverige HD,0.01912890971076829
+Sport,Sportsdokumentar,TV4 Sverige HD,0.004153248407387392
+Sport,Sportsmagasin,TV4 Sverige HD,0.03201835396882477
+Musik,Andet musik,TV4 Sverige HD,0.5662395078734502
+Musik,Populærmusik,TV4 Sverige HD,0.4337604921265498
+Reality,Docu-soap,TV4 Sverige HD,0.0036449830827155042
+Reality,Reality,TV4 Sverige HD,0.9963550169172845
+Humor & Satire,Humor,TV4 Sverige HD,1.0
+Kultur & Historie,Historie,TV4 Sverige HD,0.07910943492988749
+Kultur & Historie,Magasin,TV4 Sverige HD,0.4711670101470037
+Kultur & Historie,Religion,TV4 Sverige HD,0.44972355492310884
+Børn & Ungdom,Skolebørn,TV4 Sverige HD,1.0
+Natur & Videnskab,Miljø,TV4 Sverige HD,0.3039462135099148
+Natur & Videnskab,Natur,TV4 Sverige HD,0.11182729568836318
+Natur & Videnskab,Teknik,TV4 Sverige HD,0.5842264908017221
+Reality,Docu-soap,MTV HD,0.12616610319428154
+Reality,Reality,MTV HD,0.8738338968057184
+Musik,Populærmusik,MTV HD,1.0
+Underholdning,Talentshow,MTV HD,3.8510075088054265e-06
+Underholdning,Underholdning,MTV HD,0.9999961489924912
+Humor & Satire,Humor,MTV HD,1.0
+Dokumentar,Musik,MTV HD,0.566332960179114
+Dokumentar,Samfund,MTV HD,0.433667039820886
+Fritid,Hus & Have,MTV HD,1.0
+Film,Kortfilm,MTV HD,1.0
+Livsstil,Kendisser,MTV HD,1.0
+Dokumentar,Samfund,6'eren,1.0
+Reality,Docu-soap,6'eren,0.15811996869918174
+Reality,Reality,6'eren,0.8418800313008182
+Film,Action,6'eren,0.40192062474580226
+Film,Dokumentar,6'eren,0.005199711178901346
+Film,Drama,6'eren,0.14034146189080932
+Film,Fantasy,6'eren,0.04190051087750675
+Film,Gyser,6'eren,0.007729330847510996
+Film,Komedie,6'eren,0.18383625147937108
+Film,Krimi,6'eren,0.01590039894486941
+Film,Romantik,6'eren,0.002690979268935062
+Film,Science Fiction,6'eren,0.046839888664117715
+Film,Thriller,6'eren,0.14686883874243892
+Film,Western,6'eren,0.0067720033597371545
+Fritid,Hobby,6'eren,0.07374749833366735
+Fritid,Hus & Have,6'eren,0.01120509797210171
+Fritid,Madlavning,6'eren,0.005203850219158321
+Fritid,Motor,6'eren,0.9098435534750726
+Natur & Videnskab,Natur,6'eren,1.0
+Underholdning,Quiz,6'eren,0.0023607002764137485
+Underholdning,Underholdning,6'eren,0.9976392997235862
+Sport,Cykling,6'eren,0.04107999345499882
+Sport,Fodbold,6'eren,0.7148219205498068
+Sport,Golf,6'eren,0.009105238478944242
+Sport,Motorcykelsport,6'eren,0.023569557020567258
+Sport,Motorsport,6'eren,0.0009874013837882715
+Sport,Sejlads,6'eren,0.0001083412158340254
+Sport,Sportsdokumentar,6'eren,0.003037158780014591
+Sport,Sportsmagasin,6'eren,0.14883523309082533
+Sport,Tennis,6'eren,0.0584551560252207
+Serier,Action,6'eren,0.36417523873598906
+Serier,Drama,6'eren,0.4979381677095519
+Serier,Komedie,6'eren,0.137886593554459
+Kultur & Historie,Historie,6'eren,1.0
+Livsstil,Shopping,6'eren,1.0
+Underholdning,Quiz,BBC Brit HD,0.7511174142544871
+Underholdning,Talentshow,BBC Brit HD,0.10082178164441848
+Underholdning,Talkshow,BBC Brit HD,0.10282847674996967
+Underholdning,Underholdning,BBC Brit HD,0.045232327351124715
+Dokumentar,Kriminalprogram,BBC Brit HD,0.007385374598014583
+Dokumentar,Samfund,BBC Brit HD,0.9926146254019854
+Reality,Reality,BBC Brit HD,1.0
+Humor & Satire,Humor,BBC Brit HD,1.0
+Fritid,Antikviteter,BBC Brit HD,0.001088795395485436
+Fritid,Hus & Have,BBC Brit HD,0.0013009689192939626
+Fritid,Motor,BBC Brit HD,0.9686279917388085
+Fritid,Rejseprogram,BBC Brit HD,0.028982243946412026
+Nyheder & Aktualitet,Aktuelt,BBC Brit HD,0.5660462684246972
+Nyheder & Aktualitet,Samfund,BBC Brit HD,0.43395373157530276
+Kultur & Historie,Civilisation,BBC Brit HD,1.0
+Natur & Videnskab,Natur,BBC Brit HD,1.0
+Livsstil,Livsstil,BBC Brit HD,1.0
+Sport,Cykling,DR Event 3,0.1267670354107284
+Sport,EM,DR Event 3,0.38641786092369923
+Sport,Generelt,DR Event 3,0.2974000329430313
+Sport,Motorsport,DR Event 3,0.07879791268451723
+Sport,Ridning,DR Event 3,0.11061715803802388
+Dokumentar,Raportage,DR Event 3,1.0
+Sport,Amerikansk fodbold,TV 2 Sport X,0.005180426946356157
+Sport,Anden sport,TV 2 Sport X,0.009330418169174856
+Sport,Badminton,TV 2 Sport X,0.0011609037855548016
+Sport,Basketball,TV 2 Sport X,0.041222474531920156
+Sport,Cykling,TV 2 Sport X,0.050860154316165126
+Sport,Ekstremsport,TV 2 Sport X,0.00011465539679946382
+Sport,Fodbold,TV 2 Sport X,0.4903316409685801
+Sport,Hestevæddeløb,TV 2 Sport X,0.00014370414096203122
+Sport,Håndbold,TV 2 Sport X,0.00292868966586963
+Sport,Ishockey,TV 2 Sport X,0.00856868691895135
+Sport,Motorsport,TV 2 Sport X,0.00032397476174109683
+Sport,Sejlads,TV 2 Sport X,0.0007794201521802909
+Sport,Sportsdokumentar,TV 2 Sport X,0.002151609172489136
+Sport,Sportsmagasin,TV 2 Sport X,0.10876190846434526
+Sport,Tennis,TV 2 Sport X,0.22607104519624568
+Sport,VM,TV 2 Sport X,0.008789286477184887
+Sport,Vintersport,TV 2 Sport X,0.04328100093547997
+Nyheder & Aktualitet,Magasin,TV 2 Sport X,0.1958699787094545
+Nyheder & Aktualitet,Politik,TV 2 Sport X,0.8041300212905456
+Film,Dokumentar,TV 2 Sport X,1.0
+Serier,Action,TV3+ HD,0.16509059656363037
+Serier,Drama,TV3+ HD,0.03869794510913559
+Serier,Komedie,TV3+ HD,0.021339726881409577
+Serier,Krimi,TV3+ HD,0.7723763007216768
+Serier,Thriller,TV3+ HD,0.0024954307241476046
+Film,Action,TV3+ HD,0.3930829764508472
+Film,Animation,TV3+ HD,0.002209944371899482
+Film,Dokumentar,TV3+ HD,0.003541939500445307
+Film,Drama,TV3+ HD,0.1238491732865527
+Film,Familiefilm,TV3+ HD,0.0007288095005057281
+Film,Fantasy,TV3+ HD,0.024452573505119014
+Film,Gyser,TV3+ HD,0.0013259212988644938
+Film,Komedie,TV3+ HD,0.24022778502560518
+Film,Krig,TV3+ HD,0.013319667066725436
+Film,Krimi,TV3+ HD,0.020662239751224765
+Film,Science Fiction,TV3+ HD,0.04001532199503723
+Film,Thriller,TV3+ HD,0.09752267354470043
+Film,Western,TV3+ HD,0.039060974702473
+Sport,Fodbold,TV3+ HD,0.5778851898161972
+Sport,Ishockey,TV3+ HD,0.0030734040897839364
+Sport,Motorsport,TV3+ HD,0.16255190449243861
+Sport,Sportsdokumentar,TV3+ HD,0.004198798308112247
+Sport,Sportsmagasin,TV3+ HD,0.2513379801160591
+Sport,Vintersport,TV3+ HD,0.0009527231774089438
+Reality,Docu-soap,TV3+ HD,0.33841971709134755
+Reality,Reality,TV3+ HD,0.6615802829086525
+Underholdning,Underholdning,TV3+ HD,1.0
+Natur & Videnskab,Natur,TV3+ HD,1.0
+Kultur & Historie,Historie,TV3+ HD,0.9016266931471746
+Kultur & Historie,Magasin,TV3+ HD,0.09837330685282546
+Nyheder & Aktualitet,Aktuelt,TV3+ HD,1.0
+Dokumentar,Samfund,TV3+ HD,1.0
+Fritid,Hus & Have,TV3+ HD,1.0
+Livsstil,Kendisser,TV3+ HD,1.0
+Sport,Anden sport,Eurosport HD,0.1935631022647344
+Sport,Brydning,Eurosport HD,0.00017390908485937786
+Sport,Bueskydning,Eurosport HD,0.002146187773207754
+Sport,Curling,Eurosport HD,0.015285970247473206
+Sport,Cykling,Eurosport HD,0.3236864001500557
+Sport,Dans,Eurosport HD,0.00020208765530771143
+Sport,Ekstremsport,Eurosport HD,0.0067413471680885725
+Sport,Esport,Eurosport HD,0.00014744155331256192
+Sport,Fodbold,Eurosport HD,0.0014217726778140301
+Sport,Generelt,Eurosport HD,0.00018498793419568875
+Sport,Golf,Eurosport HD,0.012309246788871285
+Sport,Ishockey,Eurosport HD,0.00042530286090087453
+Sport,Kampsport,Eurosport HD,0.0020143728427282175
+Sport,Motorcykelsport,Eurosport HD,0.01018034519316981
+Sport,Motorsport,Eurosport HD,0.04088508763154844
+Sport,Nyheder,Eurosport HD,1.292207747256224e-06
+Sport,OL,Eurosport HD,8.998283545978076e-05
+Sport,Powerboat sejlads,Eurosport HD,3.576066665953154e-05
+Sport,Ridning,Eurosport HD,0.01046703952456959
+Sport,Sejlads,Eurosport HD,0.008198210753772818
+Sport,Skøjteløb,Eurosport HD,0.000653332537569601
+Sport,Sportsmagasin,Eurosport HD,0.025910045480865763
+Sport,Sportsnyheder,Eurosport HD,0.00019594294309103861
+Sport,Tennis,Eurosport HD,0.33064076122539093
+Sport,Vandsport,Eurosport HD,0.0018202448346389783
+Sport,Vintersport,Eurosport HD,0.01261982516396712
+Underholdning,Quiz,Eurosport HD,1.0
+Nyheder & Aktualitet,Aktuelt,DR 2 Syn,0.010635110493616425
+Nyheder & Aktualitet,Magasin,DR 2 Syn,0.9639937206900704
+Nyheder & Aktualitet,Nyheder,DR 2 Syn,0.005117019466358124
+Nyheder & Aktualitet,Politik,DR 2 Syn,0.011653029404691153
+Nyheder & Aktualitet,Samfund,DR 2 Syn,0.008601119945263856
+Dokumentar,Dokumentar,DR 2 Syn,0.009825061220792203
+Dokumentar,Kriminalprogram,DR 2 Syn,0.02026835159343546
+Dokumentar,Musik,DR 2 Syn,0.018814484769559357
+Dokumentar,Raportage,DR 2 Syn,0.10368528008035442
+Dokumentar,Samfund,DR 2 Syn,0.8474068223358585
+Kultur & Historie,Arkitektur,DR 2 Syn,0.05321895597261291
+Kultur & Historie,Civilisation,DR 2 Syn,0.09574622291465443
+Kultur & Historie,Film,DR 2 Syn,0.004462546364668979
+Kultur & Historie,Historie,DR 2 Syn,0.5356613448464821
+Kultur & Historie,Kultur,DR 2 Syn,0.16047520341632446
+Kultur & Historie,Kunst,DR 2 Syn,0.005200728939132419
+Kultur & Historie,Magasin,DR 2 Syn,0.07095262881390964
+Kultur & Historie,Religion,DR 2 Syn,0.07428236873221505
+Natur & Videnskab,Natur,DR 2 Syn,0.8392456987608367
+Natur & Videnskab,Teknik,DR 2 Syn,0.10685711382439927
+Natur & Videnskab,Videnskab,DR 2 Syn,0.05389718741476407
+Underholdning,Quiz,DR 2 Syn,0.1557206523282298
+Underholdning,Talentshow,DR 2 Syn,0.010437644917091303
+Underholdning,Underholdning,DR 2 Syn,0.833841702754679
+Sport,Anden sport,DR 2 Syn,0.03165481844991442
+Sport,EM,DR 2 Syn,0.148686372762086
+Sport,Fodbold,DR 2 Syn,0.41191775806553094
+Sport,Generelt,DR 2 Syn,0.06038121205246858
+Sport,Håndbold,DR 2 Syn,0.18906554336642314
+Sport,Ishockey,DR 2 Syn,0.005776507317166374
+Sport,Ridning,DR 2 Syn,0.08696561209204465
+Sport,Rugby,DR 2 Syn,0.004619451790129579
+Sport,Sejlads,DR 2 Syn,0.0016930237562465514
+Sport,Sportsdokumentar,DR 2 Syn,0.007766390677026657
+Sport,Sportsmagasin,DR 2 Syn,0.024516797566925846
+Sport,Tennis,DR 2 Syn,0.02695651210403727
+Serier,Drama,DR 2 Syn,0.49462320686559064
+Serier,Komedie,DR 2 Syn,0.0450939549099955
+Serier,Krimi,DR 2 Syn,0.2813043358030934
+Serier,Miniserie,DR 2 Syn,0.030426638870814187
+Serier,Thriller,DR 2 Syn,0.1485518635505063
+Reality,Docu-soap,DR 2 Syn,0.6360235449974407
+Reality,Reality,DR 2 Syn,0.36397645500255926
+Livsstil,Kendisser,DR 2 Syn,0.6981936603814765
+Livsstil,Livsstil,DR 2 Syn,0.29475356200634345
+Livsstil,Sundhed,DR 2 Syn,0.007052777612180087
+Musik,Andet musik,DR 2 Syn,0.7128171845520344
+Musik,Jazz,DR 2 Syn,0.014438685256970629
+Musik,Klassisk,DR 2 Syn,0.1622619184275358
+Musik,Opera,DR 2 Syn,0.008529876643502372
+Musik,Populærmusik,DR 2 Syn,0.00046210856902342037
+Musik,Religiøse sange,DR 2 Syn,0.10149022655093348
+Film,Action,DR 2 Syn,0.06340035459328686
+Film,Animation,DR 2 Syn,0.002862659817526062
+Film,Dokumentar,DR 2 Syn,0.05663200214557476
+Film,Drama,DR 2 Syn,0.5306491648501729
+Film,Fantasy,DR 2 Syn,0.017159458645412528
+Film,Komedie,DR 2 Syn,0.06956915252096244
+Film,Krig,DR 2 Syn,0.024505996424312566
+Film,Krimi,DR 2 Syn,0.034521789336855915
+Film,Musical,DR 2 Syn,0.005042046584020202
+Film,Romantik,DR 2 Syn,0.024284865894138932
+Film,Science Fiction,DR 2 Syn,0.010651999648896113
+Film,Thriller,DR 2 Syn,0.08716600329761748
+Film,Western,DR 2 Syn,0.07355450624122324
+Fritid,Hobby,DR 2 Syn,0.06570193849614774
+Fritid,Hus & Have,DR 2 Syn,0.0555368317260557
+Fritid,Madlavning,DR 2 Syn,0.26604375540751884
+Fritid,Rejseprogram,DR 2 Syn,0.6127174743702777
+Humor & Satire,Humor,DR 2 Syn,1.0
+Børn & Ungdom,Familieserie,DR 2 Syn,1.0
+Natur & Videnskab,Miljø,Ekstrakanalen,0.023566304991651917
+Natur & Videnskab,Natur,Ekstrakanalen,0.9744664765438712
+Natur & Videnskab,Videnskab,Ekstrakanalen,0.0019672184644768764
+Reality,Docu-soap,Ekstrakanalen,0.38727050356614556
+Reality,Reality,Ekstrakanalen,0.6127294964338544
+Fritid,Hobby,Ekstrakanalen,0.14913420987461856
+Fritid,Hus & Have,Ekstrakanalen,0.06170052026846578
+Fritid,Rejseprogram,Ekstrakanalen,0.7891652698569157
+Underholdning,Underholdning,Ekstrakanalen,1.0
+Dokumentar,Dokumentar,Ekstrakanalen,0.00041634625688449816
+Dokumentar,Kriminalprogram,Ekstrakanalen,0.06757432742766249
+Dokumentar,Samfund,Ekstrakanalen,0.932009326315453
+Kultur & Historie,Kultur,Ekstrakanalen,1.0
+Livsstil,Sundhed,Ekstrakanalen,1.0
+Børn & Ungdom,Animation,Ekstrakanalen,0.9551438993394333
+Børn & Ungdom,Blandede bolcher,Ekstrakanalen,0.02849439131949282
+Børn & Ungdom,Småbørn,Ekstrakanalen,0.01636170934107385
+Sport,Anden sport,Ekstrakanalen,0.029109450107383417
+Sport,Fodbold,Ekstrakanalen,0.5137555440756816
+Sport,Generelt,Ekstrakanalen,0.0007652602397294205
+Sport,Håndbold,Ekstrakanalen,0.1082191723492171
+Sport,Ishockey,Ekstrakanalen,0.037312239194150575
+Sport,Motorsport,Ekstrakanalen,0.12701001771277373
+Sport,Sportsdokumentar,Ekstrakanalen,0.01306548586818376
+Sport,Sportsmagasin,Ekstrakanalen,0.17076283045288043
+Nyheder & Aktualitet,Samfund,Ekstrakanalen,1.0
+Film,Familiefilm,Ekstrakanalen,1.0
+Film,Action,V Film Hits,0.15307930909458614
+Film,Animation,V Film Hits,0.006681117183438388
+Film,Dokumentar,V Film Hits,0.009787998398622003
+Film,Drama,V Film Hits,0.4469925923505939
+Film,Familiefilm,V Film Hits,0.0074858899098568235
+Film,Fantasy,V Film Hits,0.0305501787767668
+Film,Gyser,V Film Hits,0.009373546477295566
+Film,Komedie,V Film Hits,0.09027283521728516
+Film,Krig,V Film Hits,0.010530030222830904
+Film,Krimi,V Film Hits,0.0407804262863776
+Film,Musical,V Film Hits,0.010994554210343793
+Film,Romantik,V Film Hits,0.029415830689777284
+Film,Science Fiction,V Film Hits,0.03054326428384578
+Film,Thriller,V Film Hits,0.11357101028769813
+Film,Western,V Film Hits,0.009941416610681703
+Dokumentar,Samfund,V Film Hits,1.0
+Dokumentar,Dokumentar,3Sat,0.0039081003487479995
+Dokumentar,Kriminalprogram,3Sat,0.0029689114384495487
+Dokumentar,Musik,3Sat,0.006070495185469336
+Dokumentar,Raportage,3Sat,0.17056024403842715
+Dokumentar,Samfund,3Sat,0.8164922489889059
+Film,Action,3Sat,0.03393798945766589
+Film,Dokumentar,3Sat,0.005578920311495362
+Film,Drama,3Sat,0.3375524150849992
+Film,Familiefilm,3Sat,0.006802061013136176
+Film,Fantasy,3Sat,0.037605763865190524
+Film,Gyser,3Sat,0.004301588673215471
+Film,Komedie,3Sat,0.15141167389944798
+Film,Kortfilm,3Sat,0.001680468268277358
+Film,Krig,3Sat,0.001795624008635399
+Film,Krimi,3Sat,0.22340103782966764
+Film,Musical,3Sat,0.0025101754468189186
+Film,Musik,3Sat,0.0009886184386858844
+Film,Romantik,3Sat,0.009283676371726392
+Film,Science Fiction,3Sat,0.0019433675419723451
+Film,Thriller,3Sat,0.10193901029774258
+Film,Western,3Sat,0.07926760949132286
+Serier,Drama,3Sat,0.3528379192329943
+Serier,Fantasy,3Sat,0.08256107834877843
+Serier,Komedie,3Sat,0.007302312150773545
+Serier,Krimi,3Sat,0.34602877859179193
+Serier,Miniserie,3Sat,0.14299195346524926
+Serier,Thriller,3Sat,0.06827795821041256
+Kultur & Historie,Arkitektur,3Sat,0.011790182868142445
+Kultur & Historie,Film,3Sat,0.03700698920125574
+Kultur & Historie,Filosofi,3Sat,0.013694954371148255
+Kultur & Historie,Historie,3Sat,0.11643986616208699
+Kultur & Historie,Kultur,3Sat,0.22210555356791922
+Kultur & Historie,Kunst,3Sat,0.034976870631749216
+Kultur & Historie,Litteratur,3Sat,0.010515926006177909
+Kultur & Historie,Magasin,3Sat,0.5458600194508413
+Kultur & Historie,Religion,3Sat,0.007609637740678965
+Nyheder & Aktualitet,Aktuelt,3Sat,0.04094340210530459
+Nyheder & Aktualitet,Magasin,3Sat,0.008190484311889444
+Nyheder & Aktualitet,Nyheder,3Sat,0.819204221760499
+Nyheder & Aktualitet,Politik,3Sat,0.007651776914461137
+Nyheder & Aktualitet,Samfund,3Sat,0.03244379650143573
+Nyheder & Aktualitet,Vejret,3Sat,0.018596474541360757
+Nyheder & Aktualitet,Økonomi,3Sat,0.07296984386504929
+Fritid,Antikviteter,3Sat,0.006901121787286411
+Fritid,Hobby,3Sat,0.012472086797831105
+Fritid,Hus & Have,3Sat,0.016456246088470256
+Fritid,Madlavning,3Sat,0.016084736224841304
+Fritid,Rejseprogram,3Sat,0.9480858091015709
+Livsstil,Forbrugerprogram,3Sat,0.22125578188295458
+Livsstil,Kendisser,3Sat,0.1344449392363605
+Livsstil,Livsstil,3Sat,0.5199564742724164
+Livsstil,Sundhed,3Sat,0.12434280460826845
+Natur & Videnskab,Miljø,3Sat,0.007819207139434221
+Natur & Videnskab,Natur,3Sat,0.8478522156388394
+Natur & Videnskab,Teknik,3Sat,0.12323724197643822
+Natur & Videnskab,Undervisning,3Sat,0.0027909375892317093
+Natur & Videnskab,Videnskab,3Sat,0.018300397656056445
+Underholdning,Diverse,3Sat,0.1296670220695772
+Underholdning,Talentshow,3Sat,0.07311314078672995
+Underholdning,Talkshow,3Sat,0.2522668729890643
+Underholdning,Underholdning,3Sat,0.5449529641546286
+Musik,Andet musik,3Sat,0.09674967477258442
+Musik,Jazz,3Sat,0.020768267548881558
+Musik,Klassisk,3Sat,0.3365835773554017
+Musik,Musical,3Sat,0.004431375797233497
+Musik,Opera,3Sat,0.09602735320915412
+Musik,Populærmusik,3Sat,0.4454397513167447
+Humor & Satire,Humor,3Sat,1.0
+Sport,Sportsmagasin,3Sat,1.0
+Reality,Docu-soap,3Sat,1.0
+Børn & Ungdom,Blandede bolcher,3Sat,1.0
+Nyheder & Aktualitet,Aktuelt,TV2/Nord Salto,0.008120388838126432
+Nyheder & Aktualitet,Magasin,TV2/Nord Salto,0.051705362631482975
+Nyheder & Aktualitet,Nyheder,TV2/Nord Salto,0.9200829087022638
+Nyheder & Aktualitet,Politik,TV2/Nord Salto,0.016939636780171623
+Nyheder & Aktualitet,Samfund,TV2/Nord Salto,0.0031517030479551286
+Natur & Videnskab,Miljø,TV2/Nord Salto,0.0723831353938101
+Natur & Videnskab,Natur,TV2/Nord Salto,0.8666694017347389
+Natur & Videnskab,Videnskab,TV2/Nord Salto,0.06094746287145092
+Dokumentar,Kriminalprogram,TV2/Nord Salto,0.007273534026546338
+Dokumentar,Raportage,TV2/Nord Salto,0.9708620217107466
+Dokumentar,Samfund,TV2/Nord Salto,0.021864444262707044
+Fritid,Antikviteter,TV2/Nord Salto,0.007596707600010983
+Fritid,Hobby,TV2/Nord Salto,0.25502564626177204
+Fritid,Hus & Have,TV2/Nord Salto,0.4365257166195327
+Fritid,Madlavning,TV2/Nord Salto,0.1992452414129211
+Fritid,Rejseprogram,TV2/Nord Salto,0.10160668810576316
+Livsstil,Kendisser,TV2/Nord Salto,0.218808489599887
+Livsstil,Livsstil,TV2/Nord Salto,0.22952024374997498
+Livsstil,Sundhed,TV2/Nord Salto,0.551671266650138
+Kultur & Historie,Historie,TV2/Nord Salto,0.08423525313219325
+Kultur & Historie,Kultur,TV2/Nord Salto,0.880520775913296
+Kultur & Historie,Kunst,TV2/Nord Salto,0.012880577020933431
+Kultur & Historie,Litteratur,TV2/Nord Salto,0.02106368213866937
+Kultur & Historie,Magasin,TV2/Nord Salto,0.0012997117949079093
+Sport,Fodbold,TV2/Nord Salto,0.025860750540060026
+Sport,Generelt,TV2/Nord Salto,0.09898223565172116
+Sport,Golf,TV2/Nord Salto,0.04155819547417889
+Sport,Hestevæddeløb,TV2/Nord Salto,0.04344629706056657
+Sport,Motorcykelsport,TV2/Nord Salto,0.142454959387261
+Sport,Motorsport,TV2/Nord Salto,0.5615401353720483
+Sport,Ridning,TV2/Nord Salto,0.025407561177752565
+Sport,Sportsdokumentar,TV2/Nord Salto,0.06074986533641157
+Musik,Andet musik,TV2/Nord Salto,0.541244528006977
+Musik,Klassisk,TV2/Nord Salto,0.3691365435692402
+Musik,Populærmusik,TV2/Nord Salto,0.08961892842378286
+Underholdning,Quiz,TV2/Nord Salto,0.15339945676728697
+Underholdning,Talentshow,TV2/Nord Salto,0.08361637777529726
+Underholdning,Underholdning,TV2/Nord Salto,0.7629841654574158
+Film,Action,V Film Action,0.5438005570918856
+Film,Animation,V Film Action,0.0029640509439069927
+Film,Dokumentar,V Film Action,0.003649095682346999
+Film,Drama,V Film Action,0.05924246388638046
+Film,Familiefilm,V Film Action,0.007807197162636719
+Film,Fantasy,V Film Action,0.05774265916952237
+Film,Gyser,V Film Action,0.021235166094549358
+Film,Komedie,V Film Action,0.0590327087498656
+Film,Krig,V Film Action,0.00027962912273165913
+Film,Krimi,V Film Action,0.01637548362431661
+Film,Science Fiction,V Film Action,0.10048150012967084
+Film,Thriller,V Film Action,0.12348555681620736
+Film,Western,V Film Action,0.003903931525979494
+Serier,Drama,TV3 Puls HD,0.010004530613033871
+Serier,Krimi,TV3 Puls HD,0.9899271903220185
+Serier,Miniserie,TV3 Puls HD,5.765260913053025e-05
+Serier,Science Fiction,TV3 Puls HD,1.0626455817066354e-05
+Reality,Docu-soap,TV3 Puls HD,0.10944158213064424
+Reality,Reality,TV3 Puls HD,0.8905584178693557
+Underholdning,Talkshow,TV3 Puls HD,0.6823514717119542
+Underholdning,Underholdning,TV3 Puls HD,0.3176485282880458
+Fritid,Hus & Have,TV3 Puls HD,0.6060120698993524
+Fritid,Madlavning,TV3 Puls HD,0.39398793010064764
+Dokumentar,Kriminalprogram,TV3 Puls HD,0.0958039599599697
+Dokumentar,Raportage,TV3 Puls HD,0.06811966799263261
+Dokumentar,Samfund,TV3 Puls HD,0.8360763720473977
+Livsstil,Forbrugerprogram,TV3 Puls HD,0.28362596061536616
+Livsstil,Livsstil,TV3 Puls HD,0.6838250259556263
+Livsstil,Sundhed,TV3 Puls HD,0.032549013429007484
+Film,Action,TV3 Puls HD,0.005895469372752636
+Film,Dokumentar,TV3 Puls HD,0.0036195222707816298
+Film,Drama,TV3 Puls HD,0.37887232984090063
+Film,Familiefilm,TV3 Puls HD,0.032030395528610506
+Film,Fantasy,TV3 Puls HD,0.01835826017266369
+Film,Komedie,TV3 Puls HD,0.2056855184051061
+Film,Krimi,TV3 Puls HD,0.005151679655924015
+Film,Musical,TV3 Puls HD,0.004484097551444312
+Film,Romantik,TV3 Puls HD,0.32526913069560726
+Film,Thriller,TV3 Puls HD,0.019499956017887045
+Film,Western,TV3 Puls HD,0.0011336404883221145
+Musik,Andet musik,TV3 Puls HD,1.0
+Natur & Videnskab,Natur,TV3 Puls HD,1.0
+Børn & Ungdom,Familieserie,TV3 Puls HD,1.0
+Nyheder & Aktualitet,Magasin,Ostjylland,0.5422126463700234
+Nyheder & Aktualitet,Samfund,Ostjylland,0.4577873536299766
+Dokumentar,Raportage,Ostjylland,1.0
+Livsstil,Kendisser,Ostjylland,0.012299148887447044
+Livsstil,Livsstil,Ostjylland,0.9877008511125529
+Kultur & Historie,Film,ZDF HD,0.0032413763021373284
+Kultur & Historie,Filosofi,ZDF HD,0.0018307015002566689
+Kultur & Historie,Historie,ZDF HD,0.13387148245827876
+Kultur & Historie,Kultur,ZDF HD,0.051380029206073624
+Kultur & Historie,Kunst,ZDF HD,0.012893196975061283
+Kultur & Historie,Litteratur,ZDF HD,0.009231256249277037
+Kultur & Historie,Magasin,ZDF HD,0.7507982768878372
+Kultur & Historie,Religion,ZDF HD,0.03675368042107811
+Nyheder & Aktualitet,Aktuelt,ZDF HD,0.06464244158079752
+Nyheder & Aktualitet,Magasin,ZDF HD,0.3664324380362893
+Nyheder & Aktualitet,Nyheder,ZDF HD,0.49405994828422783
+Nyheder & Aktualitet,Politik,ZDF HD,0.04115170105005562
+Nyheder & Aktualitet,Samfund,ZDF HD,0.002023791472287596
+Nyheder & Aktualitet,Vejret,ZDF HD,0.02995944826932471
+Nyheder & Aktualitet,Økonomi,ZDF HD,0.001730231307017476
+Natur & Videnskab,Miljø,ZDF HD,0.07333976863094072
+Natur & Videnskab,Natur,ZDF HD,0.4664378232250955
+Natur & Videnskab,Teknik,ZDF HD,0.2258864873832974
+Natur & Videnskab,Videnskab,ZDF HD,0.23433592076066637
+Underholdning,Quiz,ZDF HD,0.08814389842573937
+Underholdning,Spil og Lotteri,ZDF HD,0.011646640810334676
+Underholdning,Talentshow,ZDF HD,0.014609560208879487
+Underholdning,Talkshow,ZDF HD,0.1987307806444954
+Underholdning,Underholdning,ZDF HD,0.6868691199105511
+Serier,Action,ZDF HD,0.001432695068366753
+Serier,Animation,ZDF HD,0.00033187116928593853
+Serier,Drama,ZDF HD,0.25588384923851265
+Serier,Fantasy,ZDF HD,0.0008694902503444443
+Serier,Komedie,ZDF HD,0.006272558917435579
+Serier,Krimi,ZDF HD,0.7210567553065786
+Serier,Miniserie,ZDF HD,0.0011658753329317102
+Serier,Romantik,ZDF HD,0.004117625075785171
+Serier,Thriller,ZDF HD,0.008822981640538928
+Serier,Ungdom,ZDF HD,4.629800022021493e-05
+Film,Action,ZDF HD,0.04779093976239228
+Film,Animation,ZDF HD,0.0003355634049232903
+Film,Dokumentar,ZDF HD,0.002206748283811389
+Film,Drama,ZDF HD,0.23231911632944582
+Film,Familiefilm,ZDF HD,0.016188181888826394
+Film,Fantasy,ZDF HD,0.005285601973349763
+Film,Gyser,ZDF HD,0.00378108978777609
+Film,Komedie,ZDF HD,0.06158060713104849
+Film,Kortfilm,ZDF HD,0.0004786881384862036
+Film,Krig,ZDF HD,0.000655324587309523
+Film,Krimi,ZDF HD,0.5188043819581435
+Film,Romantik,ZDF HD,0.04003169394005978
+Film,Science Fiction,ZDF HD,0.009965437819006221
+Film,Thriller,ZDF HD,0.06000519584412673
+Film,Western,ZDF HD,0.0005714291512945987
+Fritid,Antikviteter,ZDF HD,0.7438833474964295
+Fritid,Hobby,ZDF HD,0.0004875055058138648
+Fritid,Hus & Have,ZDF HD,0.008490534844844496
+Fritid,Madlavning,ZDF HD,0.24396478074118386
+Fritid,Rejseprogram,ZDF HD,0.003173831411728294
+Børn & Ungdom,Animation,ZDF HD,0.08896066297339093
+Børn & Ungdom,Blandede bolcher,ZDF HD,0.05081714007166651
+Børn & Ungdom,Børneserier,ZDF HD,0.0004602897806737583
+Børn & Ungdom,Familieserie,ZDF HD,0.8350832675696092
+Børn & Ungdom,Småbørn,ZDF HD,0.0001980979742521417
+Børn & Ungdom,Undervisning,ZDF HD,0.024480541630407495
+Dokumentar,Kriminalprogram,ZDF HD,0.22810542685927718
+Dokumentar,Raportage,ZDF HD,0.12489542859160987
+Dokumentar,Samfund,ZDF HD,0.6469991445491129
+Livsstil,Forbrugerprogram,ZDF HD,0.31472448486014115
+Livsstil,Kendisser,ZDF HD,0.03751048824055946
+Livsstil,Livsstil,ZDF HD,0.634662763280961
+Livsstil,Sundhed,ZDF HD,0.0131022636183383
+Sport,Anden sport,ZDF HD,0.003514504577332987
+Sport,EM,ZDF HD,0.008923328672821347
+Sport,Fodbold,ZDF HD,0.3184679649699201
+Sport,Generelt,ZDF HD,0.16473691307247681
+Sport,Håndbold,ZDF HD,0.030546399026260444
+Sport,Sportsdokumentar,ZDF HD,0.0025343745272864843
+Sport,Sportsmagasin,ZDF HD,0.42497830213155535
+Sport,VM,ZDF HD,0.02779286475889569
+Sport,Vintersport,ZDF HD,0.018505348263450776
+Humor & Satire,Humor,ZDF HD,1.0
+Musik,Andet musik,ZDF HD,0.7584905321633092
+Musik,Klassisk,ZDF HD,0.16352606840378806
+Musik,Opera,ZDF HD,0.051701002149780385
+Musik,Religiøse sange,ZDF HD,0.026282397283122372
+Reality,Docu-soap,ZDF HD,0.07957757613386139
+Reality,Reality,ZDF HD,0.9204224238661386
+Nyheder & Aktualitet,Magasin,Syd,0.37908195566541847
+Nyheder & Aktualitet,Samfund,Syd,0.6209180443345815
+Kultur & Historie,Kultur,Syd,0.7852810871711279
+Kultur & Historie,Magasin,Syd,0.2147189128288721
+Livsstil,Livsstil,Syd,1.0
+Dokumentar,Raportage,Syd,1.0
+Nyheder & Aktualitet,Aktuelt,TV 2 Norge,0.012817004220599957
+Nyheder & Aktualitet,Magasin,TV 2 Norge,0.0021604374615205907
+Nyheder & Aktualitet,Nyheder,TV 2 Norge,0.8001207559064174
+Nyheder & Aktualitet,Vejret,TV 2 Norge,0.1849018024114621
+Serier,Action,TV 2 Norge,0.2612155920977568
+Serier,Drama,TV 2 Norge,0.1485936095757214
+Serier,Komedie,TV 2 Norge,0.07412720426115103
+Serier,Krimi,TV 2 Norge,0.3024304531475978
+Serier,Miniserie,TV 2 Norge,0.00257973712760027
+Serier,Thriller,TV 2 Norge,0.08246148346788414
+Serier,Western,TV 2 Norge,0.12859192032228853
+Sport,Anden sport,TV 2 Norge,0.009639844462567711
+Sport,Basketball,TV 2 Norge,0.0001317668528833007
+Sport,Cykling,TV 2 Norge,0.23702826042432976
+Sport,Fodbold,TV 2 Norge,0.3801410101032469
+Sport,Generelt,TV 2 Norge,0.0005153786327219883
+Sport,Håndbold,TV 2 Norge,0.040961824032861124
+Sport,Ishockey,TV 2 Norge,0.0003782566569773571
+Sport,Nyheder,TV 2 Norge,0.034971975013412274
+Sport,Sportsdokumentar,TV 2 Norge,0.0027841478122218595
+Sport,Sportsmagasin,TV 2 Norge,0.07276858632115565
+Sport,Svømning,TV 2 Norge,0.0004894341013124636
+Sport,VM,TV 2 Norge,0.00020296518849771084
+Sport,Vintersport,TV 2 Norge,0.2199865503978119
+Underholdning,Talentshow,TV 2 Norge,0.03868913458171737
+Underholdning,Underholdning,TV 2 Norge,0.9613108654182826
+Livsstil,Kendisser,TV 2 Norge,0.06972828600817751
+Livsstil,Livsstil,TV 2 Norge,0.892279446303755
+Livsstil,Sundhed,TV 2 Norge,0.03799226768806745
+Reality,Docu-soap,TV 2 Norge,0.21671466684864696
+Reality,Reality,TV 2 Norge,0.7832853331513531
+Børn & Ungdom,Animation,TV 2 Norge,0.34802074533047367
+Børn & Ungdom,Blandede bolcher,TV 2 Norge,0.05313001374090261
+Børn & Ungdom,Børneserier,TV 2 Norge,0.3310843354817565
+Børn & Ungdom,Familieserie,TV 2 Norge,0.022499759174350018
+Børn & Ungdom,Skolebørn,TV 2 Norge,0.10807480100050601
+Børn & Ungdom,Småbørn,TV 2 Norge,0.13719034527201118
+Fritid,Hobby,TV 2 Norge,0.0538834677194353
+Fritid,Hus & Have,TV 2 Norge,0.9094036674850734
+Fritid,Madlavning,TV 2 Norge,0.026682314044975168
+Fritid,Rejseprogram,TV 2 Norge,0.010030550750516154
+Dokumentar,Dokumentar,TV 2 Norge,0.028342638352849794
+Dokumentar,Kriminalprogram,TV 2 Norge,0.1931854500580184
+Dokumentar,Musik,TV 2 Norge,0.03293270627274561
+Dokumentar,Samfund,TV 2 Norge,0.7455392053163862
+Film,Action,TV 2 Norge,0.995172519812565
+Film,Animation,TV 2 Norge,0.00012947607659591454
+Film,Dokumentar,TV 2 Norge,0.0001284482306653093
+Film,Drama,TV 2 Norge,0.001030095066680305
+Film,Familiefilm,TV 2 Norge,0.000316442801703428
+Film,Fantasy,TV 2 Norge,0.00016200385999278524
+Film,Gyser,TV 2 Norge,7.96830500227395e-05
+Film,Komedie,TV 2 Norge,0.002036946978051433
+Film,Krig,TV 2 Norge,3.8647654890037535e-05
+Film,Krimi,TV 2 Norge,0.00018072363705467817
+Film,Romantik,TV 2 Norge,7.211489224419261e-05
+Film,Thriller,TV 2 Norge,0.00048292908345324144
+Film,Western,TV 2 Norge,0.00016996885608087464
+Humor & Satire,Humor,TV 2 Norge,1.0
+Natur & Videnskab,Natur,TV 2 Norge,0.9415570618835802
+Natur & Videnskab,Videnskab,TV 2 Norge,0.05844293811641981
+Musik,Andet musik,TV 2 Norge,0.9311303195684406
+Musik,Populærmusik,TV 2 Norge,0.06886968043155936
+Kultur & Historie,Arkitektur,SVT2 HD,0.0008122028457963081
+Kultur & Historie,Civilisation,SVT2 HD,0.02185742380822513
+Kultur & Historie,Film,SVT2 HD,0.0056466397875215854
+Kultur & Historie,Historie,SVT2 HD,0.58389467958374
+Kultur & Historie,Kultur,SVT2 HD,0.13832104741238416
+Kultur & Historie,Kunst,SVT2 HD,0.03299684492639404
+Kultur & Historie,Litteratur,SVT2 HD,0.103951064520389
+Kultur & Historie,Magasin,SVT2 HD,0.026883466732784116
+Kultur & Historie,Religion,SVT2 HD,0.08563663038276564
+Sport,Anden sport,SVT2 HD,0.1361043030801257
+Sport,Basketball,SVT2 HD,0.009437346845917492
+Sport,Curling,SVT2 HD,0.11204145329690744
+Sport,Cykling,SVT2 HD,0.006144287886346443
+Sport,Fodbold,SVT2 HD,0.17574303882823938
+Sport,Generelt,SVT2 HD,0.014170472031288624
+Sport,Gymnastik,SVT2 HD,0.01811654838045513
+Sport,Håndbold,SVT2 HD,0.1115831221725912
+Sport,Ishockey,SVT2 HD,0.16835802854752707
+Sport,Motorsport,SVT2 HD,0.003619487810377547
+Sport,Nyheder,SVT2 HD,0.043983100540192506
+Sport,Ridning,SVT2 HD,0.042897807782085094
+Sport,Sportsdokumentar,SVT2 HD,0.014110988257823275
+Sport,Sportsmagasin,SVT2 HD,0.0141615827335985
+Sport,Svømning,SVT2 HD,0.007503019699748268
+Sport,Tennis,SVT2 HD,0.03658896142981639
+Sport,VM,SVT2 HD,0.054702874958560965
+Sport,Vintersport,SVT2 HD,0.024290405158219917
+Sport,Volleyball,SVT2 HD,0.006443170560179055
+Reality,Docu-soap,SVT2 HD,0.5650780856423174
+Reality,Reality,SVT2 HD,0.4349219143576826
+Nyheder & Aktualitet,Aktuelt,SVT2 HD,0.00435719779859401
+Nyheder & Aktualitet,Magasin,SVT2 HD,0.05779858407220357
+Nyheder & Aktualitet,Nyheder,SVT2 HD,0.4988775333758668
+Nyheder & Aktualitet,Politik,SVT2 HD,0.2900729031886201
+Nyheder & Aktualitet,Samfund,SVT2 HD,0.08753214855714095
+Nyheder & Aktualitet,Økonomi,SVT2 HD,0.06136163300757454
+Dokumentar,Dokumentar,SVT2 HD,0.0032161677524341556
+Dokumentar,Kriminalprogram,SVT2 HD,0.01444980509262247
+Dokumentar,Musik,SVT2 HD,0.2469695114558975
+Dokumentar,Raportage,SVT2 HD,0.014536417190450715
+Dokumentar,Samfund,SVT2 HD,0.7208280985085952
+Fritid,Antikviteter,SVT2 HD,0.8095425990238927
+Fritid,Hobby,SVT2 HD,0.009440791488327776
+Fritid,Hus & Have,SVT2 HD,0.155513269618282
+Fritid,Madlavning,SVT2 HD,0.017661699784236297
+Fritid,Motor,SVT2 HD,0.00276205651221841
+Fritid,Rejseprogram,SVT2 HD,0.00507958357304289
+Natur & Videnskab,Miljø,SVT2 HD,0.07027453507684944
+Natur & Videnskab,Natur,SVT2 HD,0.43575424289021203
+Natur & Videnskab,Teknik,SVT2 HD,0.46092771936552074
+Natur & Videnskab,Undervisning,SVT2 HD,0.011782530586773596
+Natur & Videnskab,Videnskab,SVT2 HD,0.021260972080644213
+Livsstil,Forbrugerprogram,SVT2 HD,0.020707040989434863
+Livsstil,Kendisser,SVT2 HD,0.5513188518506178
+Livsstil,Livsstil,SVT2 HD,0.25636964763269277
+Livsstil,Sundhed,SVT2 HD,0.17160445952725456
+Serier,Drama,SVT2 HD,0.5024387506840187
+Serier,Krimi,SVT2 HD,0.30025903049248187
+Serier,Thriller,SVT2 HD,0.19637033377796956
+Serier,Ungdom,SVT2 HD,0.0009318850455299019
+Musik,Andet musik,SVT2 HD,0.2858021954753886
+Musik,Country,SVT2 HD,0.02668269764085454
+Musik,Klassisk,SVT2 HD,0.49818308706274694
+Musik,Magasin,SVT2 HD,0.0010254192658939987
+Musik,Opera,SVT2 HD,0.06503695907625469
+Musik,Populærmusik,SVT2 HD,0.12326964147886126
+Film,Action,SVT2 HD,0.07701859408466193
+Film,Dokumentar,SVT2 HD,0.059250900234678286
+Film,Drama,SVT2 HD,0.5432992167062265
+Film,Familiefilm,SVT2 HD,0.004448115565723664
+Film,Fantasy,SVT2 HD,0.006013576392730286
+Film,Gyser,SVT2 HD,0.010299774529737685
+Film,Komedie,SVT2 HD,0.07852626194820954
+Film,Kortfilm,SVT2 HD,0.01668410006788488
+Film,Krig,SVT2 HD,0.004687057902041607
+Film,Krimi,SVT2 HD,0.06964625169894315
+Film,Musical,SVT2 HD,0.03662480934392748
+Film,Romantik,SVT2 HD,0.012286395507262439
+Film,Thriller,SVT2 HD,0.06549642552949282
+Film,Western,SVT2 HD,0.015718520488479725
+Underholdning,Talentshow,SVT2 HD,0.1836122887205713
+Underholdning,Talkshow,SVT2 HD,0.37032017929990013
+Underholdning,Underholdning,SVT2 HD,0.44606753197952853
+Humor & Satire,Humor,SVT2 HD,1.0
+Børn & Ungdom,Børneserier,SVT2 HD,0.4176497802452001
+Børn & Ungdom,Undervisning,SVT2 HD,0.5823502197548
+Dokumentar,Dokumentar,ID Investigation Discovery,0.0028043406870280085
+Dokumentar,Kriminalprogram,ID Investigation Discovery,0.7887864523538974
+Dokumentar,Samfund,ID Investigation Discovery,0.20840920695907458
+Nyheder & Aktualitet,Aktuelt,ID Investigation Discovery,0.09872492949546686
+Nyheder & Aktualitet,Samfund,ID Investigation Discovery,0.9012750705045331
+Reality,Docu-soap,ID Investigation Discovery,0.24674903586997515
+Reality,Reality,ID Investigation Discovery,0.7532509641300248
+Serier,Drama,ID Investigation Discovery,0.12723910707685432
+Serier,Krimi,ID Investigation Discovery,0.8376563260183777
+Serier,Thriller,ID Investigation Discovery,0.03510456690476804
+Underholdning,Overnaturlig,ID Investigation Discovery,0.8570521398224258
+Underholdning,Underholdning,ID Investigation Discovery,0.14294786017757424
+Film,Dokumentar,ID Investigation Discovery,1.0
+Kultur & Historie,Historie,ID Investigation Discovery,1.0
+Natur & Videnskab,Videnskab,ID Investigation Discovery,1.0
+Børn & Ungdom,Animation,SUPER RTL,0.531995134714773
+Børn & Ungdom,Børneserier,SUPER RTL,0.007517253507706155
+Børn & Ungdom,Skolebørn,SUPER RTL,0.21897461238534718
+Børn & Ungdom,Småbørn,SUPER RTL,0.2415129993921737
+Serier,Animation,SUPER RTL,0.039661609604072584
+Serier,Drama,SUPER RTL,0.015231332607310305
+Serier,Komedie,SUPER RTL,0.03866164449725354
+Serier,Krimi,SUPER RTL,0.9064454132913635
+Dokumentar,Kriminalprogram,SUPER RTL,0.9252561366482127
+Dokumentar,Samfund,SUPER RTL,0.07474386335178725
+Underholdning,Talkshow,SUPER RTL,0.30545851146351566
+Underholdning,Underholdning,SUPER RTL,0.6945414885364843
+Film,Action,SUPER RTL,0.03129501956563512
+Film,Animation,SUPER RTL,0.15457573727956034
+Film,Dokumentar,SUPER RTL,0.0036132279910208007
+Film,Drama,SUPER RTL,0.075560116982838
+Film,Familiefilm,SUPER RTL,0.11730495177734607
+Film,Fantasy,SUPER RTL,0.05538024420667264
+Film,Gyser,SUPER RTL,0.0014350724145093374
+Film,Komedie,SUPER RTL,0.23701464951244192
+Film,Musical,SUPER RTL,0.006891013358835858
+Film,Romantik,SUPER RTL,0.3169299669111399
+Humor & Satire,Humor,SUPER RTL,1.0
+Livsstil,Kendisser,SUPER RTL,1.0
+Dokumentar,Raportage,Midt/vest,1.0
+Nyheder & Aktualitet,Magasin,Midt/vest,0.18485970558857062
+Nyheder & Aktualitet,Politik,Midt/vest,0.003772283685703959
+Nyheder & Aktualitet,Samfund,Midt/vest,0.8113680107257254
+Kultur & Historie,Kultur,Midt/vest,1.0
+Film,Action,V Film Premiere,0.21886391997162696
+Film,Animation,V Film Premiere,0.010214618976385948
+Film,Dokumentar,V Film Premiere,0.0004866752847447702
+Film,Drama,V Film Premiere,0.29671136341669546
+Film,Familiefilm,V Film Premiere,0.026728376903588518
+Film,Fantasy,V Film Premiere,0.03743846821068255
+Film,Gyser,V Film Premiere,0.05692364124375247
+Film,Komedie,V Film Premiere,0.06121194575276067
+Film,Krig,V Film Premiere,0.0075887291339035825
+Film,Krimi,V Film Premiere,0.025047460062972093
+Film,Romantik,V Film Premiere,0.01924708524070789
+Film,Science Fiction,V Film Premiere,0.05752359977845065
+Film,Thriller,V Film Premiere,0.173426950550556
+Film,Western,V Film Premiere,0.008587165473172387
+Nyheder & Aktualitet,Nyheder,TV 2/Fyn,1.0
+Dokumentar,Raportage,TV 2/Fyn,1.0
+Underholdning,Quiz,TV 2/Fyn,1.0
+Nyheder & Aktualitet,Politik,Folketinget,0.9992343551465694
+Nyheder & Aktualitet,Samfund,Folketinget,0.0007656448534305401
+Dokumentar,Raportage,Folketinget,1.0
+Kultur & Historie,Religion,Folketinget,1.0
+Serier,Action,PRO 7,0.0649532531893155
+Serier,Animation,PRO 7,0.15947636776293347
+Serier,Drama,PRO 7,0.055449451719900476
+Serier,Fantasy,PRO 7,0.00398267209111368
+Serier,Gyser,PRO 7,0.0032685053168989685
+Serier,Komedie,PRO 7,0.6973292025332144
+Serier,Krimi,PRO 7,0.008221105542038561
+Serier,Science Fiction,PRO 7,0.007319441844584906
+Nyheder & Aktualitet,Aktuelt,PRO 7,0.05022162376142607
+Nyheder & Aktualitet,Magasin,PRO 7,0.8594020656894028
+Nyheder & Aktualitet,Nyheder,PRO 7,0.08691850003598763
+Nyheder & Aktualitet,Politik,PRO 7,0.003385835272666203
+Nyheder & Aktualitet,Samfund,PRO 7,7.197524051726206e-05
+Livsstil,Kendisser,PRO 7,0.859917206751711
+Livsstil,Livsstil,PRO 7,0.08996075328659084
+Livsstil,Mode,PRO 7,0.05012203996169813
+Underholdning,Talkshow,PRO 7,0.03257233795527547
+Underholdning,Underholdning,PRO 7,0.9674276620447245
+Film,Action,PRO 7,0.6068324625081086
+Film,Animation,PRO 7,0.0007641498847534275
+Film,Dokumentar,PRO 7,0.0006801378038161888
+Film,Drama,PRO 7,0.026898267970934222
+Film,Familiefilm,PRO 7,0.001299066805806675
+Film,Fantasy,PRO 7,0.06695414800648333
+Film,Gyser,PRO 7,0.014285654277085044
+Film,Komedie,PRO 7,0.09767760603974851
+Film,Krimi,PRO 7,0.0065152568939413485
+Film,Romantik,PRO 7,0.005444342896508518
+Film,Science Fiction,PRO 7,0.07326417538842085
+Film,Thriller,PRO 7,0.08872011795296164
+Film,Western,PRO 7,0.010664613571431572
+Kultur & Historie,Historie,PRO 7,0.3061031369856131
+Kultur & Historie,Kultur,PRO 7,0.12872862478436364
+Kultur & Historie,Magasin,PRO 7,0.5651682382300233
+Reality,Docu-soap,PRO 7,0.0304958269153885
+Reality,Reality,PRO 7,0.9695041730846115
+Dokumentar,Kriminalprogram,PRO 7,0.19171836652367139
+Dokumentar,Raportage,PRO 7,0.021521038446283364
+Dokumentar,Samfund,PRO 7,0.7867605950300453
+Sport,Amerikansk fodbold,PRO 7,0.8512230485010056
+Sport,Anden sport,PRO 7,0.01688792129279689
+Sport,Generelt,PRO 7,0.002600665951530678
+Sport,Motorsport,PRO 7,0.1022708585101937
+Sport,OL,PRO 7,0.00045261771455211213
+Sport,Sportsmagasin,PRO 7,0.02656488802992105
+Fritid,Rejseprogram,PRO 7,1.0
+Humor & Satire,Humor,PRO 7,1.0
+Natur & Videnskab,Miljø,PRO 7,0.6811543199014605
+Natur & Videnskab,Teknik,PRO 7,0.0701038184057716
+Natur & Videnskab,Videnskab,PRO 7,0.2487418616927679
+Musik,Andet musik,PRO 7,0.9542170507262909
+Musik,Populærmusik,PRO 7,0.045782949273709024
+Serier,Action,C More Series HD,0.02986700134783746
+Serier,Drama,C More Series HD,0.5250761278566405
+Serier,Fantasy,C More Series HD,0.008438293638296042
+Serier,Gyser,C More Series HD,0.020757271905887126
+Serier,Komedie,C More Series HD,0.10071354102279353
+Serier,Krimi,C More Series HD,0.11277978343124344
+Serier,Miniserie,C More Series HD,0.004358974828083423
+Serier,Romantik,C More Series HD,0.019952803473170924
+Serier,Thriller,C More Series HD,0.13129797766881357
+Serier,Western,C More Series HD,0.046758224827234
+Børn & Ungdom,Animation,C More Series HD,0.19018412650336325
+Børn & Ungdom,Familieserie,C More Series HD,0.7362031322959653
+Børn & Ungdom,Skolebørn,C More Series HD,0.07361274120067139
+Dokumentar,Dokumentar,C More Series HD,0.0896929157798723
+Dokumentar,Kriminalprogram,C More Series HD,0.0018876051484747137
+Dokumentar,Samfund,C More Series HD,0.908419479071653
+Livsstil,Mode,C More Series HD,1.0
+Underholdning,Underholdning,C More Series HD,1.0
+Kultur & Historie,Film,C More Series HD,0.15072347266881028
+Kultur & Historie,Magasin,C More Series HD,0.8492765273311897
+Natur & Videnskab,Natur,C More Series HD,1.0
+Film,Komedie,C More Series HD,1.0
+Dokumentar,Kriminalprogram,MDR,0.1257055110264673
+Dokumentar,Musik,MDR,0.10741109772786035
+Dokumentar,Raportage,MDR,0.19404312209518645
+Dokumentar,Samfund,MDR,0.5728402691504859
+Livsstil,Forbrugerprogram,MDR,0.009210432973113575
+Livsstil,Kendisser,MDR,0.23286492941426848
+Livsstil,Livsstil,MDR,0.7019349003286907
+Livsstil,Sundhed,MDR,0.05598973728392726
+Nyheder & Aktualitet,Aktuelt,MDR,0.05413048461785338
+Nyheder & Aktualitet,Magasin,MDR,0.19658887717206913
+Nyheder & Aktualitet,Nyheder,MDR,0.6296510934849388
+Nyheder & Aktualitet,Politik,MDR,0.02591536380725322
+Nyheder & Aktualitet,Samfund,MDR,0.0037008848746045574
+Nyheder & Aktualitet,Vejret,MDR,0.010139837696575123
+Nyheder & Aktualitet,Økonomi,MDR,0.0798734583467058
+Kultur & Historie,Arkitektur,MDR,0.033787454330482206
+Kultur & Historie,Film,MDR,0.021532578477008128
+Kultur & Historie,Filosofi,MDR,0.01695231196940808
+Kultur & Historie,Historie,MDR,0.5559218585230238
+Kultur & Historie,Kultur,MDR,0.13968215080793772
+Kultur & Historie,Kunst,MDR,0.032514566312672424
+Kultur & Historie,Litteratur,MDR,0.001001267562126522
+Kultur & Historie,Magasin,MDR,0.13526166103897488
+Kultur & Historie,Religion,MDR,0.06334615097836623
+Serier,Action,MDR,0.001893755555174901
+Serier,Drama,MDR,0.8470714672259748
+Serier,Fantasy,MDR,0.010050544557816008
+Serier,Komedie,MDR,0.007390404844968986
+Serier,Krimi,MDR,0.0971804295430942
+Serier,Miniserie,MDR,0.008890183113790919
+Serier,Sæbeopera,MDR,0.021569146185874803
+Serier,Thriller,MDR,0.005954068973305342
+Humor & Satire,Humor,MDR,1.0
+Reality,Docu-soap,MDR,0.7785386940092035
+Reality,Reality,MDR,0.2214613059907965
+Film,Action,MDR,0.008428374223133299
+Film,Drama,MDR,0.3166594583706091
+Film,Familiefilm,MDR,0.027538850740874594
+Film,Fantasy,MDR,0.22320913340482382
+Film,Gyser,MDR,0.01267396185725204
+Film,Komedie,MDR,0.30788508593671315
+Film,Kortfilm,MDR,0.0074164479491903995
+Film,Krimi,MDR,0.040255469911782304
+Film,Romantik,MDR,0.025589648491886222
+Film,Thriller,MDR,0.015860226202254912
+Film,Western,MDR,0.01448334291148015
+Underholdning,Quiz,MDR,0.07933543811665503
+Underholdning,Talentshow,MDR,0.07018975140024043
+Underholdning,Talkshow,MDR,0.06326445475168412
+Underholdning,Underholdning,MDR,0.7872103557314204
+Sport,Fodbold,MDR,0.2723642857699896
+Sport,Sportsdokumentar,MDR,0.0018248602110287064
+Sport,Sportsnyheder,MDR,0.7258108540189817
+Børn & Ungdom,Børneserier,MDR,0.12681607117308116
+Børn & Ungdom,Familieserie,MDR,0.8731839288269189
+Fritid,Hobby,MDR,0.02452666097516217
+Fritid,Hus & Have,MDR,0.07369966409485132
+Fritid,Motor,MDR,0.02771018008026617
+Fritid,Rejseprogram,MDR,0.8740634948497203
+Natur & Videnskab,Miljø,MDR,0.17978533094812166
+Natur & Videnskab,Natur,MDR,0.5735688729874776
+Natur & Videnskab,Teknik,MDR,0.14957118804588024
+Natur & Videnskab,Videnskab,MDR,0.09707460801852047
+Musik,Andet musik,MDR,0.4852711914118359
+Musik,Klassisk,MDR,0.009288185676089128
+Musik,Populærmusik,MDR,0.505440622912075
+Musik,Andet musik,VH1,0.008120662804106485
+Musik,Populærmusik,VH1,0.9918793371958935
+Dokumentar,Raportage,Fynboen,1.0
+Sport,Sportsmagasin,Fynboen,1.0
+Kultur & Historie,Magasin,Fynboen,1.0
+Nyheder & Aktualitet,Magasin,Fynboen,1.0
+Kultur & Historie,Film,TVE Internacional,0.03772169048300349
+Kultur & Historie,Kultur,TVE Internacional,0.03979187227357934
+Kultur & Historie,Magasin,TVE Internacional,0.9104858065533371
+Kultur & Historie,Religion,TVE Internacional,0.012000630690080063
+Nyheder & Aktualitet,Magasin,TVE Internacional,0.20679687042414785
+Nyheder & Aktualitet,Nyheder,TVE Internacional,0.5988894200157575
+Nyheder & Aktualitet,Politik,TVE Internacional,0.01756371475590102
+Nyheder & Aktualitet,Samfund,TVE Internacional,0.006234967587615465
+Nyheder & Aktualitet,Vejret,TVE Internacional,0.1705150272165782
+Natur & Videnskab,Miljø,TVE Internacional,0.43828016643550627
+Natur & Videnskab,Natur,TVE Internacional,0.028663892741562644
+Natur & Videnskab,Teknik,TVE Internacional,0.3699722607489598
+Natur & Videnskab,Undervisning,TVE Internacional,0.16308368007397134
+Reality,Reality,TVE Internacional,1.0
+Underholdning,Spil og Lotteri,TVE Internacional,0.010658846381309445
+Underholdning,Underholdning,TVE Internacional,0.9893411536186906
+Film,Drama,TVE Internacional,0.7385732323232324
+Film,Komedie,TVE Internacional,0.010353535353535354
+Film,Romantik,TVE Internacional,0.23200757575757575
+Film,Thriller,TVE Internacional,0.019065656565656567
+Dokumentar,Raportage,TVE Internacional,0.28875968992248063
+Dokumentar,Samfund,TVE Internacional,0.7112403100775194
+Fritid,Madlavning,TVE Internacional,0.5883318000613309
+Fritid,Rejseprogram,TVE Internacional,0.4116681999386691
+Livsstil,Forbrugerprogram,TVE Internacional,0.01424116819409058
+Livsstil,Kendisser,TVE Internacional,0.3902916682511313
+Livsstil,Mode,TVE Internacional,0.2929611742784348
+Livsstil,Sundhed,TVE Internacional,0.3025059892763433
+Børn & Ungdom,Blandede bolcher,TVE Internacional,1.0
+Serier,Drama,TVE Internacional,0.9233297302018846
+Serier,Komedie,TVE Internacional,0.07667026979811545
+Musik,Andet musik,TVE Internacional,1.0
+Dokumentar,Kriminalprogram,CBS Reality,0.7861002518061979
+Dokumentar,Samfund,CBS Reality,0.2138997481938021
+Livsstil,Livsstil,CBS Reality,0.636262433145374
+Livsstil,Sundhed,CBS Reality,0.363737566854626
+Reality,Docu-soap,CBS Reality,0.03139442437091572
+Reality,Reality,CBS Reality,0.9686055756290842
+Underholdning,Overnaturlig,CBS Reality,0.9943676160820588
+Underholdning,Underholdning,CBS Reality,0.0056323839179412034
+Fritid,Antikviteter,CBS Reality,1.0
+Sport,Ekstremsport,CBS Reality,1.0
+Natur & Videnskab,Natur,CBS Reality,1.0
+Dokumentar,Raportage,Lokalkanalen,1.0
+Film,Action,C More First HD,0.24130330845127554
+Film,Animation,C More First HD,0.0029604253918793723
+Film,Dokumentar,C More First HD,0.02004907701499102
+Film,Drama,C More First HD,0.2587434951210701
+Film,Familiefilm,C More First HD,0.011668541608640991
+Film,Fantasy,C More First HD,0.017201793403286186
+Film,Gyser,C More First HD,0.03724936775400926
+Film,Komedie,C More First HD,0.12750389167947393
+Film,Krig,C More First HD,0.0021718802192723058
+Film,Krimi,C More First HD,0.06766364610524006
+Film,Musical,C More First HD,0.009984496924355615
+Film,Musik,C More First HD,0.002041590388040065
+Film,Romantik,C More First HD,0.003811994071724287
+Film,Science Fiction,C More First HD,0.046674873570690056
+Film,Thriller,C More First HD,0.1509716182960512
+Serier,Action,C More First HD,0.09729855357777595
+Serier,Drama,C More First HD,0.19989245253784668
+Serier,Fantasy,C More First HD,0.002182848914044058
+Serier,Gyser,C More First HD,0.0712000656221803
+Serier,Komedie,C More First HD,0.037987951038562146
+Serier,Krimi,C More First HD,0.1324200913242009
+Serier,Thriller,C More First HD,0.45901803698538995
+Kultur & Historie,Film,C More First HD,0.1178351664324822
+Kultur & Historie,Historie,C More First HD,0.421754929986918
+Kultur & Historie,Kunst,C More First HD,0.13081060128882213
+Kultur & Historie,Magasin,C More First HD,0.3295993022917777
+Underholdning,Underholdning,C More First HD,1.0
+Dokumentar,Musik,C More First HD,0.21335987021458078
+Dokumentar,Samfund,C More First HD,0.7866401297854192
+Livsstil,Kendisser,C More First HD,0.8140201425102503
+Livsstil,Mode,C More First HD,0.1859798574897496
+Børn & Ungdom,Animation,C More First HD,0.7754621368924417
+Børn & Ungdom,Skolebørn,C More First HD,0.22453786310755836
+Børn & Ungdom,Animation,KI.KA,0.1972795437744218
+Børn & Ungdom,Blandede bolcher,KI.KA,0.7152328651388742
+Børn & Ungdom,Småbørn,KI.KA,0.005045939381138452
+Børn & Ungdom,Undervisning,KI.KA,0.08244165170556553
+Film,Fantasy,KI.KA,0.08594014680971203
+Film,Komedie,KI.KA,0.9140598531902879
+Musik,Populærmusik,club MTV,1.0
+Dokumentar,Raportage,Kanal Nord,1.0
+Børn & Ungdom,Blandede bolcher,Kanal Nord,1.0
+Nyheder & Aktualitet,Magasin,Kanal Nord,0.8488204697353019
+Nyheder & Aktualitet,Samfund,Kanal Nord,0.1511795302646981
+Livsstil,Livsstil,Kanal Nord,1.0
+Dokumentar,Raportage,Hovedstaden,1.0
+Nyheder & Aktualitet,Politik,Hovedstaden,1.0
+Kultur & Historie,Kultur,Hovedstaden,1.0
+Sport,Anden sport,DR Event 2,0.018552710627897755
+Sport,EM,DR Event 2,0.0356982400035018
+Sport,Fodbold,DR Event 2,0.08166277132480348
+Sport,Håndbold,DR Event 2,0.7585332766790025
+Sport,Ishockey,DR Event 2,0.030963693468388877
+Sport,Ridning,DR Event 2,0.07018083419256646
+Sport,Rugby,DR Event 2,0.0044084737038390985
+Nyheder & Aktualitet,Magasin,DR Event 2,1.0
+Musik,Populærmusik,MTV Hits,1.0
+Musik,Country,MTV Live HD,0.000696464592844251
+Musik,Magasin,MTV Live HD,0.011058498779063595
+Musik,Populærmusik,MTV Live HD,0.9882450366280922
+Livsstil,Kendisser,MTV Live HD,1.0
+Dokumentar,Musik,MTV Live HD,1.0
+Nyheder & Aktualitet,Aktuelt,MTV Live HD,1.0
+Nyheder & Aktualitet,Aktuelt,Aljazeera,0.1157750342935528
+Nyheder & Aktualitet,Magasin,Aljazeera,0.39643347050754457
+Nyheder & Aktualitet,Nyheder,Aljazeera,0.4877914951989026
+Sport,VM,Aljazeera,1.0
+Dokumentar,Samfund,Aljazeera,1.0
+Nyheder & Aktualitet,Samfund,ESC/ESC1,1.0
+Musik,Jazz,Mezzo,0.11136685187247611
+Musik,Klassisk,Mezzo,0.5913180136367574
+Musik,Magasin,Mezzo,0.06341545911653941
+Musik,Opera,Mezzo,0.2338996753742271
+Kultur & Historie,Kunst,Mezzo,1.0
+Dokumentar,Musik,Mezzo,1.0
+Natur & Videnskab,Teknik,Travel Channel,1.0
+Kultur & Historie,Historie,Travel Channel,1.0
+Underholdning,Overnaturlig,Travel Channel,1.0
+Nyheder & Aktualitet,Magasin,Euronews,0.018809677650944073
+Nyheder & Aktualitet,Nyheder,Euronews,0.9226075095125278
+Nyheder & Aktualitet,Politik,Euronews,0.05858281283652811
+Dokumentar,Samfund,Euronews,1.0
